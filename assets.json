@@ -304,6 +304,41 @@
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
+      "networkName": "Ethereum",
+      "assetId": "45c464d5-6bdc-497d-a4e6-ae1fa8e75cff",
+      "assetSymbol": "MIC",
+      "assetName": "Magic Internet Cash",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27033.png",
+      "contractAddress": "0x285db79fa7e0e89e822786f48a7c98c6c1dc1c7d",
+      "assetDecimal": "18",
+      "chainId": "1",
+      "price":0.0007479
+    },
+    {
+      "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
+      "networkName": "Ethereum",
+      "assetId": "45c464d5-6bdc-497d-a4e6-ae1fa8e75cff",
+      "assetSymbol": "LOLA",
+      "assetName": "LOLA",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27043.png",
+      "contractAddress": "0x3352eb2febca75e40ab8b028701473e2d7de680a",
+      "assetDecimal": "18",
+      "chainId": "1",
+      "price":0.000002543
+    },
+    {
+      "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
+      "networkName": "BNB Smart Chain (BEP20)",
+      "assetId": "45c464d5-6bdc-497d-a4e6-ae1fa8e75cff",
+      "assetSymbol": "BossBaby",
+      "assetName": "Boss Baby",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27057.png",
+      "contractAddress": "0xD8dBE5AC60cD1c0b40C9182cB3eB2392d3df371F",
+      "assetDecimal": "18",
+      "chainId": "56",
+      "price":0.0000000001092
+    },
+    {
       "networkName": "BNB Smart Chain (BEP20)",
       "assetId": "45c464d5-6bdc-497d-a4e6-ae1fa8e75cff",
       "assetSymbol": "PLANET",
