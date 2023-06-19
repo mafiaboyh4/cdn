@@ -325,5 +325,17 @@
       "assetDecimal": "18",
       "chainId": "1",
       "price":0.000002543
+    },
+    {
+      "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
+      "networkName": "BNB Smart Chain (BEP20)",
+      "assetId": "45c464d5-6bdc-497d-a4e6-ae1fa8e75cff",
+      "assetSymbol": "BossBaby",
+      "assetName": "Boss Baby",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27057.png",
+      "contractAddress": "0xD8dBE5AC60cD1c0b40C9182cB3eB2392d3df371F",
+      "assetDecimal": "18",
+      "chainId": "56",
+      "price":0.0000000001092
     }
 ]
