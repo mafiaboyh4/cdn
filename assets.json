@@ -348,5 +348,17 @@
       "assetDecimal": "18",
       "chainId": "56",
       "price":0.00007468
+    },
+    {
+      "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
+      "networkName": "Ethereum",
+      "assetId": "45c464d5-6bdc-497d-a4e6-ae1fa8e75cff",
+      "assetSymbol": "BURNS",
+      "assetName": "Mr Burns",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27079.png",
+      "contractAddress": "0x130740FCBD6f002CE4cFF78E6465c851bDBb8Ec8",
+      "assetDecimal": "18",
+      "chainId": "1",
+      "price":0.0000000000002811
     }
 ]
