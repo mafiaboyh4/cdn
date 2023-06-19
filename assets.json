@@ -313,5 +313,17 @@
       "assetDecimal": "18",
       "chainId": "1",
       "price":0.0007479
+    },
+    {
+      "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
+      "networkName": "Ethereum",
+      "assetId": "45c464d5-6bdc-497d-a4e6-ae1fa8e75cff",
+      "assetSymbol": "LOLA",
+      "assetName": "LOLA",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27043.png",
+      "contractAddress": "0x3352eb2febca75e40ab8b028701473e2d7de680a",
+      "assetDecimal": "18",
+      "chainId": "1",
+      "price":0.000002543
     }
 ]
