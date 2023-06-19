@@ -301,5 +301,17 @@
       "assetDecimal": "18",
       "chainId": "56",
       "price":0.02106862
+    },
+    {
+      "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
+      "networkName": "BNB Smart Chain (BEP20)",
+      "assetId": "45c464d5-6bdc-497d-a4e6-ae1fa8e75cff",
+      "assetSymbol": "PLANET",
+      "assetName": "PLANET",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27081.png",
+      "contractAddress": "0xca6d678e74f553f0e59cccc03ae644a3c2c5ee7d",
+      "assetDecimal": "18",
+      "chainId": "56",
+      "price":0.00007468
     }
 ]
