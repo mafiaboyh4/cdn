@@ -360,5 +360,17 @@
       "assetDecimal": "18",
       "chainId": "1",
       "price":0.0000000000002811
+    },
+    {
+      "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
+      "networkName": "Ethereum",
+      "assetId": "45c464d5-6bdc-497d-a4e6-ae1fa8e75cff",
+      "assetSymbol": "SWITCH",
+      "assetName": "Chainswitch ",
+      "assetLogo": "https://assets.coingecko.com/coins/images/30778/small/chainswitch_loho.png?1687167252",
+      "contractAddress": "0x36feca97a4e81f4e1260119fae0c572a98832285",
+      "assetDecimal": "18",
+      "chainId": "1",
+      "price":0.02283614
     }
 ]
