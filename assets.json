@@ -373,5 +373,17 @@
       "assetDecimal": "18",
       "chainId": "1",
       "price":0.02283614
+    },
+    {
+      "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
+      "networkName": "Ethereum",
+      "assetId": "45c464d5-6bdc-497d-a4e6-ae1fa8e75cff",
+      "assetSymbol": "SCAM",
+      "assetName": "SCAM ",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27094.png",
+      "contractAddress": "0x590f00eDc668D5af987c6076c7302C42B6FE9DD3",
+      "assetDecimal": "18",
+      "chainId": "1",
+      "price":0.01233
     }
 ]
