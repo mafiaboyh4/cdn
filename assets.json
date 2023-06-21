@@ -421,5 +421,29 @@
       "assetDecimal": "18",
       "chainId": "1",
       "price":0.0006531
+    },
+    {
+      "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
+      "networkName": "BNB Smart Chain (BEP20)",
+      "assetId": "45c464d5-6bdc-497d-a4e6-ae1fa8e75cff",
+      "assetSymbol": "PLXY",
+      "assetName": "Plxyer",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27070.png",
+      "contractAddress": "0xac4FF793053c9fe8163020Df5054865d925f9bbD",
+      "assetDecimal": "18",
+      "chainId": "56",
+      "price":0.0264
+    },
+    {
+      "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
+      "networkName": "Ethereum",
+      "assetId": "45c464d5-6bdc-497d-a4e6-ae1fa8e75cff",
+      "assetSymbol": "BUBU",
+      "assetName": "BUBU",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27124.png",
+      "contractAddress": "0x5395df198fCbC9C13bEC506004C9A8B6460A7712",
+      "assetDecimal": "18",
+      "chainId": "1",
+      "price":0.01258
     }
 ]
