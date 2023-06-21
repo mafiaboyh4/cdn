@@ -385,5 +385,29 @@
       "assetDecimal": "18",
       "chainId": "1",
       "price":0.01233
+    },
+    {
+      "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
+      "networkName": "BNB Smart Chain (BEP20)",
+      "assetId": "45c464d5-6bdc-497d-a4e6-ae1fa8e75cff",
+      "assetSymbol": "PIN",
+      "assetName": "Pin Token",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27109.png",
+      "contractAddress": "0xB86126b872E3F23bC62D6A4a3152Ec65202a2073",
+      "assetDecimal": "18",
+      "chainId": "56",
+      "price":26.06
+    },
+    {
+      "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
+      "networkName": "Ethereum",
+      "assetId": "45c464d5-6bdc-497d-a4e6-ae1fa8e75cff",
+      "assetSymbol": "SWP",
+      "assetName": "Swype",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27108.png",
+      "contractAddress": "0x6f73b8e9f14ffc355afcdeca72c08b019779efa3",
+      "assetDecimal": "18",
+      "chainId": "1",
+      "price":0.000393
     }
 ]
