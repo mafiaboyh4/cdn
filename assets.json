@@ -469,5 +469,17 @@
       "assetDecimal": "18",
       "chainId": "1",
       "price":0.000000009958
+    },
+    {
+      "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
+      "networkName": "Ethereum",
+      "assetId": "45c464d5-6bdc-497d-a4e6-ae1fa8e75cff",
+      "assetSymbol": "POWELL",
+      "assetName": "Jerome Powell ",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27157.png",
+      "contractAddress": "0xabd893c19423b35bf5eb0ae00e90a1bb86ae68c9",
+      "assetDecimal": "18",
+      "chainId": "1",
+      "price":0.002175
     }
 ]
