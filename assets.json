@@ -445,5 +445,29 @@
       "assetDecimal": "18",
       "chainId": "1",
       "price":0.01258
+    },
+    {
+      "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
+      "networkName": "Ethereum",
+      "assetId": "45c464d5-6bdc-497d-a4e6-ae1fa8e75cff",
+      "assetSymbol": "QUANT",
+      "assetName": "Quant Finance",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27149.png",
+      "contractAddress": "0x4E69365007eE6560D01D174B608bF9ac13D58F37",
+      "assetDecimal": "18",
+      "chainId": "1",
+      "price":0.2392
+    },
+    {
+      "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
+      "networkName": "Ethereum",
+      "assetId": "45c464d5-6bdc-497d-a4e6-ae1fa8e75cff",
+      "assetSymbol": "BULLS",
+      "assetName": "Bull Coin ",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27144.png",
+      "contractAddress": "0xf84210B3F764fe9F40475C118Ca37d26ceacC80D",
+      "assetDecimal": "18",
+      "chainId": "1",
+      "price":0.000000009958
     }
 ]
