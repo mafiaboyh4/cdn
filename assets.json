@@ -481,5 +481,29 @@
       "assetDecimal": "18",
       "chainId": "1",
       "price":0.003112
+    },
+    {
+      "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
+      "networkName": "Ethereum",
+      "assetId": "45c464d5-6bdc-497d-a4e6-ae1fa8e75cff",
+      "assetSymbol": "PAAL",
+      "assetName": "PAAL AI",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27178.png",
+      "contractAddress": "0x6f3c0D29e27BD76b45063EC6F4641F07F260AE5A",
+      "assetDecimal": "18",
+      "chainId": "1",
+      "price":0.00931
+    },
+    {
+      "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
+      "networkName": "Ethereum",
+      "assetId": "45c464d5-6bdc-497d-a4e6-ae1fa8e75cff",
+      "assetSymbol": "ONLYUP",
+      "assetName": "MOONMAN",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27177.png",
+      "contractAddress": "0x44f6ec0fd3b0593ef4f7cc018302b4cdfc0a40e5",
+      "assetDecimal": "18",
+      "chainId": "1",
+      "price":0.00002871
     }
 ]
