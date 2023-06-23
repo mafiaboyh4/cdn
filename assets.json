@@ -498,12 +498,12 @@
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
       "networkName": "Ethereum",
       "assetId": "45c464d5-6bdc-497d-a4e6-ae1fa8e75cff",
-      "assetSymbol": "ONLYUP",
-      "assetName": "MOONMAN",
-      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27177.png",
-      "contractAddress": "0x44f6ec0fd3b0593ef4f7cc018302b4cdfc0a40e5",
+      "assetSymbol": "SaitaBit",
+      "assetName": "SAITABIT",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27180.png",
+      "contractAddress": "0x927402ab67c0cda3c187e9dfe34554ac581441f2",
       "assetDecimal": "18",
       "chainId": "1",
-      "price":0.00002871
+      "price":0.0003567
     }
 ]
