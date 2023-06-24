@@ -517,5 +517,17 @@
       "assetDecimal": "18",
       "chainId": "1",
       "price":0.00002165
+    },
+    {
+      "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
+      "networkName": "Ethereum",
+      "assetId": "45c464d5-6bdc-497d-a4e6-ae1fa8e75cff",
+      "assetSymbol": "PEPEGO",
+      "assetName": "PEPEMON GO",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27172.png",
+      "contractAddress": "0xbF3079A21D7E3C4041F538A73957a4ce5517eD6d",
+      "assetDecimal": "18",
+      "chainId": "1",
+      "price":3.68
     }
 ]
