@@ -348,7 +348,7 @@
       "contractAddress": "0xca6d678e74f553f0e59cccc03ae644a3c2c5ee7d",
       "assetDecimal": "18",
       "chainId": "56",
-      "price":0.0000794
+      "price":0.00006786
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -360,7 +360,7 @@
       "contractAddress": "0x130740FCBD6f002CE4cFF78E6465c851bDBb8Ec8",
       "assetDecimal": "18",
       "chainId": "1",
-      "price":0.00000000000004304
+      "price":0.00000000000004336
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -372,7 +372,7 @@
       "contractAddress": "0x36feca97a4e81f4e1260119fae0c572a98832285",
       "assetDecimal": "18",
       "chainId": "1",
-      "price":0.018161888661
+      "price":0.01734075
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -384,7 +384,7 @@
       "contractAddress": "0x590f00eDc668D5af987c6076c7302C42B6FE9DD3",
       "assetDecimal": "18",
       "chainId": "1",
-      "price":0.009675
+      "price":0.004778
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -396,7 +396,7 @@
       "contractAddress": "0xB86126b872E3F23bC62D6A4a3152Ec65202a2073",
       "assetDecimal": "18",
       "chainId": "56",
-      "price":23.80
+      "price":28.94
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -408,7 +408,7 @@
       "contractAddress": "0x6f73b8e9f14ffc355afcdeca72c08b019779efa3",
       "assetDecimal": "18",
       "chainId": "1",
-      "price":0.0003823
+      "price":0.001229
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -420,7 +420,7 @@
       "contractAddress": "0x422b19a9829fffc858f91b43add8fe98b2d877fc",
       "assetDecimal": "18",
       "chainId": "1",
-      "price":0.000521
+      "price":0.0001184
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -432,7 +432,7 @@
       "contractAddress": "0xac4FF793053c9fe8163020Df5054865d925f9bbD",
       "assetDecimal": "18",
       "chainId": "56",
-      "price":0.0315
+      "price":0.02571
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -444,7 +444,7 @@
       "contractAddress": "0x5395df198fCbC9C13bEC506004C9A8B6460A7712",
       "assetDecimal": "18",
       "chainId": "1",
-      "price":0.01278
+      "price":0.0102
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -456,7 +456,7 @@
       "contractAddress": "0x4E69365007eE6560D01D174B608bF9ac13D58F37",
       "assetDecimal": "18",
       "chainId": "1",
-      "price":0.2813
+      "price":0.1189
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -468,7 +468,7 @@
       "contractAddress": "0xf84210B3F764fe9F40475C118Ca37d26ceacC80D",
       "assetDecimal": "18",
       "chainId": "1",
-      "price":0.000000007688
+      "price":0.000000002975
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -480,7 +480,7 @@
       "contractAddress": "0xabd893c19423b35bf5eb0ae00e90a1bb86ae68c9",
       "assetDecimal": "18",
       "chainId": "1",
-      "price":0.003112
+      "price":0.0005606
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -492,7 +492,7 @@
       "contractAddress": "0x6f3c0D29e27BD76b45063EC6F4641F07F260AE5A",
       "assetDecimal": "18",
       "chainId": "1",
-      "price":0.00931
+      "price":0.004573
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -504,7 +504,7 @@
       "contractAddress": "0x927402ab67c0cda3c187e9dfe34554ac581441f2",
       "assetDecimal": "18",
       "chainId": "1",
-      "price":0.0003567
+      "price":0.0003685
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
