@@ -469,17 +469,5 @@
       "assetDecimal": "18",
       "chainId": "1",
       "price":0.000000009958
-    },
-    {
-      "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
-      "networkName": "Ethereum",
-      "assetId": "45c464d5-6bdc-497d-a4e6-ae1fa8e75cff",
-      "assetSymbol": "9GAG",
-      "assetName": "9GAG ",
-      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27206.png",
-      "contractAddress": "0x5870E247d9910f153b7Ee004702f0Cdc769A60Ef",
-      "assetDecimal": "18",
-      "chainId": "1",
-      "price":0.0000000000007409
     }
 ]
