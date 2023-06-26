@@ -66,12 +66,12 @@
         "networkName": "BNB Smart Chain (BEP20)",
         "assetId": "45c464d5-6bdc-497d-a4e6-ae1fa8e75cff",
         "assetSymbol": "GF",
-        "assetName": "GF",
+        "assetName": "Girlfriend",
         "assetLogo": "https://assets.coingecko.com/coins/images/30642/small/gflogo.png?1686036330",
         "contractAddress": "0xb6307cc320c76101e87456e06557fa939accc71f",
         "assetDecimal": "18",
         "chainId": "56",
-        "price":0.000000197380
+        "price":0.000000237558
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -83,7 +83,7 @@
       "contractAddress": "0x3a36dc12eFaa14a3F692B94f97450594459661b6",
       "assetDecimal": "18",
       "chainId": "56",
-      "price":0.000175
+      "price":0.0001472
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -95,7 +95,7 @@
       "contractAddress": "0x6ab0fcB082e93a2fB84336197cEFF2832D1AeFcF",
       "assetDecimal": "18",
       "chainId": "1",
-      "price":0.00000007077
+      "price":0.00000008593
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -107,31 +107,31 @@
       "contractAddress": "0x41912648442e1800d90f5e76b4c3a45eba1fab49",
       "assetDecimal": "18",
       "chainId": "56",
-      "price":0.000000000137113
+      "price":0.000000000143
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
       "networkName": "BNB Smart Chain (BEP20)",
       "assetId": "45c464d5-6bdc-497d-a4e6-ae1fa8e75cff",
       "assetSymbol": "FSEC",
-      "assetName": "FSEC",
+      "assetName": "Fuck Stupid Egotistical Cocksuckers",
       "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/26931.png",
       "contractAddress": "0xe1902e1c24fd1fc51b256ae416bdaeb1bd67f0bc",
       "assetDecimal": "18",
       "chainId": "56",
-      "price":0.0000003132
+      "price":0.0000002803
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
       "networkName": "BNB Smart Chain (BEP20)",
       "assetId": "45c464d5-6bdc-497d-a4e6-ae1fa8e75cff",
       "assetSymbol": "SCAT",
-      "assetName": "SCAT",
+      "assetName": "Sonic Space Cat",
       "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/26939.png",
       "contractAddress": "0x3513f6a1efd26c4518f65d8ebccb9a0175de1718",
       "assetDecimal": "18",
       "chainId": "56",
-      "price":0.00000000005113
+      "price":0.00000000004853
     },
   
     {
@@ -139,12 +139,12 @@
       "networkName": "Polygon",
       "assetId": "45c464d5-6bdc-497d-a4e6-ae1fa8e75cff",
       "assetSymbol": "CANDY",
-      "assetName": "CANDY",
+      "assetName": "Candy Pocket",
       "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/26858.png",
       "contractAddress": "0x32043520205367a68b527881fA594Bbc714f80ec",
       "assetDecimal": "18",
       "chainId": "137",
-      "price":0.1429
+      "price":0.1371
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -156,7 +156,7 @@
       "contractAddress": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
       "assetDecimal": "18",
       "chainId": "1",
-      "price":0.000000916
+      "price":0.000001455
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -168,7 +168,7 @@
       "contractAddress": "0xe1918c21ad0e6ee0f48a723830a2c5e2f6296f23",
       "assetDecimal": "18",
       "chainId": "56",
-      "price":0.1397
+      "price":0.1785
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -180,7 +180,7 @@
       "contractAddress": "0xe89751b31cd4e2eb7006ce168857f72c8e37bceb",
       "assetDecimal": "18",
       "chainId": "1",
-      "price":0.000001504
+      "price":0.000001695
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -192,7 +192,7 @@
       "contractAddress": "0xc7906c85a26Bed49967649c1850a7E3Ee39b36A1",
       "assetDecimal": "18",
       "chainId": "56",
-      "price":0.0004302
+      "price":0.0003202
     },
    
     {
@@ -205,7 +205,7 @@
       "contractAddress": "0xda8263d8ce3f726233f8b5585bcb86a3120a58b6",
       "assetDecimal": "18",
       "chainId": "1",
-      "price":0.000000001657
+      "price":0.000000001625
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -217,7 +217,7 @@
       "contractAddress": "0x1bd013bd089c2b6b2d30a0e0b545810a5844e761",
       "assetDecimal": "18",
       "chainId": "2",
-      "price":0.00001862
+      "price":0.000016583039
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -229,7 +229,7 @@
       "contractAddress": "0xd115a61a25c059c78cd34b97fab7ab25dfc84bc3",
       "assetDecimal": "18",
       "chainId": "1",
-      "price":0.000000002540
+      "price":0.000000001880
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -241,19 +241,19 @@
       "contractAddress": "0x333a41fcd3d94a6183baff9be296d0640c6bfea6",
       "assetDecimal": "18",
       "chainId": "1",
-      "price":0.00000009816
+      "price":0.0000001071
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
       "networkName": "BNB Smart Chain (BEP20)",
       "assetId": "45c464d5-6bdc-497d-a4e6-ae1fa8e75cff",
       "assetSymbol": "AMC",
-      "assetName": "AMC",
+      "assetName": "AI Meta Club",
       "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/26135.png",
       "contractAddress": "0x299142a6370e1912156E53fBD4f25D7ba49DdcC5",
       "assetDecimal": "18",
       "chainId": "2",
-      "price":1.75
+      "price":2.00
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -277,7 +277,7 @@
       "contractAddress": "0x7b75110aaad66c74bc0be931d4f02cd3822d8ce9",
       "assetDecimal": "18",
       "chainId": "56",
-      "price":0.03565
+      "price":0.03248
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -289,7 +289,7 @@
       "contractAddress": "0x761626b095a85131646403c158d8fe81fc7092d9",
       "assetDecimal": "18",
       "chainId": "56",
-      "price":0.076480
+      "price":0.062542097440
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -301,7 +301,7 @@
       "contractAddress": "0x769c6f0c5c2bcd1b76638bd58e5350f5c94128f3",
       "assetDecimal": "18",
       "chainId": "56",
-      "price":0.01824311
+      "price":0.018928756074
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -313,7 +313,7 @@
       "contractAddress": "0x285db79fa7e0e89e822786f48a7c98c6c1dc1c7d",
       "assetDecimal": "18",
       "chainId": "1",
-      "price":0.000909
+      "price":0.000313
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -325,7 +325,7 @@
       "contractAddress": "0x3352eb2febca75e40ab8b028701473e2d7de680a",
       "assetDecimal": "18",
       "chainId": "1",
-      "price":0.0000005091
+      "price":0.0000003541
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -337,7 +337,7 @@
       "contractAddress": "0xD8dBE5AC60cD1c0b40C9182cB3eB2392d3df371F",
       "assetDecimal": "18",
       "chainId": "56",
-      "price":0.00000000005288
+      "price":0.00000000001308
     },
     {
       "networkName": "BNB Smart Chain (BEP20)",
@@ -348,7 +348,7 @@
       "contractAddress": "0xca6d678e74f553f0e59cccc03ae644a3c2c5ee7d",
       "assetDecimal": "18",
       "chainId": "56",
-      "price":0.0000757
+      "price":0.00006786
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -360,31 +360,31 @@
       "contractAddress": "0x130740FCBD6f002CE4cFF78E6465c851bDBb8Ec8",
       "assetDecimal": "18",
       "chainId": "1",
-      "price":0.0000000000003377
+      "price":0.00000000000004336
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
       "networkName": "Ethereum",
       "assetId": "45c464d5-6bdc-497d-a4e6-ae1fa8e75cff",
       "assetSymbol": "SWITCH",
-      "assetName": "Chainswitch ",
+      "assetName": "Chainswitch",
       "assetLogo": "https://assets.coingecko.com/coins/images/30778/small/chainswitch_loho.png?1687167252",
       "contractAddress": "0x36feca97a4e81f4e1260119fae0c572a98832285",
       "assetDecimal": "18",
       "chainId": "1",
-      "price":0.02283614
+      "price":0.01734075
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
       "networkName": "Ethereum",
       "assetId": "45c464d5-6bdc-497d-a4e6-ae1fa8e75cff",
       "assetSymbol": "SCAM",
-      "assetName": "SCAM ",
+      "assetName": "SCAM",
       "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27094.png",
       "contractAddress": "0x590f00eDc668D5af987c6076c7302C42B6FE9DD3",
       "assetDecimal": "18",
       "chainId": "1",
-      "price":0.01233
+      "price":0.004778
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -396,7 +396,7 @@
       "contractAddress": "0xB86126b872E3F23bC62D6A4a3152Ec65202a2073",
       "assetDecimal": "18",
       "chainId": "56",
-      "price":26.06
+      "price":28.94
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -408,7 +408,7 @@
       "contractAddress": "0x6f73b8e9f14ffc355afcdeca72c08b019779efa3",
       "assetDecimal": "18",
       "chainId": "1",
-      "price":0.000393
+      "price":0.001229
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -420,7 +420,7 @@
       "contractAddress": "0x422b19a9829fffc858f91b43add8fe98b2d877fc",
       "assetDecimal": "18",
       "chainId": "1",
-      "price":0.0006531
+      "price":0.0001184
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -432,7 +432,7 @@
       "contractAddress": "0xac4FF793053c9fe8163020Df5054865d925f9bbD",
       "assetDecimal": "18",
       "chainId": "56",
-      "price":0.0264
+      "price":0.02571
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -444,7 +444,7 @@
       "contractAddress": "0x5395df198fCbC9C13bEC506004C9A8B6460A7712",
       "assetDecimal": "18",
       "chainId": "1",
-      "price":0.01258
+      "price":0.0102
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -456,7 +456,7 @@
       "contractAddress": "0x4E69365007eE6560D01D174B608bF9ac13D58F37",
       "assetDecimal": "18",
       "chainId": "1",
-      "price":0.2392
+      "price":0.1189
     },
     {
       "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
@@ -468,6 +468,78 @@
       "contractAddress": "0xf84210B3F764fe9F40475C118Ca37d26ceacC80D",
       "assetDecimal": "18",
       "chainId": "1",
-      "price":0.000000009958
+      "price":0.000000002975
+    },
+    {
+      "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
+      "networkName": "Ethereum",
+      "assetId": "45c464d5-6bdc-497d-a4e6-ae1fa8e75cff",
+      "assetSymbol": "POWELL",
+      "assetName": "Jerome Powell ",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27157.png",
+      "contractAddress": "0xabd893c19423b35bf5eb0ae00e90a1bb86ae68c9",
+      "assetDecimal": "18",
+      "chainId": "1",
+      "price":0.0005606
+    },
+    {
+      "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
+      "networkName": "Ethereum",
+      "assetId": "45c464d5-6bdc-497d-a4e6-ae1fa8e75cff",
+      "assetSymbol": "PAAL",
+      "assetName": "PAAL AI",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27178.png",
+      "contractAddress": "0x6f3c0D29e27BD76b45063EC6F4641F07F260AE5A",
+      "assetDecimal": "18",
+      "chainId": "1",
+      "price":0.004573
+    },
+    {
+      "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
+      "networkName": "Ethereum",
+      "assetId": "45c464d5-6bdc-497d-a4e6-ae1fa8e75cff",
+      "assetSymbol": "SaitaBit",
+      "assetName": "SAITABIT",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27180.png",
+      "contractAddress": "0x927402ab67c0cda3c187e9dfe34554ac581441f2",
+      "assetDecimal": "18",
+      "chainId": "1",
+      "price":0.0003685
+    },
+    {
+      "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
+      "networkName": "Ethereum",
+      "assetId": "45c464d5-6bdc-497d-a4e6-ae1fa8e75cff",
+      "assetSymbol": "ONLYUP",
+      "assetName": "MOONMAN",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27177.png",
+      "contractAddress": "0x44f6ec0fd3b0593ef4f7cc018302b4cdfc0a40e5",
+      "assetDecimal": "18",
+      "chainId": "1",
+      "price":0.0002017
+    },
+    {
+      "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
+      "networkName": "Ethereum",
+      "assetId": "45c464d5-6bdc-497d-a4e6-ae1fa8e75cff",
+      "assetSymbol": "PEPEGO",
+      "assetName": "PEPEMON GO",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27172.png",
+      "contractAddress": "0xbF3079A21D7E3C4041F538A73957a4ce5517eD6d",
+      "assetDecimal": "18",
+      "chainId": "1",
+      "price":3.68
+    },
+    {
+      "networkId": "cfc035ff-52c3-4357-bebd-02ad6813d123",
+      "networkName": "Ethereum",
+      "assetId": "45c464d5-6bdc-497d-a4e6-ae1fa8e75cff",
+      "assetSymbol": "9GAG",
+      "assetName": "9GAG",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27206.png",
+      "contractAddress": "0x5870E247d9910f153b7Ee004702f0Cdc769A60Ef",
+      "assetDecimal": "18",
+      "chainId": "1",
+      "price":0.0000000000007135
     }
 ]
