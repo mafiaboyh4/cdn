@@ -422,5 +422,14 @@
       "contractAddress": "0xB93ee4522C44Ef4cD7EE8c83B9Fe1A421b4b42C3",
       "chainId": "56",
       "price":0.17
+    },
+    {
+      "networkName": "Ethereum",
+      "assetSymbol": "BIBLE",
+      "assetName": "Raptor",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27239.png",
+      "contractAddress": "0x95e05e2Abbd26943874ac000D87C3D9e115B543c",
+      "chainId": "1",
+      "price":0.0004657
     }
 ]
