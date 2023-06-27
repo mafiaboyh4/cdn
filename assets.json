@@ -431,5 +431,14 @@
       "contractAddress": "0x95e05e2Abbd26943874ac000D87C3D9e115B543c",
       "chainId": "1",
       "price":0.0004657
+    },
+    {
+      "networkName": "Ethereum",
+      "assetSymbol": "CRY",
+      "assetName": "Cryptosis",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27240.png",
+      "contractAddress": "0x0dd7ebd84ed8ccaef9b31448d98f31ef19f46c42",
+      "chainId": "1",
+      "price":0.1171
     }
 ]
