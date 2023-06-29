@@ -470,11 +470,20 @@
     },
     {
       "networkName": "Ethereum",
-      "assetSymbol": "PEPE 3.0 ",
+      "assetSymbol": "PEPE 3.0",
       "assetName": "Pepe 3.0",
       "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27304.png",
       "contractAddress": "0x0e92c90867bf82ebbe66ae0352a4c6d876fb5398",
       "chainId": "1",
       "price":0.000000002785
+    },
+    {
+      "networkName": "Ethereum",
+      "assetSymbol": "PEPE0.5",
+      "assetName": "HALF PEPE",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27306.png",
+      "contractAddress": "0xd882c582beaf161086b8a54533fb9197e4eac59c",
+      "chainId": "1",
+      "price":0.0000000007281
     }
 ]
