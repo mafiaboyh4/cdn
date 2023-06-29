@@ -458,5 +458,14 @@
       "contractAddress": "0x837656c3f5858692cCdce13BA66e09d2685073df",
       "chainId": "56",
       "price":0.1174
+    },
+    {
+      "networkName": "Ethereum",
+      "assetSymbol": "BIRD",
+      "assetName": "Bird Coin",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27302.png",
+      "contractAddress": "0x05443131Be4c67f2a6355e3CaECcAf135E0B43De",
+      "chainId": "1",
+      "price":0.00001401
     }
 ]
