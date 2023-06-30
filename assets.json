@@ -485,5 +485,14 @@
       "contractAddress": "0xd882c582beaf161086b8a54533fb9197e4eac59c",
       "chainId": "1",
       "price":0.0000000007281
+    },
+    {
+      "networkName": "Ethereum",
+      "assetSymbol": "SHIB2.0",
+      "assetName": "SHIB2.0",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27309.png",
+      "contractAddress": "0x34ba042827996821cffeb06477d48a2ff9474483",
+      "chainId": "1",
+      "price":0.003446
     }
 ]
