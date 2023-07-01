@@ -494,5 +494,14 @@
       "contractAddress": "0x34ba042827996821cffeb06477d48a2ff9474483",
       "chainId": "1",
       "price":0.003446
+    },
+    {
+      "networkName": "Ethereum",
+      "assetSymbol": "DOGE3.0",
+      "assetName": "Dogecoin 3.0",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27328.png",
+      "contractAddress": "0x820ba67398c3eA745EB8766FD3F444A92d4de316",
+      "chainId": "1",
+      "price":0.00000000001048
     }
 ]
