@@ -503,5 +503,14 @@
       "contractAddress": "0x820ba67398c3eA745EB8766FD3F444A92d4de316",
       "chainId": "1",
       "price":0.00000000001048
+    },
+    {
+      "networkName": "Ethereum",
+      "assetSymbol": "RAP",
+      "assetName": "Philosoraptor",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27361.png",
+      "contractAddress": "0xB1e4A5f70090947e6Ad3fa2Dc648cBa7B6F913E9",
+      "chainId": "1",
+      "price":0.0005139
     }
 ]
