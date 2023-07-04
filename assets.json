@@ -512,5 +512,14 @@
       "contractAddress": "0xB1e4A5f70090947e6Ad3fa2Dc648cBa7B6F913E9",
       "chainId": "1",
       "price":0.0005139
+    },
+    {
+      "networkName": "Ethereum",
+      "assetSymbol": "BEB",
+      "assetName": "Billion Elon Baby",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27377.png",
+      "contractAddress": "0x4D8e3e73F3Dbcf158CE53D0302898132bE4A0E0f",
+      "chainId": "1",
+      "price":0.0006442
     }
 ]
