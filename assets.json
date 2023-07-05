@@ -539,5 +539,14 @@
       "contractAddress": "0xa8388b8334BEB4840D65eD80F858B080dFFD7e2B",
       "chainId": "1",
       "price":0.000000001234
+    },
+    {
+      "networkName": "Ethereum",
+      "assetSymbol": "GodFather",
+      "assetName": "GOD",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27441.png",
+      "contractAddress": "0xd6e64961ba13ba42858ad8a74ed9a9b051a4957d",
+      "chainId": "1",
+      "price":0.005929
     }
 ]
