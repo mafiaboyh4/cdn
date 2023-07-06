@@ -548,5 +548,14 @@
       "contractAddress": "0xd6e64961ba13ba42858ad8a74ed9a9b051a4957d",
       "chainId": "1",
       "price":0.005929
+    },
+    {
+      "networkName": "BSC (BEP20)",
+      "assetSymbol": "Babydoge 2.0",
+      "assetName": "BABYDOGE2.0",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27485.png",
+      "contractAddress": "0xa4E068e2B8f58E6c3090174a9E4E95F5bB025CA4",
+      "chainId": "56",
+      "price":0.000000000001941
     }
 ]
