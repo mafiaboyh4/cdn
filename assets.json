@@ -71,6 +71,17 @@
       "price":0.0001472
     },
     {
+      "networkId": "bc08bb60-ebfb-11ed-bd6d-bce92fb9ddda",
+      "networkName": "BSC (BEP20)",
+      "assetId": "db4461d5-4747-436c-9d7c-51c88e597813",
+      "assetSymbol": "BNB",
+      "assetName": "Binance Coin",
+      "assetLogo": "https://etherscan.io/token/images/bnb_28_2.png",
+      "contractAddress": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+      "chainId": "1",
+      "price":null
+    },
+    {
       "networkName": "Ethereum",
       "assetSymbol": "BrainAI",
       "assetName": "BrainAI",
