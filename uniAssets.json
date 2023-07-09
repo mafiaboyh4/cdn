@@ -497,7 +497,7 @@
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27441.png",
         "address": "0xd6e64961ba13ba42858ad8a74ed9a9b051a4957d",
         "chainId": 1,
-        "price":null
+        "price":0.0002864
       },
       {
         "symbol": "Babydoge 2.0",
