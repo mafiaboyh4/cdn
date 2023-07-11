@@ -500,6 +500,14 @@
         "price":0.0002864
       },
       {
+        "symbol": "PEPINU",
+        "name": "Pepe Inu",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27556.png",
+        "address": "0x0981d9774a59a703dB85f5EaA23672283EA31106",
+        "chainId": 1,
+        "price":0.0000007136
+      },
+      {
         "symbol": "Babydoge 2.0",
         "name": "BABYDOGE2.0",
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27485.png",
