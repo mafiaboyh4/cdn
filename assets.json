@@ -71,6 +71,17 @@
       "price":0.0001472
     },
     {
+      "networkId": "bc08bb60-ebfb-11ed-bd6d-bce92fb9ddda",
+      "networkName": "BSC (BEP20)",
+      "assetId": "db4461d5-4747-436c-9d7c-51c88e597813",
+      "assetSymbol": "BNB",
+      "assetName": "Binance Coin",
+      "assetLogo": "https://etherscan.io/token/images/bnb_28_2.png",
+      "contractAddress": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+      "chainId": "1",
+      "price":null
+    },
+    {
       "networkName": "Ethereum",
       "assetSymbol": "BrainAI",
       "assetName": "BrainAI",
@@ -506,11 +517,65 @@
     },
     {
       "networkName": "Ethereum",
+<<<<<<< HEAD
       "assetSymbol": "THREADS",
       "assetName": "Threads",
       "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27580.png",
       "contractAddress": "0x581dafeba7bf8fa69e4387eff5eae9eb6401657c",
       "chainId": "1",
       "price":0.001333
+=======
+      "assetSymbol": "RAP",
+      "assetName": "Philosoraptor",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27361.png",
+      "contractAddress": "0xB1e4A5f70090947e6Ad3fa2Dc648cBa7B6F913E9",
+      "chainId": "1",
+      "price":0.0005139
+    },
+    {
+      "networkName": "Ethereum",
+      "assetSymbol": "BEB",
+      "assetName": "Billion Elon Baby",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27377.png",
+      "contractAddress": "0x4D8e3e73F3Dbcf158CE53D0302898132bE4A0E0f",
+      "chainId": "1",
+      "price":0.0006442
+    },
+    {
+      "networkName": "Ethereum",
+      "assetSymbol": "DOGE2.0",
+      "assetName": "DOGE2.0",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27422.png",
+      "contractAddress": "0x41cbb6cdf5ed49a8481352ec2b1f96df33fea941",
+      "chainId": "1",
+      "price":0.001447
+    },
+    {
+      "networkName": "Ethereum",
+      "assetSymbol": "Son Of Pepe",
+      "assetName": "SOP",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27418.png",
+      "contractAddress": "0xa8388b8334BEB4840D65eD80F858B080dFFD7e2B",
+      "chainId": "1",
+      "price":0.000000001234
+    },
+    {
+      "networkName": "Ethereum",
+      "assetSymbol": "GodFather",
+      "assetName": "GOD",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27441.png",
+      "contractAddress": "0xd6e64961ba13ba42858ad8a74ed9a9b051a4957d",
+      "chainId": "1",
+      "price":0.005929
+    },
+    {
+      "networkName": "BSC (BEP20)",
+      "assetSymbol": "Babydoge 2.0",
+      "assetName": "BABYDOGE2.0",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27485.png",
+      "contractAddress": "0xa4E068e2B8f58E6c3090174a9E4E95F5bB025CA4",
+      "chainId": "56",
+      "price":0.000000000001941
+>>>>>>> a68cc938cc798d33b5cd4f9b13da8df7fb794028
     }
 ]
