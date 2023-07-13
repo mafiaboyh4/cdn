@@ -522,5 +522,13 @@
       "address": "0x581dafeba7bf8fa69e4387eff5eae9eb6401657c",
       "chainId": 1,
       "price":0.001333
+    },
+    {
+      "symbol": "DOGE2.0",
+      "name": "Doge 2.0",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27459.png",
+      "address": "0xF2ec4a773ef90c58d98ea734c0eBDB538519b988",
+      "chainId": 1,
+      "price":0.00000001171
     }
 ]
