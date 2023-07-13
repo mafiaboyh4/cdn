@@ -586,5 +586,14 @@
       "contractAddress": "0xF2ec4a773ef90c58d98ea734c0eBDB538519b988",
       "chainId": "1",
       "price":0.00000001171
+    },
+    {
+      "networkName": "Ethereum",
+      "assetSymbol": "PepeGains",
+      "assetName": "PEPEGAINS",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27583.png",
+      "contractAddress": "0x8c44b722EDe8D6cC9f7b2372cBe10a935E5092b1",
+      "chainId": "1",
+      "price":0.003965
     }
 ]
