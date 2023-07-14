@@ -538,5 +538,13 @@
       "address": "0x8c44b722EDe8D6cC9f7b2372cBe10a935E5092b1",
       "chainId": 1,
       "price":0.003963
+    },
+    {
+      "symbol": "DEDE",
+      "name": "Dede",
+      "logoURI": "https://assets.coingecko.com/coins/images/30976/small/dd_%281%29.png?1689310321",
+      "address": "0x9d7b68970d2be6dc93124477b4e2e1c9a6b180aa",
+      "chainId": 1,
+      "price":0.03705145
     }
 ]
