@@ -546,5 +546,21 @@
       "address": "0x9d7b68970d2be6dc93124477b4e2e1c9a6b180aa",
       "chainId": 1,
       "price":0.03705145
+    },
+    {
+      "symbol": "WOLF",
+      "name": "LandWolf",
+      "logoURI": "https://assets.coingecko.com/coins/images/30982/small/landwolf.jpg?1689326821",
+      "address": "0xf6afc05fccea5a53f22a3e39ffee861e016bd9a0",
+      "chainId": 1,
+      "price":0.00851355
+    },
+    {
+      "symbol": "BTC2.0",
+      "name": "Bitcoin 2.0",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27592.png",
+      "address": "0x3feb4fea5132695542f8ede5076ac43296d17c6d",
+      "chainId": 1,
+      "price":0.1556
     }
 ]
