@@ -548,11 +548,35 @@
       "price":0.03705145
     },
     {
-      "symbol": "Hoppy 2.0",
-      "name": "HOPPY2.0",
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27613.png",
-      "address": "0x7f6bd4a778a7c8ad4bed72237d9612400d7a6c0f",
+      "symbol": "WOLF",
+      "name": "LandWolf",
+      "logoURI": "https://assets.coingecko.com/coins/images/30982/small/landwolf.jpg?1689326821",
+      "address": "0xf6afc05fccea5a53f22a3e39ffee861e016bd9a0",
       "chainId": 1,
-      "price":0.000000001187
+      "price":0.00851355
+    },
+    {
+      "symbol": "BTC2.0",
+      "name": "Bitcoin 2.0",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27592.png",
+      "address": "0x3feb4fea5132695542f8ede5076ac43296d17c6d",
+      "chainId": 1,
+      "price":0.56
+    },
+    {
+      "symbol": "PEPEGAINS",
+      "name": "PepeGains",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27583.png",
+      "address": "0x8c44b722EDe8D6cC9f7b2372cBe10a935E5092b1",
+      "chainId": 1,
+      "price":0.007458
+    },
+    {
+      "symbol": "ECHOES",
+      "name": "Echoes",
+      "logoURI": "https://assets.coingecko.com/coins/images/30994/small/logosmallcircle.png?1689568348",
+      "address": "0xf07ebf00aa847bbb0057b92cb469747e2c7c8a4f",
+      "chainId": 1,
+      "price":0.00000835
     }
 ]

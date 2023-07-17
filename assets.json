@@ -595,5 +595,14 @@
       "contractAddress": "0x8c44b722EDe8D6cC9f7b2372cBe10a935E5092b1",
       "chainId": "1",
       "price":0.003965
+    },
+    {
+      "networkName": "Ethereum",
+      "assetSymbol": "BTC2.0",
+      "assetName": "Bitcoin 2.0",
+      "assetLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27592.png",
+      "contractAddress": "0x3feb4fea5132695542f8ede5076ac43296d17c6d",
+      "chainId": 1,
+      "price":0.56
     }
 ]
