@@ -570,5 +570,13 @@
       "address": "0x8c44b722EDe8D6cC9f7b2372cBe10a935E5092b1",
       "chainId": 1,
       "price":0.007458
+    },
+    {
+      "symbol": "ECHOES",
+      "name": "Echoes",
+      "logoURI": "https://assets.coingecko.com/coins/images/30994/small/logosmallcircle.png?1689568348",
+      "address": "0xf07ebf00aa847bbb0057b92cb469747e2c7c8a4f",
+      "chainId": 1,
+      "price":0.00000835
     }
 ]
