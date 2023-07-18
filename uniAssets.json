@@ -586,5 +586,13 @@
       "address": "0x7f6bd4a778a7c8ad4bed72237d9612400d7a6c0f",
       "chainId": 1,
       "price":0.000000001187
+    },
+    {
+      "symbol": "HANKEY",
+      "name": "Mr. Hankey",
+      "logoURI": "https://assets.coingecko.com/coins/images/30999/small/IMG_6836.jpeg?1689583717",
+      "address": "0x7f6bd4a778a7c8ad4bed72237d9612400d7a6c0f",
+      "chainId": 1,
+      "price":0.00111033
     }
 ]
