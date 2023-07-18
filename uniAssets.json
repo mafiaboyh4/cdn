@@ -594,5 +594,13 @@
         "address": "0x0383e1c4af6fed9f127e901ca982fa61333e932c",
         "chainId": 1,
         "price":0.00111033
+    },
+    {
+        "symbol": "HOPPY",
+        "name": "Hoppy",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27616.png",
+        "address": "0x8C130499D33097D4D000D3332E1672f75b431543",
+        "chainId": 1,
+        "price":0.000000017
     }
 ]
