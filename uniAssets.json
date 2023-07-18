@@ -602,5 +602,13 @@
         "address": "0x8C130499D33097D4D000D3332E1672f75b431543",
         "chainId": 1,
         "price":0.000000017
+    },
+    {
+        "symbol": "BABYDOGE2.0",
+        "name": "Baby Doge 2.0",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27617.png",
+        "address": "0x6036250b1db579ad5f333a130ea5a4ec28b5789e",
+        "chainId": 1,
+        "price":0.00008012
     }
 ]
