@@ -610,5 +610,13 @@
         "address": "0x6036250b1db579ad5f333a130ea5a4ec28b5789e",
         "chainId": 1,
         "price":0.00008012
+    },
+    {
+        "symbol": "THROG",
+        "name": "Throg",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27620.png",
+        "address": "0x47006d880744ddaF285127Ac8DD6255BE7c8DA23",
+        "chainId": 1,
+        "price":0.0000002419
     }
 ]
