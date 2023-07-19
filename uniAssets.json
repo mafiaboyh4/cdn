@@ -618,5 +618,13 @@
         "address": "0x47006d880744ddaF285127Ac8DD6255BE7c8DA23",
         "chainId": 1,
         "price":0.0000002419
+    },
+    {
+        "symbol": "BRIDGE",
+        "name": "Bridge Bot",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27625.png",
+        "address": "0x50d1c8e131dca8b9226c0a0f78947557497374b3",
+        "chainId": 1,
+        "price":0.000002696
     }
 ]
