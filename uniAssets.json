@@ -658,5 +658,13 @@
         "address": "0x4f311c430540db1d64e635eb55f969f1660b2016",
         "chainId": 1,
         "price":0.000000004420
+    },
+    {
+        "symbol": "FRENS",
+        "name": "Farmer Friends",
+        "logoURI": "https://assets.coingecko.com/coins/images/31048/small/FRENS_logo.png?1689862033",
+        "address": "0xd17c18979a45c0f3604331831c409f7bff64d3c1",
+        "chainId": 1,
+        "price":0.02495383
     }
 ]
