@@ -674,5 +674,13 @@
             "address": "0x45750cd6a3bb2206dbeb9cba5e68bf909ac945e3",
           "chainId": 1,
           "price":163.86
+    },
+    {
+          "symbol": "CHIKUN",
+          "name": "Arise Chikun",
+          "logoURI": "https://assets.coingecko.com/coins/images/31043/small/WJyGMMxM_400x400.jpg?1689857335",
+            "address": "0x9a7703338730b82a803ba050df55f9b3959f3fb2",
+          "chainId": 1,
+          "price":0.00276663
     }
 ]
