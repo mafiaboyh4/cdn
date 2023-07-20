@@ -682,5 +682,13 @@
             "address": "0x9a7703338730b82a803ba050df55f9b3959f3fb2",
           "chainId": 1,
           "price":0.00276663
+    },
+    {
+          "symbol": "NBOT",
+          "name": "NitroBot",
+          "logoURI": "https://assets.coingecko.com/coins/images/31035/small/LdysiUUX_400x400.jpg?1689843992",
+            "address": "0xe387140d52ebb0dd729683dc062aefbc5f7f549a",
+          "chainId": 1,
+          "price":0.000000466510
     }
 ]
