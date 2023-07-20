@@ -666,5 +666,13 @@
         "address": "0xd17c18979a45c0f3604331831c409f7bff64d3c1",
         "chainId": 1,
         "price":0.02495383
+    },
+    {
+        "symbol": "XMR",
+        "name": "Monero",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/328.png",
+        "address": "secret19ungtd2c7srftqdwgq0dspwvrw63dhu79qxv88",
+        "chainId": 1,
+        "price":163.86
     }
 ]
