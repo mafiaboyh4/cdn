@@ -634,5 +634,13 @@
         "address": "0xd61e1cafd50e570356dd5f6d679a7bd0535a7fcf",
         "chainId": 1,
         "price":0.0000000000001641
+    },
+    {
+        "symbol": "PEPE XAI",
+        "name": "PEPE xAI",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27629.png",
+        "address": "0x524a7802a3a46a676979eb19b8a1aeb39b42c9ef",
+        "chainId": 1,
+        "price":0.0000000003094
     }
 ]
