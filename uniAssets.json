@@ -626,5 +626,13 @@
         "address": "0x50d1c8e131dca8b9226c0a0f78947557497374b3",
         "chainId": 1,
         "price":0.000002696
+    },
+    {
+        "symbol": "XRP 2.0",
+        "name": "XRP 2.0",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27628.png",
+        "address": "0xd61e1cafd50e570356dd5f6d679a7bd0535a7fcf",
+        "chainId": 1,
+        "price":0.0000000000001641
     }
 ]
