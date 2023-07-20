@@ -642,5 +642,21 @@
         "address": "0x524a7802a3a46a676979eb19b8a1aeb39b42c9ef",
         "chainId": 1,
         "price":0.0000000003094
+    },
+    {
+        "symbol": "THUG",
+        "name": "Thug Life",
+        "logoURI": "https://assets.coingecko.com/coins/images/31036/small/IMG_20230717_172433_167.jpg?1689845663",
+        "address": "0xce9de5365739b1bed5c8546867aee4209fbb8538",
+        "chainId": 1,
+        "price":0.00065305
+    },
+    {
+        "symbol": "PC",
+        "name": "Pepe Chain",
+        "logoURI": "https://assets.coingecko.com/coins/images/31041/small/Pepechain_Token.png?1689856816",
+        "address": "0x4f311c430540db1d64e635eb55f969f1660b2016",
+        "chainId": 1,
+        "price":0.000000004420
     }
 ]
