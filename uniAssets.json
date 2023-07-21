@@ -690,5 +690,13 @@
             "address": "0xe387140d52ebb0dd729683dc062aefbc5f7f549a",
           "chainId": 1,
           "price":0.000000466510
+    },
+    {
+          "symbol": "HAMS",
+          "name": "Hamsters",
+          "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27649.png",
+            "address": "0x48c87cdacb6bb6bf6e5cd85d8ee5c847084c7410",
+          "chainId": 1,
+          "price":0.5398
     }
 ]
