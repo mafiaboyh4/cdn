@@ -714,5 +714,13 @@
           "address": "0xa62894D5196bC44e4C3978400Ad07E7b30352372",
           "chainId": 1,
           "price":0.00001743
-    }
+    },
+    {
+      "symbol": "X2.0",
+      "name": "X 2.0",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27744.png",
+      "address": "0xff30a1cf914a4a4e3b5514cd167bd2e69607e173",
+      "chainId": 1,
+      "price":0.000000125
+  }
 ]
