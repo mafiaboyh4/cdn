@@ -722,5 +722,13 @@
       "address": "0xff30a1cf914a4a4e3b5514cd167bd2e69607e173",
       "chainId": 1,
       "price":0.000000125
-  }
+    },
+    {
+      "symbol": "XEPE",
+      "name": "Xepe",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27749.png",
+      "address": "0xdcC407993654C6837E9963048cBa058ea87aAb71",
+      "chainId": 1,
+      "price":0.0001312
+    }
 ]
