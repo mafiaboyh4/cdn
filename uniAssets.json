@@ -730,5 +730,13 @@
       "address": "0xdcC407993654C6837E9963048cBa058ea87aAb71",
       "chainId": 1,
       "price":0.0001312
+    },
+    {
+      "symbol": "BALD2",
+      "name": "Bald 2.0",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27752.png",
+      "address": "0x40d498b7d4df60dabfc442788a1b7211443a4dad",
+      "chainId": 1,
+      "price":0.0003502
     }
 ]
