@@ -428,14 +428,6 @@
       "price":0.00001401
     },
     {
-      "symbol": "PEPE 3.0",
-      "name": "Pepe 3.0",
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27304.png",
-      "address": "0x0e92c90867bf82ebbe66ae0352a4c6d876fb5398",
-      "chainId": 1,
-      "price":0.000000002785
-    },
-    {
       "symbol": "PEPE0.5",
       "name": "HALF PEPE",
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27306.png",
