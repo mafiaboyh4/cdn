@@ -738,5 +738,13 @@
       "address": "0x40d498b7d4df60dabfc442788a1b7211443a4dad",
       "chainId": 1,
       "price":0.0003502
+    },
+    {
+      "symbol": "PEPE 3.0",
+      "name": "PEPE 3.0",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27756.png",
+      "address": "0x1358a12374c4EAa6A429bf44b62c42545825211f",
+      "chainId": 1,
+      "price":0.0000000000003335
     }
 ]
