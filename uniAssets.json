@@ -738,5 +738,14 @@
       "address": "0x1358a12374c4EAa6A429bf44b62c42545825211f",
       "chainId": 1,
       "price":0.0000000000003335
+    },
+    
+{
+      "symbol": "KUKU",
+      "name": "KuKu price",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27758.png",
+      "address": "0xc3071803B9d23460820B516673fd3Cec0415D0ED",
+      "chainId": 1,
+      "price":0.00000002521
     }
 ]
