@@ -754,5 +754,13 @@
       "address": "0xfa4baa6951b6ee382e9ff9af2d523278b99ca6d0",
       "chainId": 1,
       "price":2.18
+    },
+    {
+      "symbol": "AIMBOT",
+      "name": "AimBot",
+      "logoURI": "https://assets.coingecko.com/coins/images/31200/small/200x200.jpg?1691377993",
+      "address": "0x0c48250eb1f29491f1efbeec0261eb556f0973c7",
+      "chainId": 1,
+      "price":3.61
     }
 ]
