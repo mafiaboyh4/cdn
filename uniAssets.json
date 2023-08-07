@@ -739,13 +739,20 @@
       "chainId": 1,
       "price":0.0000000000003335
     },
-    
-{
+    {
       "symbol": "KUKU",
       "name": "KuKu price",
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27758.png",
       "address": "0xc3071803B9d23460820B516673fd3Cec0415D0ED",
       "chainId": 1,
       "price":0.00000002521
+    },
+    {
+      "symbol": "HOUSE",
+      "name": "House",
+      "logoURI": "https://assets.coingecko.com/coins/images/31202/small/hm_icon_200x200.png?1691379190",
+      "address": "0xfa4baa6951b6ee382e9ff9af2d523278b99ca6d0",
+      "chainId": 1,
+      "price":2.18
     }
 ]
