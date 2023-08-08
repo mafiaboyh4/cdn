@@ -770,5 +770,21 @@
         "address": "0x7bd44cf5c0566aab26150a0cd5c3d20c5535686f",
         "chainId": 1,
         "price":0.0003341
+    },
+    {
+        "name": "Kento",
+        "symbol": "KNTO",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27769.png",
+        "address": "0xc740181345c65552333e1edc797e03f11852b1c8",
+        "chainId": 1,
+        "price":0.000000001021
+    },
+    {
+        "name": "X.com",
+        "symbol": "X",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27771.png",
+        "address": "0xaBeC00542D141BDdF58649bfe860C6449807237c",
+        "chainId": 1,
+        "price":0.05016
     }
 ]
