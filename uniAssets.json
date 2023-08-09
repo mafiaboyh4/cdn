@@ -788,11 +788,11 @@
         "price":0.05016
     },
     {
-        "name": "memeguild",
-        "symbol": "MMG",
-        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27797.png",
-        "address": "0x63Bd2b7c7dB1d73887Ba70d6EbF8c33be1B9245E",
-        "chainId": 1,
-        "price":0.000003756
+          "name": "memeguild",
+          "symbol": "MMG",
+          "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27797.png",
+          "address": "0x63Bd2b7c7dB1d73887Ba70d6EbF8c33be1B9245E",
+          "chainId": 1,
+          "price":0.000003756
     }
 ]
