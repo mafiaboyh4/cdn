@@ -810,5 +810,13 @@
       "address": "0xfe6ed1A0bdE1D7181a0343998AE47F3993Ff3A77",
       "chainId": 1,
       "price":0.01043
+    },
+    {
+      "name": "ZEEBU",
+      "symbol": "ZBU",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27765.png",
+      "address": "0x8f9b4525681F3Ea6E43b8E0a57BFfF86c0A1dd2e",
+      "chainId": 1,
+      "price":0.8704
     }
 ]
