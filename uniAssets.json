@@ -834,5 +834,13 @@
       "address": "0x07E0EDf8ce600FB51d44F51E3348D77D67F298ae",
       "chainId": 1,
       "price":0.2662
+    },
+    {
+      "name": "Sonic",
+      "symbol": "SONIC",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27808.png",
+      "address": "0xB619aFCA00272Dcc5EA038E1c105DE39a2e295a2",
+      "chainId": 1,
+      "price":0.0000000000009662
     }
 ]
