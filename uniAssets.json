@@ -826,5 +826,13 @@
       "address": "0x9E64ea4e67371de7Ea8039C6F992f3029836cF4d",
       "chainId": 1,
       "price":0.1099
+    },
+    {
+      "name": "HarryPotterObamaPacMan8Inu",
+      "symbol": "XRP",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27809.png",
+      "address": "0x07E0EDf8ce600FB51d44F51E3348D77D67F298ae",
+      "chainId": 1,
+      "price":0.2662
     }
 ]
