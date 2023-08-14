@@ -842,5 +842,13 @@
       "address": "0xB619aFCA00272Dcc5EA038E1c105DE39a2e295a2",
       "chainId": 1,
       "price":0.0000000000009662
+    },
+    {
+      "name": "Pac Man",
+      "symbol": "PACMAN",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27812.png",
+      "address": "0x8e45A01a5402C2a0B7c4982869B0b43155dB189b",
+      "chainId": 1,
+      "price":0.0000000000004752
     }
 ]
