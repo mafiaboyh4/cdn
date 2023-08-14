@@ -850,5 +850,13 @@
       "address": "0x8e45A01a5402C2a0B7c4982869B0b43155dB189b",
       "chainId": 1,
       "price":0.0000000000004752
+    },
+    {
+      "name": "Kryptonite",
+      "symbol": "SEILOR",
+      "logoURI": "https://assets.coingecko.com/coins/images/31252/small/Kryptonite_PFP-03.png?1692015654",
+      "address": "0xe29142e14e52bdfbb8108076f66f49661f10ec10",
+      "chainId": 56,
+      "price":0.03353289
     }
 ]
