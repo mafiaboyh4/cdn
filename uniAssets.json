@@ -858,5 +858,21 @@
       "address": "0xe29142e14e52bdfbb8108076f66f49661f10ec10",
       "chainId": 56,
       "price":0.03353289
+    },
+    {
+      "name": "Ketaicoin",
+      "symbol": "ETHEREUM",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27840.png",
+      "address": "0xDC5E9445169C73Cf21e1da0B270e8433caC69959",
+      "chainId": 1,
+      "price":0.000000004176
+    },
+    {
+      "name": "LINQ",
+      "symbol": "LINQ",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27845.png",
+      "address": "0x3e34eabF5858a126cb583107E643080cEE20cA64",
+      "chainId": 1,
+      "price":0.02642
     }
 ]
