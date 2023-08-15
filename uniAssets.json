@@ -882,5 +882,13 @@
       "address": "0x66e6782411e0e4829bf9610980f9864cd085e1a1",
       "chainId": 1,
       "price":0.003282
+    },
+    {
+      "name": "Cyberconnect",
+      "symbol": "CYBER",
+      "logoURI": "https://assets.coingecko.com/coins/images/31274/small/cyberconnect.png?1692101771",
+      "address": "0x14778860e937f509e651192a90589de711fb88a9",
+      "chainId": 1,
+      "price":4.75
     }
 ]
