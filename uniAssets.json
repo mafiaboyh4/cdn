@@ -890,5 +890,29 @@
       "address": "0x14778860e937f509e651192a90589de711fb88a9",
       "chainId": 1,
       "price":4.75
+    },
+    {
+      "name": "AimBot",
+      "symbol": "AIMBOT",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27852.png",
+      "address": "0x0c48250Eb1f29491F1eFBeEc0261eb556f0973C7",
+      "chainId": 1,
+      "price":5.16
+    },
+    {
+      "name": "None Trading",
+      "symbol": "NONE",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27851.png",
+      "address": "0x903ff0ba636E32De1767A4B5eEb55c155763D8B7",
+      "chainId": 1,
+      "price":17.19
+    },
+    {
+      "name": "spurdo",
+      "symbol": "SPURDO",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27855.png",
+      "address": "0x59C6766de1Dc50a9c9DB86CB0461b5Ce07408aB7",
+      "chainId": 1,
+      "price":0.00000003619
     }
 ]
