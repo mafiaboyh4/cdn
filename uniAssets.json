@@ -930,5 +930,13 @@
       "address": "0xC81b0d02393a956234E24564805a896f14ad1250",
       "chainId": 1,
       "price":0.0008795
+    },
+    {
+      "name": "Sybulls",
+      "symbol": "SYBL",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27865.png",
+      "address": "0xCa4B70BEcCAbcE29efa5bC5C86311E5D38461842",
+      "chainId": 1,
+      "price":4.05
     }
 ]
