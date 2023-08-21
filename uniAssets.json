@@ -988,19 +988,19 @@
       "price":0.04106
     },
     {
+      "name": "Shibarium Token",
+      "symbol": "SHIBARIUM",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27886.png",
+      "address": "0xa3f65eb155cded22e4dc0aaa0480d568d5516391",
+      "chainId": 1,
+      "price":0.001065
+    },
+    {
       "name": "INOFi",
       "symbol": "FON",
       "logoURI": "https://assets.coingecko.com/coins/images/31343/small/FON.png?1692606636",
       "address": "0xa4be4cdc552891a6702e1ae9645ef445179a4463",
       "chainId": 1,
       "price":0.559087
-    },
-    {
-          "name": "Shibarium Token",
-          "symbol": "SHIBARIUM",
-          "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27886.png",
-          "address": "0xa3f65eb155cded22e4dc0aaa0480d568d5516391",
-          "chainId": 1,
-          "price":0.001065
     }
 ]
