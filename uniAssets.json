@@ -986,5 +986,13 @@
       "address": "0x607229dB773Fa901215175aEB09A3A5695F813C7",
       "chainId": 1,
       "price":0.0001501
+    },
+    {
+      "name": "0xS",
+      "symbol": "$0XS",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27880.png",
+      "address": "0x456815812b3129a4389ea4d73e9706697cc91373",
+      "chainId": 1,
+      "price":0.04106
     }
 ]
