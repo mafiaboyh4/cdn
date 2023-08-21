@@ -876,14 +876,6 @@
       "price":0.02642
     },
     {
-      "name": "Shibarium Token",
-      "symbol": "SHIBARIUM",
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27849.png",
-      "address": "0x66e6782411e0e4829bf9610980f9864cd085e1a1",
-      "chainId": 1,
-      "price":0.003282
-    },
-    {
       "name": "Cyberconnect",
       "symbol": "CYBER",
       "logoURI": "https://assets.coingecko.com/coins/images/31274/small/cyberconnect.png?1692101771",
@@ -1002,5 +994,13 @@
       "address": "0xa4be4cdc552891a6702e1ae9645ef445179a4463",
       "chainId": 1,
       "price":0.559087
+    },
+    {
+      "name": "Shibarium Token",
+      "symbol": "SHIBARIUM",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27886.png",
+      "address": "0xa3f65eb155cded22e4dc0aaa0480d568d5516391",
+      "chainId": 1,
+      "price":0.001065
     }
 ]
