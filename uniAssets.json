@@ -1002,5 +1002,13 @@
       "address": "0xa4be4cdc552891a6702e1ae9645ef445179a4463",
       "chainId": 1,
       "price":0.559087
+    },
+    {
+      "name": "shares.finance",
+      "symbol": "SHARES",
+      "logoURI": "https://assets.coingecko.com/coins/images/31379/small/shares.jpeg?1692701121",
+      "address": "0xebb82c932759b515b2efc1cfbb6bf2f6dbace404",
+      "chainId": 1,
+      "price":12.34
     }
 ]
