@@ -1018,5 +1018,13 @@
       "address": "0xfcaf0e4498e78d65526a507360f755178b804ba8",
       "chainId": 1,
       "price":0.00245618
+    },
+    {
+      "name": "Baby Shiba Inu",
+      "symbol": "BABYSHIB",
+      "logoURI": "https://assets.coingecko.com/coins/images/31350/small/100x100_%287%29_%282%29.png?1692611192",
+      "address": "0x00000000051b48047be6dc0ada6de5c3de86a588",
+      "chainId": 1,
+      "price":0.00526978
     }
 ]
