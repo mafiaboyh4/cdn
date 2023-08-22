@@ -1010,5 +1010,13 @@
       "address": "0xebb82c932759b515b2efc1cfbb6bf2f6dbace404",
       "chainId": 1,
       "price":12.34
+    },
+    {
+      "name": "NicCageWaluigiElmo42069Inu",
+      "symbol": "SHIB",
+      "logoURI": "https://assets.coingecko.com/coins/images/31378/small/NicCageWaluigiElmo42069Inu.png?1692700503",
+      "address": "0xfcaf0e4498e78d65526a507360f755178b804ba8",
+      "chainId": 1,
+      "price":0.00245618
     }
 ]
