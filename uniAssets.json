@@ -1034,12 +1034,21 @@
       "address": "0x8efe7dd5984640537b6596fb28b762f6c000f184",
       "chainId": 1,
       "price":0.391755
-    },{
+    },
+    {
       "name": "Ethera X",
       "symbol": "ETHERAX",
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27900.png",
       "address": "0x3b11f0B0A99B5B83110Fae19953e0B549CDCcCa9",
       "chainId": 1,
       "price":0.00398
+    },
+    {
+      "name": "Chappie",
+      "symbol": "CHAP",
+      "logoURI": "https://assets.coingecko.com/coins/images/31375/small/Frame_563.png?1692699227",
+      "address": "0x414cbf31c62d99515bfd66497b495a585b52f703",
+      "chainId": 1,
+      "price":0.00177470
     }
 ]
