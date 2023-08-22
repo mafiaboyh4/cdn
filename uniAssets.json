@@ -1026,5 +1026,13 @@
       "address": "0x00000000051b48047be6dc0ada6de5c3de86a588",
       "chainId": 1,
       "price":0.00526978
+    },
+    {
+      "name": "Dark Forest",
+      "symbol": "DARK",
+      "logoURI": "https://assets.coingecko.com/coins/images/31377/small/Dark_Forest.png?1692700360",
+      "address": "0x8efe7dd5984640537b6596fb28b762f6c000f184",
+      "chainId": 1,
+      "price":0.391755
     }
 ]
