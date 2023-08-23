@@ -1050,5 +1050,13 @@
       "address": "0x414cbf31c62d99515bfd66497b495a585b52f703",
       "chainId": 1,
       "price":0.00177470
+    },
+    {
+      "name": "POV Chain",
+      "symbol": "$POVCHAIN",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27902.png",
+      "address": "0x29de166064E1f9467B70bd561e516564A5A9ba3c",
+      "chainId": 1,
+      "price":0.0000000000002255
     }
 ]
