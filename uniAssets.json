@@ -1066,5 +1066,13 @@
       "address": "0x7b744eEa1dECa2f1B7b31F15Ba036Fa1759452d7",
       "chainId": 1,
       "price":0.000000002957
+    },
+    {
+      "name": "RavenFund",
+      "symbol": "RAVEN",
+      "logoURI": "https://assets.coingecko.com/coins/images/31399/small/GECKOLISTINGICON.png?1692764768",
+      "address": "0x43af0944b34ad466dcea7fc8f77aafc6a4ec70fa",
+      "chainId": 1,
+      "price":0.120756
     }
 ]
