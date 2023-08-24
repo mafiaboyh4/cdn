@@ -1082,5 +1082,13 @@
       "address": "0x01E87d74B11f656A673a3E7c441425816213Eb0c",
       "chainId": 1,
       "price":0.001653
+    },
+    {
+      "name": "Mixaverse",
+      "symbol": "MIXCOIN",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27918.png",
+      "address": "0xB3A58Eb551b5F80EC70B7f69aB7B664453271412",
+      "chainId": 1,
+      "price":0.02822
     }
 ]
