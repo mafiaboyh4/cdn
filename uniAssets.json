@@ -1090,5 +1090,13 @@
       "address": "0xB3A58Eb551b5F80EC70B7f69aB7B664453271412",
       "chainId": 1,
       "price":0.02822
+    },
+    {
+      "name": "Shiba Saga",
+      "symbol": "SHIA",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27922.png",
+      "address": "0x43d7e65b8ff49698d9550a7f315c87e67344fb59",
+      "chainId": 1,
+      "price":0.427
     }
 ]
