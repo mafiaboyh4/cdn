@@ -1098,5 +1098,13 @@
       "address": "0x43d7e65b8ff49698d9550a7f315c87e67344fb59",
       "chainId": 1,
       "price":0.427
+    },
+    {
+      "name": "DogeBonk",
+      "symbol": "DOBO",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27923.png",
+      "address": "0x73C6A7491d0dB90Bdb0060308CDE0F49dfD1D0B0",
+      "chainId": 1,
+      "price":0.00889
     }
 ]
