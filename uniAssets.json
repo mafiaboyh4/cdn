@@ -1106,5 +1106,13 @@
       "address": "0x73C6A7491d0dB90Bdb0060308CDE0F49dfD1D0B0",
       "chainId": 1,
       "price":0.00889
+    },
+    {
+      "name": "Golden Inu",
+      "symbol": "GOLDEN",
+      "logoURI": "https://assets.coingecko.com/coins/images/31473/small/200x200_logo_golden_inu.png?1692957205",
+      "address": "0xd87996ff3d06858bfc20989aef50cc5fcd4d84ca",
+      "chainId": 1,
+      "price":0.000000000021008
     }
 ]
