@@ -1114,5 +1114,13 @@
       "address": "0xd87996ff3d06858bfc20989aef50cc5fcd4d84ca",
       "chainId": 1,
       "price":0.000000000021008
+    },
+    {
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27928.png",
+      "address": "0xbe042e9d09cb588331ff911c2b46fd833a3e5bd6",
+      "chainId": 1,
+      "price":0.004635
     }
 ]
