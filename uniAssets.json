@@ -1122,5 +1122,13 @@
       "address": "0xbe042e9d09cb588331ff911c2b46fd833a3e5bd6",
       "chainId": 1,
       "price":0.004748
+    },
+    {
+      "name": "Baby Floki",
+      "symbol": "BABYFLOKI",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27931.png",
+      "address": "0xae83511c4ef07358e2d95b0c219a5f9eb8656a61",
+      "chainId": 1,
+      "price":0.0000000007951
     }
 ]
