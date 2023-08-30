@@ -1146,5 +1146,13 @@
       "address": "0x846422103b109EFbE7DD15F541c3dfc838FC1848",
       "chainId": 1,
       "price":0.0007282
+    }،
+ {
+      "name": "Liquidity Money",
+      "symbol": "LIM",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27948.png",
+      "address": "0x9cdafb9fae77e7c1bd7cf28c389008ca8dacf48c",
+      "chainId": 1,
+      "price":0.002472
     }
 ]
