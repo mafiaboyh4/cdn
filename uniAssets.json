@@ -1163,12 +1163,12 @@
       "chainId": 1,
       "price":0.0000000003042
     },
-    {
-      "name": "MOMO v2",
-      "symbol": "MOMO V2",
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27947.png",
-      "address": "0x08D0222A206D1AeE59A9b66969c04FD1e8A0f864",
-      "chainId": 1,
-      "price":0.000001587
-    }
+      {
+        "name": "MOMO v2",
+        "symbol": "MOMO V2",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27947.png",
+        "address": "0x08D0222A206D1AeE59A9b66969c04FD1e8A0f864",
+        "chainId": 1,
+        "price":0.000001587
+      }
 ]
