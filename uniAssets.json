@@ -1138,5 +1138,13 @@
       "address": "0xa41f7ED89D86258bB8fdeF8e77e91F43c28AB74C",
       "chainId": 1,
       "price":0.0000000002715
+    },
+    {
+      "name": "BABYSHIA",
+      "symbol": "BABYSHIA",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27945.png",
+      "address": "0x846422103b109EFbE7DD15F541c3dfc838FC1848",
+      "chainId": 1,
+      "price":0.0007282
     }
 ]
