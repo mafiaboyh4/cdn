@@ -1170,5 +1170,19 @@
       "address": "0xa0117792d4b100fd329b37e8ab4181df8a5b3326",
       "chainId": 1,
       "price":0.0000000003042
+    },{
+      "name": "BABYTRUMP",
+      "symbol": "BABYTRUMP",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27955.png",
+      "address": "0x354c8cda7e3b737d360513a0dc5abcee8ee1cea3",
+      "chainId": 1,
+      "price":0.005447
+    },{
+      "name": "BlazeX",
+      "symbol": "BLAZEX",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27953.png",
+      "address": "0xdd1b6b259986571a85da82a84f461e1c212591c0",
+      "chainId": 1,
+      "price":0.0007527
     }
 ]
