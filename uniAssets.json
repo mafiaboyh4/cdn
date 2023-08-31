@@ -1184,5 +1184,13 @@
       "address": "0xdd1b6b259986571a85da82a84f461e1c212591c0",
       "chainId": 1,
       "price":0.0007527
+    },
+{
+      "name": "Newsly",
+      "symbol": "NEWS",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27959.png",
+      "address": "0x2f8221e82e0d4669ad66eabf02a5baed43ea49e7",
+      "chainId": 1,
+      "price":0.04394
     }
 ]
