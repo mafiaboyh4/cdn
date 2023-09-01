@@ -1192,5 +1192,12 @@
       "address": "0x2f8221e82e0d4669ad66eabf02a5baed43ea49e7",
       "chainId": 1,
       "price":0.04394
+    },{
+      "name": "Grayscale Bitcoin Trust",
+      "symbol": "GBTC",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27961.png",
+      "address": "0xB3fcdFB6dB85847619E3DC20084Faba152ffeaFA",
+      "chainId": 1,
+      "price":0.0011
     }
 ]
