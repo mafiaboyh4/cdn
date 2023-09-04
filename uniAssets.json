@@ -1215,5 +1215,13 @@
     "address": "0x16537596d037f9343413d083be84e4Ed7243e975",
     "chainId": 1,
     "price": 0.0000000000001267
+  },
+  {
+    "name": "EmotiCoin",
+    "symbol": "EMOTI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27965.png",
+    "address": "0x9b0e1c344141fb361b842d397df07174e1cdb988",
+    "chainId": 1,
+    "price": 0.0000000007795
   }
 ]
