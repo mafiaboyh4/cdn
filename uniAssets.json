@@ -1231,5 +1231,37 @@
     "address": "0xB2492E97a68a6E4B9E9a11B99F6C42E5aCCD38c7",
     "chainId": 1,
     "price": 0.5605
+  },
+  {
+    "name": "FrenBot",
+    "symbol": "MEF",
+    "logoURI": "https://assets.coingecko.com/coins/images/31573/small/frenbot_200x200.png?1693810840",
+    "address": "0xca5001bc5134302dbe0f798a2d0b95ef3cf0803f",
+    "chainId": 1,
+    "price": 0.059382
+  },
+  {
+    "name": "Ecoterra",
+    "symbol": "ECOTERRA",
+    "logoURI": "https://assets.coingecko.com/coins/images/31563/small/ECOTERRA.png?1693806744",
+    "address": "0x982b50e55394641ca975a0eec630b120b671391a",
+    "chainId": 1,
+    "price": 0.00183951
+  },
+  {
+    "name": "BookieBot",
+    "symbol": "BB",
+    "logoURI": "https://assets.coingecko.com/coins/images/31546/small/photo_2023-08-23_17-48-35_200x200.jpg?1693794325",
+    "address": "0x562e12e1e792643d168c1fa01c1b7198a0f83c9f",
+    "chainId": 1,
+    "price": 3.07
+  },
+  {
+    "name": "MeGods",
+    "symbol": "MEGOD",
+    "logoURI": "https://assets.coingecko.com/coins/images/31530/small/200oTGp1V6N_400x400.jpg?1693784254",
+    "address": "0xc6980fa29a42e44852e29492268d9285d89c9dac",
+    "chainId": 1,
+    "price": 0.000000135300
   }
 ]
