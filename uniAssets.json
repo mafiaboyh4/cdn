@@ -1223,5 +1223,13 @@
     "address": "0x9b0e1c344141fb361b842d397df07174e1cdb988",
     "chainId": 1,
     "price": 0.0000000007795
+  },
+  {
+    "name": "Veloce",
+    "symbol": "VEXT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27862.png",
+    "address": "0xB2492E97a68a6E4B9E9a11B99F6C42E5aCCD38c7",
+    "chainId": 1,
+    "price": 0.5605
   }
 ]
