@@ -1263,5 +1263,13 @@
     "address": "0xc6980fa29a42e44852e29492268d9285d89c9dac",
     "chainId": 1,
     "price": 0.000000135300
+  },
+  {
+    "name": "Degen",
+    "symbol": "DEGEN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27968.png",
+    "address": "0xCa7013bA4Bf76bCdc3ffC71735896682644f47C2",
+    "chainId": 1,
+    "price": 0.00001236
   }
 ]
