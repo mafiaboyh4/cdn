@@ -1271,5 +1271,13 @@
     "address": "0xCa7013bA4Bf76bCdc3ffC71735896682644f47C2",
     "chainId": 1,
     "price": 0.00001236
+  },
+  {
+    "name": "Tipcoin",
+    "symbol": "TIP",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27972.png",
+    "address": "0x49366a946b955E904AbeC239A4E07aCc664Fb47C",
+    "chainId": 1,
+    "price": 0.0002889
   }
 ]
