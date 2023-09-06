@@ -1287,5 +1287,13 @@
     "address": "0x8DF60CFC67c1bF51Fe3dD61B34B156F14F538f5d",
     "chainId": 1,
     "price": 0.00006737
+  },
+  {
+    "name": "Cloak Protocol",
+    "symbol": "CLOAK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27978.png",
+    "address": "04622193775800E0937740318",
+    "chainId": 1,
+    "price": 0.001319
   }
 ]
