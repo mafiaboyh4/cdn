@@ -1303,5 +1303,13 @@
     "address": "0x3a6dc7eefef660be5c254c8aa1b710202151e345",
     "chainId": 1,
     "price": 0.000000156742
+  },
+  {
+    "name": "GUISE",
+    "symbol": "GUISE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27987.png",
+    "address": "0x7721A4cb6190EDB11d47f51C20968436ECcDAFb8",
+    "chainId": 1,
+    "price": 0.2419
   }
 ]
