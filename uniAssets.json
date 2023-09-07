@@ -1295,5 +1295,13 @@
     "address": "04622193775800E0937740318",
     "chainId": 1,
     "price": 0.001319
+  },
+  {
+    "name": "dPARROT",
+    "symbol": "PARROT",
+    "logoURI": "https://assets.coingecko.com/coins/images/31601/small/coingecko.jpg?1693996588",
+    "address": "0x3a6dc7eefef660be5c254c8aa1b710202151e345",
+    "chainId": 1,
+    "price": 0.000000156742
   }
 ]
