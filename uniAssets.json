@@ -1319,5 +1319,13 @@
     "address": "0x94Be6962be41377d5BedA8dFe1b100F3BF0eaCf3",
     "chainId": 1,
     "price": 0.01925
+  },
+  {
+    "name": "StealthPad",
+    "symbol": "STEALTH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27991.png",
+    "address": "0xb18f98822c22492bd6b77d19cae9367f3d60fcbf",
+    "chainId": 1,
+    "price": 0.0003342
   }
 ]
