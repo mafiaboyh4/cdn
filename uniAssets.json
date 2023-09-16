@@ -1327,5 +1327,13 @@
     "address": "0xb18f98822c22492bd6b77d19cae9367f3d60fcbf",
     "chainId": 1,
     "price": 0.0003342
+  },
+  {
+    "name": "PICKLE",
+    "symbol": "PICKLE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28027.png",
+    "address": "0x3ec15c4745e21ab3831d1f51c492e3b5582d6239",
+    "chainId": 1,
+    "price": 0.0000000001109
   }
 ]
