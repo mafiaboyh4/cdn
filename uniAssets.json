@@ -1335,5 +1335,13 @@
     "address": "0x3ec15c4745e21ab3831d1f51c492e3b5582d6239",
     "chainId": 1,
     "price": 0.0000000001109
+  },
+  {
+    "name": "Real Smurf Cat",
+    "symbol": "ШАЙЛУШАЙ",
+    "logoURI": "https://assets.coingecko.com/coins/images/31751/small/pfp2.png?1694754598",
+    "address": "0xff836a5821e69066c87e268bc51b849fab94240c",
+    "chainId": 1,
+    "price": 0.00008221
   }
 ]
