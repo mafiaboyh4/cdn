@@ -1351,5 +1351,12 @@
     "address": "0x9863bcc2fb23dfdf5fe275aa4c5575a32a580911",
     "chainId": 1,
     "price": 0.0000000007325
+  }،{
+    "name": "SALAMANDER",
+    "symbol": "SALLY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28044.png",
+    "address": "0x42E70913b53cFCC38b18ffBD124E8f65C706DEaF",
+    "chainId": 1,
+    "price": 0.000000003179
   }
 ]
