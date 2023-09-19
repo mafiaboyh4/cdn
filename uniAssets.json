@@ -1351,5 +1351,21 @@
     "address": "0x9863bcc2fb23dfdf5fe275aa4c5575a32a580911",
     "chainId": 1,
     "price": 0.0000000007325
+  },
+  {
+    "name": "Fine",
+    "symbol": "FINE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28052.png",
+    "address": "0x75c97384ca209f915381755c582ec0e2ce88c1ba",
+    "chainId": 1,
+    "price": 0.00000003617
+  },
+  {
+    "name": "Tipcoin",
+    "symbol": "TIP",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28049.png",
+    "address": "0x0176b898e92e814c06cc379e508ceb571f70bd40",
+    "chainId": 1,
+    "price": 0.0005231
   }
 ]
