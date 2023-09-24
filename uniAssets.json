@@ -1383,5 +1383,13 @@
     "address": "0x64c79c8c59a2be17c8d651f73e5ee7942eebdc9e",
     "chainId": 1,
     "price": 0.001713
+  },
+  {
+    "name": "Fluid ",
+    "symbol": "FLUID",
+    "logoURI": "https://assets.coingecko.com/coins/images/31890/small/fluidlogo200x200.png?1695524875",
+    "address": "0x4e47951508fd4a4126f8ff9cf5e6fa3b7cc8e073",
+    "chainId": 1,
+    "price": 0.404733
   }
 ]
