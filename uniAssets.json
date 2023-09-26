@@ -1391,5 +1391,13 @@
     "address": "0x4e47951508fd4a4126f8ff9cf5e6fa3b7cc8e073",
     "chainId": 1,
     "price": 0.404733
+  },
+{
+    "name": "Chibi Inu ",
+    "symbol": "CHIBI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28182.png",
+    "address": "0x15927156df05361ccf0fc9561cc2f60fac319e14",
+    "chainId": 1,
+    "price": 0.007015
   }
 ]
