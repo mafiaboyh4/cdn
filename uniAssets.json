@@ -1392,12 +1392,20 @@
     "chainId": 1,
     "price": 0.404733
   },
-{
+  {
     "name": "Chibi Inu ",
     "symbol": "CHIBI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28182.png",
     "address": "0x15927156df05361ccf0fc9561cc2f60fac319e14",
     "chainId": 1,
     "price": 0.007015
+  },
+  {
+    "name": "Tyrion",
+    "symbol": "TYRION",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28186.png",
+    "address": "0x5e27e384aCBBa20982f991893B9970AaF3f43181",
+    "chainId": 1,
+    "price": 0.009284
   }
 ]
