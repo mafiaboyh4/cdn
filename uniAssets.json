@@ -1407,5 +1407,29 @@
     "address": "0x5e27e384aCBBa20982f991893B9970AaF3f43181",
     "chainId": 1,
     "price": 0.009284
+  },
+  {
+    "name": "Feels Good Man",
+    "symbol": "GOOD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28188.png",
+    "address": "0x76af4cb74c8d4da51403d672a799e94b5958c230",
+    "chainId": 1,
+    "price": 0.0006215
+  },
+  {
+    "name": "CATECOIN",
+    "symbol": "CAT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28187.png",
+    "address": "0xdBB910F546De59857194c51BC28f6BDFAA6bc58f",
+    "chainId": 1,
+    "price": 0.0000006352
+  },
+  {
+    "name": "Shiba",
+    "symbol": "SHIBA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28192.png",
+    "address": "0xfd1450a131599ff34f3be1775d8c8bf79e353d8c",
+    "chainId": 1,
+    "price": 0.000000001136
   }
 ]
