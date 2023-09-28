@@ -1431,5 +1431,13 @@
     "address": "0xfd1450a131599ff34f3be1775d8c8bf79e353d8c",
     "chainId": 1,
     "price": 0.000000001136
+  },
+  {
+    "name": "Wall Street Memes",
+    "symbol": "WSM",
+    "logoURI": "https://assets.coingecko.com/coins/images/31975/small/Wall_Street_Memes_Logo_resize.png?1695873299",
+    "address": "0xb62e45c3df611dce236a6ddc7a493d79f9dfadef",
+    "chainId": 1,
+    "price": 0.000000001136
   }
 ]
