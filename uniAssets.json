@@ -1465,11 +1465,11 @@
       "price": 0.00000110
   },
   {
-      "name": "DumbMoney",
-      "symbol": "GME",
-      "logoURI": "https://assets.coingecko.com/coins/images/32058/small/DumbMoney_-_GME_-_Official_Logo_200x200px.png?1696239526",
-      "address": "0xfc4b4ec763722b71eb1d729749b447a9645f5f30",
-      "chainId": 1,
-      "price": 0.00812468
+        "name": "DumbMoney",
+        "symbol": "GME",
+        "logoURI": "https://assets.coingecko.com/coins/images/32058/small/DumbMoney_-_GME_-_Official_Logo_200x200px.png?1696239526",
+        "address": "0xfc4b4ec763722b71eb1d729749b447a9645f5f30",
+        "chainId": 1,
+        "price": 0.00812468
   }
 ]
