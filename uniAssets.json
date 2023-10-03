@@ -1455,5 +1455,13 @@
       "address": "0x633Fe30f0840f30b5ae510c9796019e5d288dDc5",
       "chainId": 1,
       "price": 0.000000000000000004
+  },
+  {
+      "name": "House of Degenerates",
+      "symbol": "HOD",
+      "logoURI": "https://assets.coingecko.com/coins/images/32074/small/House_of_Degenerates.png?1696327420",
+      "address": "0x558a64e0652c3a4b7fa1ff9a589425bf42c9179d",
+      "chainId": 1,
+      "price": 0.00000110
   }
 ]
