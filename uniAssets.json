@@ -1439,5 +1439,13 @@
     "address": "0xb62e45c3df611dce236a6ddc7a493d79f9dfadef",
     "chainId": 1,
     "price": 0.000000001136
+  },
+  {
+    "name": "Wall Street Bets (WSB)",
+    "symbol": "WSB",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28203.png",
+    "address": "0x6f91D21de4e40b3B80636B6b3Ba425B636b798CF",
+    "chainId": 1,
+    "price": 0.0000001375
   }
 ]
