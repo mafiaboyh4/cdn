@@ -1447,5 +1447,13 @@
     "address": "0x6f91D21de4e40b3B80636B6b3Ba425B636b798CF",
     "chainId": 1,
     "price": 0.0000001375
+  },
+  {
+    "name": "JOEBIDEN2024",
+    "symbol": "JOEBIDEN2024",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28205.png",
+    "address": "0x633Fe30f0840f30b5ae510c9796019e5d288dDc5",
+    "chainId": 1,
+    "price": 0.000000000000000004
   }
 ]
