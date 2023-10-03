@@ -1471,5 +1471,13 @@
         "address": "0xfc4b4ec763722b71eb1d729749b447a9645f5f30",
         "chainId": 1,
         "price": 0.00812468
+  },
+  {
+        "name": "Shido",
+        "symbol": "SHIDO",
+        "logoURI": "https://assets.coingecko.com/coins/images/32070/small/SHIDO.png?1696321188",
+        "address": "0x72c60bfffef18dca51db32b52b819a951b6ddbed",
+        "chainId": 1,
+        "price": 0.00091565
   }
 ]
