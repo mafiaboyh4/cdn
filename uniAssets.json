@@ -1479,5 +1479,13 @@
       "address": "0x72c60bfffef18dca51db32b52b819a951b6ddbed",
       "chainId": 1,
       "price": 0.00091565
+  },
+  {
+      "name": "cyb3rgam3r420",
+      "symbol": "GAMER",
+      "logoURI": "https://assets.coingecko.com/coins/images/32071/small/GAMER_LOGO_200x200.png?1696325817",
+      "address": "0xf89674f18309a2e97843c6e9b19c07c22caef6d5",
+      "chainId": 1,
+      "price": 0.00001221
   }
 ]
