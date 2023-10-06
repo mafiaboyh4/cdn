@@ -1487,5 +1487,13 @@
       "address": "0xf89674f18309a2e97843c6e9b19c07c22caef6d5",
       "chainId": 1,
       "price": 0.00001221
+  },
+  {
+      "name": "HermioneGrangerClintonAmberAmyRose9Inu",
+      "symbol": "TETHER",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28218.png",
+      "address": "0xd66c27518E72Be89999Ab1E53c3d9FF73F7F2858",
+      "chainId": 1,
+      "price": 0.0000004654
   }
 ]
