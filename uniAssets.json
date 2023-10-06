@@ -1495,5 +1495,13 @@
       "address": "0xd66c27518E72Be89999Ab1E53c3d9FF73F7F2858",
       "chainId": 1,
       "price": 0.0000004654
+  },
+  {
+      "name": "KIZUNA",
+      "symbol": "KIZUNA",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28217.png",
+      "address": "0x470c8950c0c3aa4b09654bc73b004615119a44b5",
+      "chainId": 1,
+      "price": 0.00000000292
   }
 ]
