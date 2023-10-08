@@ -1503,5 +1503,13 @@
       "address": "0x470c8950c0c3aa4b09654bc73b004615119a44b5",
       "chainId": 1,
       "price": 0.00000000292
+  },
+  {
+      "name": "SAFEREUM",
+      "symbol": "SAFEREUM",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28223.png",
+      "address": "0xb504035a11E672e12a099F32B1672b9C4a78b22f",
+      "chainId": 1,
+      "price": 0.000009474
   }
 ]
