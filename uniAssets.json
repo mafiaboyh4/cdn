@@ -1520,20 +1520,20 @@
       "chainId": 1,
       "price": 0.0000000006678
   },
-    {
-        "name": "ELONGATE",
-        "symbol": "ELONGATE",
-        "logoURI": "https://assets.coingecko.com/coins/images/32236/standard/ElonGate.png?1696937153",
-        "address": "0xf043809056ac2492c4aae6317705f751082c0db1",
-        "chainId": 1,
-        "price": 0.01591700
-    },
-    {
-        "name": "Bones",
-        "symbol": "BONES",
-        "logoURI": "https://assets.coingecko.com/coins/images/32232/standard/IMG_20231008_075551_623_%281%29.jpg?1696936788",
-        "address": "0xe7c8537f92b4feefdc19bd6b4023dfe79400cb30",
-        "chainId": 1,
-        "price": 0.00539500
-    }
+  {
+      "name": "ELONGATE",
+      "symbol": "ELONGATE",
+      "logoURI": "https://assets.coingecko.com/coins/images/32236/standard/ElonGate.png?1696937153",
+      "address": "0xf043809056ac2492c4aae6317705f751082c0db1",
+      "chainId": 1,
+      "price": 0.01591700
+  },
+  {
+      "name": "Bones",
+      "symbol": "BONES",
+      "logoURI": "https://assets.coingecko.com/coins/images/32232/standard/IMG_20231008_075551_623_%281%29.jpg?1696936788",
+      "address": "0xe7c8537f92b4feefdc19bd6b4023dfe79400cb30",
+      "chainId": 1,
+      "price": 0.00539500
+  }
 ]
