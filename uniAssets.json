@@ -1511,5 +1511,13 @@
       "address": "0xb504035a11E672e12a099F32B1672b9C4a78b22f",
       "chainId": 1,
       "price": 0.000009474
+  },
+  {
+      "name": "HoticeHentaiX",
+      "symbol": "HHX",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28228.png",
+      "address": "0x0A6876077a5c2b63f9259551EddfB443DE9c1d4E",
+      "chainId": 1,
+      "price": 0.0000000006678
   }
 ]
