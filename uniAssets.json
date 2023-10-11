@@ -1535,5 +1535,13 @@
       "address": "0xe7c8537f92b4feefdc19bd6b4023dfe79400cb30",
       "chainId": 1,
       "price": 0.00539500
+  },
+  {
+      "name": "Big Time",
+      "symbol": "BIGTIME",
+      "logoURI": "https://assets.coingecko.com/coins/images/32251/standard/-6136155493475923781_121.jpg?1696998691",
+      "address": "0x64bc2ca1be492be7185faa2c8835d9b824c8a194",
+      "chainId": 1,
+      "price": 0.056062
   }
 ]
