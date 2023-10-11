@@ -1543,5 +1543,13 @@
       "address": "0x64bc2ca1be492be7185faa2c8835d9b824c8a194",
       "chainId": 1,
       "price": 0.056062
+  },
+  {
+      "name": "GOLD",
+      "symbol": "GOLD",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28234.png",
+      "address": "0x36737b4ac153c762d6a767056e1af7b17573a6b9",
+      "chainId": 1,
+      "price": 0.0000000000009706
   }
 ]
