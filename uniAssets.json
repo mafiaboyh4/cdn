@@ -1559,5 +1559,13 @@
       "address": "0x97E5E6191277EacF59EC46574E1C5b4c7016e601",
       "chainId": 1,
       "price": 0.0003668
+  },
+  {
+      "name": "Rollbit Coin",
+      "symbol": "RLB",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15271.png",
+      "address": "0x046eee2cc3188071c02bfc1745a6b17c656e3f3d",
+      "chainId": 1,
+      "price": 0.1259
   }
 ]
