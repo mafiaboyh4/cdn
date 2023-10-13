@@ -1567,5 +1567,21 @@
       "address": "0x046eee2cc3188071c02bfc1745a6b17c656e3f3d",
       "chainId": 1,
       "price": 0.1259
+  },
+  {
+      "name": "SILVER",
+      "symbol": "SILVER",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28239.png",
+      "address": "0x60A26C05c5372dCdeD66940d2B56076bCE925152",
+      "chainId": 1,
+      "price": 0.0000000000006269
+  },
+  {
+      "name": "Liquid Protocol",
+      "symbol": "LP",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28240.png",
+      "address": "0x3e8203E0b1D56984AbC66f183A8d0b1A09a7E607",
+      "chainId": 1,
+      "price": 1.10
   }
 ]
