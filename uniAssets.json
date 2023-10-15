@@ -1583,5 +1583,13 @@
       "address": "0x3e8203E0b1D56984AbC66f183A8d0b1A09a7E607",
       "chainId": 1,
       "price": 1.10
+  },
+  {
+      "name": "DRAGON",
+      "symbol": "DRAGON",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28246.png",
+      "address": "0x3b6813D37178880E07CD9919aB5204868CFf80F8",
+      "chainId": 1,
+      "price": 0.00000155
   }
 ]
