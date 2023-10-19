@@ -1599,5 +1599,13 @@
       "address": "0x415ff1afc201EeC50BeFF210a2F456674046920b",
       "chainId": 1,
       "price": 0.0000002165
+  },
+  {
+      "name": "Bitcoin ETF",
+      "symbol": "ETF",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28258.png",
+      "address": "0xa09e6f797223af66f3088ab8df35b2419165ea07",
+      "chainId": 1,
+      "price": 0.0003075
   }
 ]
