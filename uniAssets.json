@@ -1607,5 +1607,13 @@
       "address": "0xa09e6f797223af66f3088ab8df35b2419165ea07",
       "chainId": 1,
       "price": 0.0003075
+  },
+  {
+      "name": "$REKT",
+      "symbol": "REKT",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28247.png",
+      "address": "0x4f8b986ecffe7bed5dbeb2b49310fb00ca85a539",
+      "chainId": 1,
+      "price": 15.79
   }
 ]
