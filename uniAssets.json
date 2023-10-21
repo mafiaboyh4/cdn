@@ -1615,5 +1615,13 @@
       "address": "0x4f8b986ecffe7bed5dbeb2b49310fb00ca85a539",
       "chainId": 1,
       "price": 15.79
+  },
+  {
+      "name": "HayCoin",
+      "symbol": "HAY",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28263.png",
+      "address": "0xfa3e941d1f6b7b10ed84a0c211bfa8aee907965e",
+      "chainId": 1,
+      "price": 1989984.87
   }
 ]
