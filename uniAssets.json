@@ -1631,5 +1631,13 @@
       "address": "0xf324c9fedf14462534ab73c5b3ee372790032234",
       "chainId": 1,
       "price": 0.00008158
+  },
+  {
+      "name": "BUGATTI",
+      "symbol": "BUGATTI",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28266.png",
+      "address": "0x34C8e19fB8700e9de2C8149bD3257c32D3C2F212",
+      "chainId": 1,
+      "price": 0.0000000000000869
   }
 ]
