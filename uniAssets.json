@@ -1623,5 +1623,13 @@
       "address": "0xfa3e941d1f6b7b10ed84a0c211bfa8aee907965e",
       "chainId": 1,
       "price": 1989984.87
+  },
+  {
+      "name": "Diablo IV",
+      "symbol": "DIABLO",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28265.png",
+      "address": "0xf324c9fedf14462534ab73c5b3ee372790032234",
+      "chainId": 1,
+      "price": 0.00008158
   }
 ]
