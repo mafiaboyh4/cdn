@@ -1647,5 +1647,13 @@
       "address": "0x201b5B64438843553E3C3671810Ae671C93C685c",
       "chainId": 1,
       "price": 1.55
+  },
+  {
+      "name": "LONG (ETH)",
+      "symbol": "LONG",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28273.png",
+      "address": "0x0080428794a79a40ae03cf6E6C1D56bd5467a4A2",
+      "chainId": 1,
+      "price": 664.39
   }
 ]
