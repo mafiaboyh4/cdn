@@ -1639,5 +1639,13 @@
       "address": "0x34C8e19fB8700e9de2C8149bD3257c32D3C2F212",
       "chainId": 1,
       "price": 0.0000000000000869
+  },
+  {
+      "name": "Megabot",
+      "symbol": "MEGABOT",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28271.png",
+      "address": "0x201b5B64438843553E3C3671810Ae671C93C685c",
+      "chainId": 1,
+      "price": 1.55
   }
 ]
