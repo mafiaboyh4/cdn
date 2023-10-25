@@ -1663,5 +1663,13 @@
       "address": "0x8899ec96ed8c96b5c86c23c3f069c3def75b6d97",
       "chainId": 56,
       "price": 0.1915
+  },
+  {
+      "name": "X-ETF",
+      "symbol": "ETF",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28279.png",
+      "address": "0x79C204732242FE9869f3EAd91Ab74A8863274915",
+      "chainId": 1,
+      "price": 0.006957
   }
 ]
