@@ -1679,5 +1679,13 @@
       "address": "0x7e877b99897D514da01bD1d177E693EC639961Af",
       "chainId": 1,
       "price": 0.0000163
+  },
+  {
+      "name": "Apu",
+      "symbol": "APU",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28291.png",
+      "address": "0x0b5a91a43cb798c45fd56bfb5d41c13c42a7afa8",
+      "chainId": 1,
+      "price": 0.000002998
   }
 ]
