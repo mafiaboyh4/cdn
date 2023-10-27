@@ -1695,5 +1695,14 @@
       "address": "0x6fA6b6d5A811E3BeD5d14a1C9C869e91B95Fc162",
       "chainId": 1,
       "price": 0.0000007115
-  }
+  },{
+
+"name": "TokenFi",
+      "symbol": "TOKEN",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28299.png",
+      "address": "0x4507cEf57C46789eF8d1a19EA45f4216bae2B528",
+      "chainId": 1,
+      "price": 0.008383
+
+   }
 ]
