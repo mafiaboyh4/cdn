@@ -1687,5 +1687,13 @@
       "address": "0x0b5a91a43cb798c45fd56bfb5d41c13c42a7afa8",
       "chainId": 1,
       "price": 0.000002998
+  },
+  {
+      "name": "SafeLunar",
+      "symbol": "SAFELUNAR",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28294.png",
+      "address": "0x6fA6b6d5A811E3BeD5d14a1C9C869e91B95Fc162",
+      "chainId": 1,
+      "price": 0.0000007115
   }
 ]
