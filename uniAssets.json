@@ -1696,13 +1696,27 @@
       "chainId": 1,
       "price": 0.0000007115
   },{
-
-"name": "TokenFi",
+      "name": "TokenFi",
       "symbol": "TOKEN",
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28299.png",
       "address": "0x4507cEf57C46789eF8d1a19EA45f4216bae2B528",
       "chainId": 1,
       "price": 0.008383
-
+   },
+   {
+       "name": "Serbian Dancing Lady",
+       "symbol": "СЕРБСКАЯЛЕДИ",
+       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28303.png",
+       "address": "0xa8c08D8bB15A2D1a4d3B78Def9c635EF1E340E16",
+       "chainId": 1,
+       "price": 0.0000001198
+   },
+   {
+       "name": "SpacePi (ETH)",
+       "symbol": "SPACEPI",
+       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28304.png",
+       "address": "0x69b14e8D3CEBfDD8196Bfe530954A0C226E5008E",
+       "chainId": 1,
+       "price": 0.000000004975
    }
 ]
