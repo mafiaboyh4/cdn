@@ -1742,5 +1742,13 @@
        "address": "0x1123d17fcf93ed2b41440317503346a0fdfe3ed7",
        "chainId": 1,
        "price": 0.003403
+   },
+   {
+       "name": "Vault Tech",
+       "symbol": "VAULT",
+       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28311.png",
+       "address": "0x7F9b09f4717072CF4DC18b95D1b09E2B30C76790",
+       "chainId": 1,
+       "price": 0.03942
    }
 ]
