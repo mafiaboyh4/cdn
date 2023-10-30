@@ -1750,5 +1750,13 @@
        "address": "0x7F9b09f4717072CF4DC18b95D1b09E2B30C76790",
        "chainId": 1,
        "price": 0.03942
+   },
+   {
+       "name": "Polygon Ecosystem Token",
+       "symbol": "POL",
+       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28321.png",
+       "address": "0x455e53cbb86018ac2b8092fdcd39d8444affc3f6",
+       "chainId": 1,
+       "price": 0.6365
    }
 ]
