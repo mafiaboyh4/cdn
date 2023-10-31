@@ -1782,6 +1782,14 @@
        "address": "0xaCb1Ac255AA8e990BA682AD70fef3ef39450828b",
        "chainId": 1,
        "price": 0.008585
+   },
+   {
+       "name": "Hold On for Dear Life",
+       "symbol": "HODL",
+       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28329.png",
+       "address": "0xe2F98dd7506807EF82d1988aA77c320bC52F8df4",
+       "chainId": 1,
+       "price": 0.0000006476
    }
    
 ]
