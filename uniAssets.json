@@ -1790,6 +1790,14 @@
        "address": "0xe2F98dd7506807EF82d1988aA77c320bC52F8df4",
        "chainId": 1,
        "price": 0.0000006476
+   },
+   {
+       "name": "KlubCoin",
+       "symbol": "KLUB",
+       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28326.png",
+       "address": "0x29d7139271398d0c2e22523fda06e023dcb07f8f",
+       "chainId": 1,
+       "price": 0.01984
    }
    
 ]
