@@ -1798,6 +1798,13 @@
        "address": "0x29d7139271398d0c2e22523fda06e023dcb07f8f",
        "chainId": 1,
        "price": 0.01984
+   },
+   {
+       "name": "Oasis Metaverse",
+       "symbol": "OASIS",
+       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28338.png",
+       "address": "0xF0Dc9fc0669f068e04aD79f7d70618D3f9Aad439",
+       "chainId": 1,
+       "price": 0.001692
    }
-   
 ]
