@@ -1806,5 +1806,13 @@
        "address": "0xF0Dc9fc0669f068e04aD79f7d70618D3f9Aad439",
        "chainId": 1,
        "price": 0.001692
+   },
+   {
+       "name": "Memecoin",
+       "symbol": "MEME",
+       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28301.png",
+       "address": "0xb131f4a55907b10d1f0a50d8ab8fa09ec342cd74",
+       "chainId": 1,
+       "price": 0.02276
    }
 ]
