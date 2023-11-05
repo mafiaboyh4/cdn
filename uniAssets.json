@@ -1814,5 +1814,21 @@
        "address": "0xb131f4a55907b10d1f0a50d8ab8fa09ec342cd74",
        "chainId": 1,
        "price": 0.02276
+   },
+   {
+       "name": "DORK",
+       "symbol": "DORK",
+       "logoURI": "https://assets.coingecko.com/coins/images/32704/standard/Coin_2.png?1698985483",
+       "address": "0xae3359ed3c567482fb0102c584c23daa2693eacf",
+       "chainId": 1,
+       "price": 0.00016627
+   },
+   {
+       "name": "Bypass",
+       "symbol": "BYPASS",
+       "logoURI": "https://assets.coingecko.com/coins/images/32716/standard/0x38cf6cea814aefd01027a0bbf8a78b7aa95a698e.jpg?1699000988",
+       "address": "0x38cf6cea814aefd01027a0bbf8a78b7aa95a698e",
+       "chainId": 1,
+       "price": 1.20
    }
 ]
