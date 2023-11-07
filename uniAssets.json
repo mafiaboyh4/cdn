@@ -1830,5 +1830,45 @@
        "address": "0x38cf6cea814aefd01027a0bbf8a78b7aa95a698e",
        "chainId": 1,
        "price": 1.20
+   },
+   {
+       "name": "PromptIDE",
+       "symbol": "PROMPTIDE",
+       "logoURI": "https://assets.coingecko.com/coins/images/32753/standard/Prompt200.jpg?1699265135",
+       "address": "0xf3e66b03d098d0482be9cb3d6999787231a93ed9",
+       "chainId": 1,
+       "price": 0.00000105
+   },
+   {
+       "name": "GrokDogeX",
+       "symbol": "GDX",
+       "logoURI": "https://assets.coingecko.com/coins/images/32756/standard/GDX.jpg?1699280011",
+       "address": "0x0c21638d4bcb88568f88bc84a50e317715f8de8a",
+       "chainId": 1,
+       "price": 0.00041616
+   },
+   {
+       "name": "Truck",
+       "symbol": "TRUCK",
+       "logoURI": "https://assets.coingecko.com/coins/images/32760/standard/2023-10-31_19.33.52.jpg?1699328941",
+       "address": "0x3f48cce3eabb02304f7cc16fd7a35f3a2df7be8e",
+       "chainId": 1,
+       "price": 0.624179
+   },
+   {
+       "name": "TitanX",
+       "symbol": "TITANX",
+       "logoURI": "https://static.coingecko.com/s/missing_standard-de303d622235a7cd2ddba6e0c5fbcb9be08abc09e609e171ff207cfad9aeae6f.png",
+       "address": "0xf19308f923582a6f7c465e5ce7a9dc1bec6665b1",
+       "chainId": 1,
+       "price": 0.00000341
+   },
+   {
+       "name": "LEEROY JENKINS",
+       "symbol": "LEEROY",
+       "logoURI": "https://assets.coingecko.com/coins/images/32774/standard/IMG_20231106_175636_467.jpg?1699343781",
+       "address": "0x1e971b5b21367888239f00da16f0a6b0effecb03",
+       "chainId": 1,
+       "price": 0.00004315
    }
 ]
