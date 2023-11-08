@@ -1870,5 +1870,37 @@
        "address": "0x1e971b5b21367888239f00da16f0a6b0effecb03",
        "chainId": 1,
        "price": 0.00004315
+   },
+   {
+       "name": "IO",
+       "symbol": "IO",
+       "logoURI": "https://assets.coingecko.com/coins/images/32792/standard/IMG_8756.jpeg?1699429009",
+       "address": "0x7468d234a8db6f1085dbf4e403553bfed41df95c",
+       "chainId": 1,
+       "price": 0.00014252
+   },
+   {
+       "name": "Grok",
+       "symbol": "$GROK",
+       "logoURI": "https://assets.coingecko.com/coins/images/32788/standard/grok.jpeg?1699366775",
+       "address": "0x8390a1da07e376ef7add4be859ba74fb83aa02d5",
+       "chainId": 1,
+       "price": 0.00351939
+   },
+   {
+       "name": "Megabot",
+       "symbol": "MEGABOT",
+       "logoURI": "https://assets.coingecko.com/coins/images/32796/standard/Megabot.jpg?1699445692",
+       "address": "0x201b5b64438843553e3c3671810ae671c93c685c",
+       "chainId": 1,
+       "price": 3.80
+   },
+   {
+       "name": "Beg",
+       "symbol": "BEG",
+       "logoURI": "https://assets.coingecko.com/coins/images/32799/standard/beg100px.png?1699446876",
+       "address": "0xbe6be64e9e5042b6e84e4c27956cce6353efa5f5",
+       "chainId": 1,
+       "price": 5.08
    }
 ]
