@@ -1902,5 +1902,13 @@
        "address": "0xbe6be64e9e5042b6e84e4c27956cce6353efa5f5",
        "chainId": 1,
        "price": 5.08
+   },
+   {
+       "name": "Pax Unitas",
+       "symbol": "PAXU",
+       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28378.png",
+       "address": "0x4E452B391a86C9240e98DF7277CE0BeA5bE08e43",
+       "chainId": 1,
+       "price": 0.000002794
    }
 ]
