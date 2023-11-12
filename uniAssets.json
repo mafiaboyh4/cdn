@@ -1910,5 +1910,13 @@
        "address": "0x4E452B391a86C9240e98DF7277CE0BeA5bE08e43",
        "chainId": 1,
        "price": 0.000002794
+   },
+   {
+       "name": "Gravitas",
+       "symbol": "GRAVITAS",
+       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28383.png",
+       "address": "0xB17d69c91135516b0256C67e8bd32Cd238b56161",
+       "chainId": 1,
+       "price": 0.001981
    }
 ]
