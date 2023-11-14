@@ -1926,5 +1926,21 @@
        "address": "0x85516e8862ab543ea15972b7809256efec0696ea",
        "chainId": 1,
        "price": 0.00003013
+   },
+   {
+       "name": "FrontFanz",
+       "symbol": "FANX",
+       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28399.png",
+       "address": "0x3aC81633A291f342b62e7de5d00eb02924032e06",
+       "chainId": 1,
+       "price": 0.007475
+   },
+   {
+       "name": "FIDO",
+       "symbol": "FIDO",
+       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28398.png",
+       "address": "0x6b985d38b1fc891bb57bff59573626b1896d4aa1",
+       "chainId": 1,
+       "price": 0.00001236
    }
 ]
