@@ -1942,5 +1942,13 @@
        "address": "0x6b985d38b1fc891bb57bff59573626b1896d4aa1",
        "chainId": 1,
        "price": 0.00001236
+   },
+   {
+       "name": "Multibit",
+       "symbol": "MUBI",
+       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28412.png",
+       "address": "0x38e382f74dfb84608f3c1f10187f6bef5951de93",
+       "chainId": 1,
+       "price": 0.007407
    }
 ]
