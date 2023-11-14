@@ -1918,5 +1918,13 @@
        "address": "0xB17d69c91135516b0256C67e8bd32Cd238b56161",
        "chainId": 1,
        "price": 0.001981
+   },
+   {
+       "name": "Rock",
+       "symbol": "ROCK",
+       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28400.png",
+       "address": "0x85516e8862ab543ea15972b7809256efec0696ea",
+       "chainId": 1,
+       "price": 0.00003013
    }
 ]
