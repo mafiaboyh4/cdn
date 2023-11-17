@@ -1974,5 +1974,13 @@
        "address": "0xc52FaFDc900cB92Ae01E6E4F8979aF7f436e2EB2",
        "chainId": 1,
        "price": 0.3206
+   },
+   {
+       "name": "Dypius",
+       "symbol": "DYP",
+       "logoURI": "https://assets.coingecko.com/coins/images/33016/standard/RS-zDhFE_400x400.jpg?1700157370",
+       "address": "0x39b46b212bdf15b42b166779b9d1787a68b9d0c3",
+       "chainId": 1,
+       "price": 0.181290
    }
 ]
