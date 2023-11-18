@@ -1982,5 +1982,13 @@
        "address": "0x39b46b212bdf15b42b166779b9d1787a68b9d0c3",
        "chainId": 1,
        "price": 0.181290
+   },
+   {
+       "name": "The Tribe",
+       "symbol": "TRIBE",
+       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28445.png",
+       "address": "0xdeADFACE8503399Df4b083ef42FA8e02fd39dEAd",
+       "chainId": 1,
+       "price": 0.0004224
    }
 ]
