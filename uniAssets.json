@@ -2022,5 +2022,13 @@
        "address": "0x561Cf9121E89926c27FA1cfC78dFcC4C422937a4",
        "chainId": 1,
        "price": 0.00002108
+   },
+   {
+       "name": "XNOVA",
+       "symbol": "XNOVA",
+       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28473.png",
+       "address": "0xdB8ad3c6D7F9F364d59af9A62C3139cF5C6bE88E",
+       "chainId": 1,
+       "price": 0.1429
    }
 ]
