@@ -2014,5 +2014,13 @@
        "address": "0x87D907568A0761Ea45D2917E324557920668f224",
        "chainId": 1,
        "price": 0.00007874
+   },
+   {
+       "name": "Squid Game",
+       "symbol": "SQUID",
+       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28470.png",
+       "address": "0x561Cf9121E89926c27FA1cfC78dFcC4C422937a4",
+       "chainId": 1,
+       "price": 0.00002108
    }
 ]
