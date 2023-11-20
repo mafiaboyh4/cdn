@@ -1997,6 +1997,22 @@
        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28446.png",
        "address": "0x9Cf0ED013e67DB12cA3AF8e7506fE401aA14dAd6",
        "chainId": 1,
-       "price": 0.09496
+       "price": 0.1859
+   },
+   {
+       "name": "SPECTRE AI",
+       "symbol": "SPECTRE",
+       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28446.png",
+       "address": "0x9Cf0ED013e67DB12cA3AF8e7506fE401aA14dAd6",
+       "chainId": 1,
+       "price": 0.1859
+   },
+   {
+       "name": "GROK 2.0",
+       "symbol": "GROK2.0",
+       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28457.png",
+       "address": "0x87D907568A0761Ea45D2917E324557920668f224",
+       "chainId": 1,
+       "price": 0.00007874
    }
 ]
