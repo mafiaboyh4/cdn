@@ -2038,5 +2038,13 @@
        "address": "0x96aDD417293a49E80f024734e96CFd8b355bCc14",
        "chainId": 1,
        "price": 0.6875
+   },
+   {
+       "name": "Joe coin",
+       "symbol": "JOE",
+       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28504.png",
+       "address": "0x76e222b07c53d28b89b0bac18602810fc22b49a8",
+       "chainId": 1,
+       "price": 0.004713
    }
 ]
