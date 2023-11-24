@@ -2046,5 +2046,21 @@
        "address": "0x76e222b07c53d28b89b0bac18602810fc22b49a8",
        "chainId": 1,
        "price": 0.004713
+   },
+   {
+       "name": "MMX",
+       "symbol": "MMX",
+       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28506.png",
+       "address": "0x614Da3b37B6F66F7Ce69B4Bbbcf9a55CE6168707",
+       "chainId": 1,
+       "price": 3.10
+   },
+   {
+       "name": "met a meta metameme",
+       "symbol": "METAMEME",
+       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28505.png",
+       "address": "0x23a2164d482fd2fec9c2d0b66528d42fee7b8817",
+       "chainId": 1,
+       "price": 0.0000006847
    }
 ]
