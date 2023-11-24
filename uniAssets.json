@@ -2062,5 +2062,13 @@
        "address": "0x23a2164d482fd2fec9c2d0b66528d42fee7b8817",
        "chainId": 1,
        "price": 0.0000006847
+   },
+   {
+       "name": "Bonsai3",
+       "symbol": "SEED",
+       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28503.png",
+       "address": "0xe2353069f71a27bbbe66eeabff05de109c7d5e19",
+       "chainId": 1,
+       "price": 0.01831
    }
 ]
