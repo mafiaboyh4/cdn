@@ -2030,5 +2030,13 @@
        "address": "0xdB8ad3c6D7F9F364d59af9A62C3139cF5C6bE88E",
        "chainId": 1,
        "price": 0.1429
+   },
+   {
+       "name": "LiquidLayer",
+       "symbol": "LILA",
+       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28498.png",
+       "address": "0x96aDD417293a49E80f024734e96CFd8b355bCc14",
+       "chainId": 1,
+       "price": 0.6875
    }
 ]
