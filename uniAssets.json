@@ -2070,5 +2070,21 @@
        "address": "0xe2353069f71a27bbbe66eeabff05de109c7d5e19",
        "chainId": 1,
        "price": 0.01831
+   },
+   {
+       "name": "Changpeng Zhao",
+       "symbol": "CZ Price",
+       "logoURI": "https://assets.coingecko.com/coins/images/33193/standard/cz_logo.jpg?1700970013",
+       "address": "0xc3960227e41c3f54e9b399ce216149dea5315c34",
+       "chainId": 1,
+       "price": 0.00032049
+   },
+   {
+       "name": "Cybertruck",
+       "symbol": "TRUCK Price ",
+       "logoURI": "https://assets.coingecko.com/coins/images/33168/standard/TRUCK.jpg?1700908260",
+       "address": "0xc3960227e41c3f54e9b399ce216149dea5315c34",
+       "chainId": 1,
+       "price": 0.00512520
    }
 ]
