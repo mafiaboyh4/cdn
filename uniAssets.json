@@ -2086,5 +2086,13 @@
        "address": "0xab5d6508e4726141d29c6074ab366afa03f4ec8d",
        "chainId": 1,
        "price": 0.00512520
+   },
+   {
+       "name": "QSTAR",
+       "symbol": "Q* Price",
+       "logoURI": "https://assets.coingecko.com/coins/images/33177/standard/C33809C9-D900-437D-A78A-52A8C48423AA.jpeg?1700924002",
+       "address": "0x9abfc0f085c82ec1be31d30843965fcc63053ffe",
+       "chainId": 1,
+       "price": 0.00029363
    }
 ]
