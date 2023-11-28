@@ -2102,5 +2102,37 @@
        "address": "0xe9a97b0798b1649045c1d7114f8c432846828404",
        "chainId": 1,
        "price": 0.000000020744
+   },
+   {
+       "name": "P3PE HACKER",
+       "symbol": "P3PE Price",
+       "logoURI": "https://assets.coingecko.com/coins/images/33219/standard/download.png?1701088202",
+       "address": "0xb627a1bf727f578384ba18b2a2b46f4fb924ab3b",
+       "chainId": 1,
+       "price": 0.00000173
+   },
+   {
+       "name": "Blast Inu",
+       "symbol": "BLAST Price",
+       "logoURI": "https://assets.coingecko.com/coins/images/33226/standard/photo_2023-11-26_22-31-53-removebg-preview_%281%29.png?1701118741",
+       "address": "0x3127294f1fd3c097ef31e54301069346b29d0209",
+       "chainId": 1,
+       "price": 0.00184033
+   },
+   {
+       "name": "BlockRock",
+       "symbol": "FED Price",
+       "logoURI": "https://assets.coingecko.com/coins/images/33236/standard/d4ac260d-4ee6-4450-b302-6dbd7dde85db.jpeg?1701147502",
+       "address": "0xfed802a7e561d6324818358790b176a01d765f19",
+       "chainId": 1,
+       "price": 0.00166376
+   },
+   {
+       "name": "Baby GROK",
+       "symbol": "BROK Price",
+       "logoURI": "https://assets.coingecko.com/coins/images/33239/standard/200x200_bork.png?1701147976",
+       "address": "0xc5b490371870201e2fe6308850507db6e9cba732",
+       "chainId": 1,
+       "price": 0.03339785
    }
 ]
