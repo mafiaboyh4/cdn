@@ -2089,7 +2089,7 @@
    },
    {
        "name": "QSTAR",
-       "symbol": "Q* Price",
+       "symbol": "QSTAR",
        "logoURI": "https://assets.coingecko.com/coins/images/33177/standard/C33809C9-D900-437D-A78A-52A8C48423AA.jpeg?1700924002",
        "address": "0x9abfc0f085c82ec1be31d30843965fcc63053ffe",
        "chainId": 1,
@@ -2097,7 +2097,7 @@
    },
    {
        "name": "Froge",
-       "symbol": "FROGE Price",
+       "symbol": "FROGE",
        "logoURI": "https://assets.coingecko.com/coins/images/33216/standard/frog.jpeg?1701087620",
        "address": "0xe9a97b0798b1649045c1d7114f8c432846828404",
        "chainId": 1,
