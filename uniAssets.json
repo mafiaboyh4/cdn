@@ -2105,7 +2105,7 @@
    },
    {
        "name": "P3PE HACKER",
-       "symbol": "P3PE Price",
+       "symbol": "P3PE ",
        "logoURI": "https://assets.coingecko.com/coins/images/33219/standard/download.png?1701088202",
        "address": "0xb627a1bf727f578384ba18b2a2b46f4fb924ab3b",
        "chainId": 1,
@@ -2113,7 +2113,7 @@
    },
    {
        "name": "Blast Inu",
-       "symbol": "BLAST Price",
+       "symbol": "BLAST ",
        "logoURI": "https://assets.coingecko.com/coins/images/33226/standard/photo_2023-11-26_22-31-53-removebg-preview_%281%29.png?1701118741",
        "address": "0x3127294f1fd3c097ef31e54301069346b29d0209",
        "chainId": 1,
@@ -2121,7 +2121,7 @@
    },
    {
        "name": "BlockRock",
-       "symbol": "FED Price",
+       "symbol": "FED ",
        "logoURI": "https://assets.coingecko.com/coins/images/33236/standard/d4ac260d-4ee6-4450-b302-6dbd7dde85db.jpeg?1701147502",
        "address": "0xfed802a7e561d6324818358790b176a01d765f19",
        "chainId": 1,
