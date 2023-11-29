@@ -2134,5 +2134,13 @@
        "address": "0xc5b490371870201e2fe6308850507db6e9cba732",
        "chainId": 1,
        "price": 0.03339785
+   },
+   {
+       "name": "stoicDAO",
+       "symbol": "ZETA",
+       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28539.png",
+       "address": "0xB281d84989c06e2A6CCdC5eA7BF1663c79a1c31A",
+       "chainId": 1,
+       "price": 0.004243
    }
 ]
