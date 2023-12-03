@@ -2158,5 +2158,29 @@
        "address": "0x12ed0641242e4c6c220e3ca8f616e9d5470ac99a",
        "chainId": 1,
        "price": 0.00423524
+   },
+   {
+       "name": "Solareum",
+       "symbol": "SOLAR",
+       "logoURI": "https://assets.coingecko.com/coins/images/33338/standard/IMG_20231130_223554_575.jpg?1701525234",
+       "address": "0x6a6bfdd2174ade27258fe96b9afae3758dec14f2",
+       "chainId": 1,
+       "price": 2.45
+   },
+   {
+       "name": "GROKX",
+       "symbol": "GROKX ",
+       "logoURI": "https://assets.coingecko.com/coins/images/33339/standard/IMG_7246.jpeg?1701525504",
+       "address": "0x2388821b40f3ab780f09e97b42b7b577d37a6d5e",
+       "chainId": 1,
+       "price": 0.00239929
+   },
+   {
+       "name": "Geometric Energy Corporation",
+       "symbol": "GEC",
+       "logoURI": "https://assets.coingecko.com/coins/images/33326/standard/Gec.png?1701437951",
+       "address": "0x3001f57f8308b189eb412a64322aad5ef9951290",
+       "chainId": 1,
+       "price": 1.34
    }
 ]
