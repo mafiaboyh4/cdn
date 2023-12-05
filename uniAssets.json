@@ -2230,5 +2230,13 @@
       "address": "0xf5b339d3912d5c72e16440b63a9c1df6024de93c",
       "chainId": 1,
       "price": 0.000000000002643
+   },
+   {
+      "name": "Clore.ai",
+      "symbol": "CLORE",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26497.png",
+      "address": "0xf5b339d3912d5c72e16440b63a9c1df6024de13c",
+      "chainId": 1,
+      "price": 0.2349
    }
 ]
