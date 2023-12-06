@@ -2237,14 +2237,14 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26497.png",
       "address": "0xf5b339d3912d5c72e16440b63a9c1df6024de13c",
       "chainId": 1,
-      "price": 0.2349
+      "price": 0.2286
    },
    {
-      "name": "5ire",
-      "symbol": "5IRE",
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16919.png",
-      "address": "0x3bd7d4F524D09F4e331577247A048D56e4b67a7F",
+      "name": "Inspect",
+      "symbol": "INSP",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28610.png",
+      "address": "0x186eF81fd8E77EEC8BfFC3039e7eC41D5FC0b457",
       "chainId": 1,
-      "price": 0.4131
+      "price": 0.2499
    }
 ]
