@@ -2246,5 +2246,21 @@
       "address": "0x186eF81fd8E77EEC8BfFC3039e7eC41D5FC0b457",
       "chainId": 1,
       "price": 0.2499
+   },
+   {
+      "name": "Eternal AI",
+      "symbol": "MIND",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28609.png",
+      "address": "0x60927b83ddd2096f38f22a8a2d84cf863402d1a1",
+      "chainId": 1,
+      "price": 0.2975
+   },
+   {
+      "name": "BitStable",
+      "symbol": "BSSB",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28608.png",
+      "address": "0xda31d0d1bc934fc34f7189e38a413ca0a5e8b44f",
+      "chainId": 1,
+      "price": 2.74
    }
 ]
