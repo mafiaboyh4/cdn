@@ -2270,5 +2270,13 @@
       "address": "0xc0200B1c6598a996a339196259fFdC30C1f44339",
       "chainId": 1,
       "price": 0.000003344
+   },
+   {
+      "name": "Dawg Coin",
+      "symbol": "DAWG",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28649.png",
+      "address": "0xd5fa38027462691769b8a8ba6c444890103b5b94",
+      "chainId": 1,
+      "price": 0.01087
    }
 ]
