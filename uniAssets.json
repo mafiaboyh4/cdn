@@ -2285,7 +2285,7 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28652.png",
       "address": "0x1C7a460413dD4e964f96D8dFC56E7223cE88CD85",
       "chainId": 1,
-      "price": 14.59
+      "price": 13.88
    },
   {
       "name": "Byte",
@@ -2294,5 +2294,13 @@
       "address": "0xdE342A3E269056fc3305f9e315F4C40D917BA521",
       "chainId": 1,
       "price": 0.000003404
+  },
+  {
+      "name": "Gorilla",
+      "symbol": "GORILLA",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28388.png",
+      "address": "0x33C04Bed4533e31f2Afb8AC4a61A48Eda38C4fA0",
+      "chainId": 1,
+      "price": 0.008153
    }
 ]
