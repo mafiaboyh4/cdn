@@ -2302,5 +2302,13 @@
       "address": "0x33C04Bed4533e31f2Afb8AC4a61A48Eda38C4fA0",
       "chainId": 1,
       "price": 0.008153
+  },
+  {
+      "name": "Gigantix Wallet",
+      "symbol": "GTX",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28685.png",
+      "address": "0x1C001D1C9e8c7B8dC717c714d30b31480ab360F5",
+      "chainId": 1,
+      "price": 0.04505
    }
 ]
