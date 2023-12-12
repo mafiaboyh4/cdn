@@ -2286,5 +2286,13 @@
       "address": "0x1C7a460413dD4e964f96D8dFC56E7223cE88CD85",
       "chainId": 1,
       "price": 14.59
+   },
+  {
+      "name": "Byte",
+      "symbol": "BYTE",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28664.png",
+      "address": "0xdE342A3E269056fc3305f9e315F4C40D917BA521",
+      "chainId": 1,
+      "price": 0.000003404
    }
 ]
