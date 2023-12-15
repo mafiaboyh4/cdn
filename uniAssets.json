@@ -2310,5 +2310,21 @@
       "address": "0x1C001D1C9e8c7B8dC717c714d30b31480ab360F5",
       "chainId": 1,
       "price": 0.04505
+  },
+  {
+      "name": "Magnum Trading",
+      "symbol": "MAG",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28716.png",
+      "address": "0xb9d4B6DC1e1Ee3577CC442dE015CC11F238B35ed",
+      "chainId": 1,
+      "price": 0.5032
+  },
+  {
+      "name": "UBD Network",
+      "symbol": "UBDN",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28714.png",
+      "address": "0xd624e5c89466a15812c1d45ce1533be1f16c1702",
+      "chainId": 1,
+      "price": 2.95
    }
 ]
