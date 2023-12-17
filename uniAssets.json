@@ -2334,5 +2334,13 @@
       "address": "0x20fCefA41045080764C48C2b9429e44C644e5deA",
       "chainId": 1,
       "price": 0.08224
+  },
+  {
+      "name": "PaladinAI",
+      "symbol": "PALAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/33703/standard/Design_sans_titre_%288%29_%282%29.png?1702826502",
+      "address": "0x3cb48aeb3d1abadc23d2d8a6894b3a68338381c2",
+      "chainId": 1,
+      "price": 0.02657582
    }
 ]
