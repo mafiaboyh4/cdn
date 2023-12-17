@@ -2326,5 +2326,13 @@
       "address": "0xd624e5c89466a15812c1d45ce1533be1f16c1702",
       "chainId": 1,
       "price": 2.95
+  },
+  {
+      "name": "Foox",
+      "symbol": "FOOX",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28733.png",
+      "address": "0x20fCefA41045080764C48C2b9429e44C644e5deA",
+      "chainId": 1,
+      "price": 0.08224
    }
 ]
