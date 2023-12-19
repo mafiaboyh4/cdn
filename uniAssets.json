@@ -2351,12 +2351,12 @@
       "chainId": 1,
       "price": 0.000002261
   },
-  {
-      "name": "Nola",
-      "symbol": "NOLA",
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28763.png",
-      "address": "0xF8388c2B6Edf00E2E27eEF5200B1beFB24cE141d",
-      "chainId": 1,
-      "price": 0.007377
-  }
+    {
+    "name": "Nola",
+    "symbol": "NOLA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28763.png",
+    "address": "0xF8388c2B6Edf00E2E27eEF5200B1beFB24cE141d",
+    "chainId": 1,
+    "price": 0.007377
+    }
 ]
