@@ -2374,5 +2374,13 @@
     "address": "0xeAA63125dd63f10874F99CdBbb18410e7Fc79dD3",
     "chainId": 1,
     "price": 0.002329
+  },
+  {
+    "name": "BLOX",
+    "symbol": "BLOX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28787.png",
+    "address": "0xc9f00080d96cea3ef92d2e2e563d4cd41fb5bb36",
+    "chainId": 1,
+    "price": 0.1155
   }
 ]
