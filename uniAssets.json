@@ -2366,5 +2366,13 @@
     "address": "0x5117f4Ad0bc70Dbb3B05bF39A1EC1Ee40DD67654",
     "chainId": 1,
     "price": 0.1267
+  },
+  {
+    "name": "Hemule",
+    "symbol": "HEMULE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28786.png",
+    "address": "0xeAA63125dd63f10874F99CdBbb18410e7Fc79dD3",
+    "chainId": 1,
+    "price": 0.002329
   }
 ]
