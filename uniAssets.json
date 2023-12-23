@@ -2382,5 +2382,13 @@
     "address": "0xc9f00080d96cea3ef92d2e2e563d4cd41fb5bb36",
     "chainId": 1,
     "price": 0.1155
+  },
+  {
+    "name": "TurtSat",
+    "symbol": "TURT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28826.png",
+    "address": "0x0800394f6E23dD539929c8B77a3d45c96F76AEFC",
+    "chainId": 1,
+    "price": 0.06788
   }
 ]
