@@ -2390,5 +2390,13 @@
     "address": "0x0800394f6E23dD539929c8B77a3d45c96F76AEFC",
     "chainId": 1,
     "price": 0.06788
+  },
+  {
+    "name": "Mind",
+    "symbol": "MND",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28834.png",
+    "address": "0xa0Dd6dd7775E93EB842Db0AA142c9c581031Ed3B",
+    "chainId": 1,
+    "price": 0.07516
   }
 ]
