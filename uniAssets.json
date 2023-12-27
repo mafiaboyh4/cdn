@@ -2414,5 +2414,13 @@
     "address": "0xc256f81d35a54c3599b424171d719e9ae87b2e9b",
     "chainId": 1,
     "price": 0.03560071
+  },
+  {
+    "name": "BDID",
+    "symbol": "BDID",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28858.png",
+    "address": "0x5016878159e84daDB05bB04135F3eAc339ae201f",
+    "chainId": 1,
+    "price": 0.01525
   }
 ]
