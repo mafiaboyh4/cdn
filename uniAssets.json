@@ -2422,5 +2422,13 @@
     "address": "0x5016878159e84daDB05bB04135F3eAc339ae201f",
     "chainId": 1,
     "price": 0.01525
+  },
+  {
+    "name": "Elosys",
+    "symbol": "ELO",
+    "logoURI": "https://assets.coingecko.com/coins/images/34040/standard/logo200x200.png?1703693735",
+    "address": "0x61b34a012646cd7357f58ee9c0160c6d0021fa41",
+    "chainId": 1,
+    "price": 0.159427
   }
 ]
