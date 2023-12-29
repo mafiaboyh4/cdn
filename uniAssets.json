@@ -2430,5 +2430,13 @@
     "address": "0x61b34a012646cd7357f58ee9c0160c6d0021fa41",
     "chainId": 1,
     "price": 0.159427
+  },
+  {
+    "name": "AIT Protocol",
+    "symbol": "AIT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28882.png",
+    "address": "0x89d584A1EDB3A70B3B07963F9A3eA5399E38b136",
+    "chainId": 1,
+    "price": 0.1234
   }
 ]
