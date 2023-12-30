@@ -2438,5 +2438,13 @@
     "address": "0x89d584A1EDB3A70B3B07963F9A3eA5399E38b136",
     "chainId": 1,
     "price": 0.1234
+  },
+  {
+    "name": "Bahamas",
+    "symbol": "BAHAMAS",
+    "logoURI": "https://assets.coingecko.com/coins/images/34089/standard/Bahamas_Logo_200x200.png?1703911941",
+    "address": "0x426aedbed16726e3f220cb4fed4d4060b95cca46",
+    "chainId": 1,
+    "price": 0.00002093
   }
 ]
