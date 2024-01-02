@@ -2470,5 +2470,13 @@
     "address": "0x2598c30330d5771ae9f983979209486ae26de875",
     "chainId": 1,
     "price": 0.00000234
+  },
+  {
+    "name": "OrdBridge",
+    "symbol": "BRGE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28907.png",
+    "address": "0x6602E9319f2c5eC0Ba31ffcdc4301d7Ef03b709E",
+    "chainId": 1,
+    "price": 0.1401
   }
 ]
