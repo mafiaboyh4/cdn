@@ -2462,5 +2462,13 @@
     "address": "0x185ece9bc75164f9fc0fbe44738e8dd1863f8464",
     "chainId": 1,
     "price": 0.053752
+  },
+  {
+    "name": "Any Inu",
+    "symbol": "AI",
+    "logoURI": "https://assets.coingecko.com/coins/images/34126/standard/anyinulogo200.png?1704174269",
+    "address": "0x2598c30330d5771ae9f983979209486ae26de875",
+    "chainId": 1,
+    "price": 0.00000234
   }
 ]
