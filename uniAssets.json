@@ -2486,5 +2486,13 @@
     "address": "0x8b4d316e40ac4baf08957963210c6cff683a152b",
     "chainId": 1,
     "price": 108.08
+  },
+  {
+    "name": "Ordiswap",
+    "symbol": "ORDS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28920.png",
+    "address": "0x8AB2ff0116A279a99950C66A12298962D152B83c",
+    "chainId": 1,
+    "price": 0.07897
   }
 ]
