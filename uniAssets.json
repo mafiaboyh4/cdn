@@ -2494,5 +2494,13 @@
     "address": "0x8AB2ff0116A279a99950C66A12298962D152B83c",
     "chainId": 1,
     "price": 0.07804
+  },
+  {
+    "name": "BRC App",
+    "symbol": "BRCT",
+    "logoURI": "https://assets.coingecko.com/coins/images/34244/standard/BRC_X_Banners-19.jpg?1704338085",
+    "address": "0x455ad1bc4e18fd4e369234b6e11d88acbc416758",
+    "chainId": 1,
+    "price": 0.04474963
   }
 ]
