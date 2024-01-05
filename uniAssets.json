@@ -2502,5 +2502,13 @@
     "address": "0x455ad1bc4e18fd4e369234b6e11d88acbc416758",
     "chainId": 1,
     "price": 0.04474963
+  },
+  {
+    "name": "Silly Dragon",
+    "symbol": "SILLY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28957.png",
+    "address": "0xC2099171AEBDdaa05418a4FBF4f79E3A9A3a4297",
+    "chainId": 1,
+    "price": 0.0000155
   }
 ]
