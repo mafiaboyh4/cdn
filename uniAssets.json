@@ -2518,5 +2518,13 @@
     "address": "0x6a7eff1e2c355ad6eb91bebb5ded49257f3fed98",
     "chainId": 1,
     "price": 0.04563694
+  },
+  {
+    "name": "Volumint",
+    "symbol": "VMINT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28962.png",
+    "address": "0xD7B2C1a7F3c67fB0EA57a7ef29bC1F18D7bE3195",
+    "chainId": 1,
+    "price": 0.01372
   }
 ]
