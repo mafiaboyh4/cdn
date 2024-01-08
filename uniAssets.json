@@ -2534,5 +2534,13 @@
     "address": "0x95640a134721475bc78594c8ea66c0182c7b9a50",
     "chainId": 1,
     "price": 0.1528
+  },
+  {
+    "name": "Steamboat Willie",
+    "symbol": "MICKEY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28971.png",
+    "address": "0x9609b540e5Dedddb147AbBF9812ADE06b1e61B2C",
+    "chainId": 1,
+    "price": 0.0105
   }
 ]
