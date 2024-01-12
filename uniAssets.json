@@ -2542,5 +2542,13 @@
     "address": "0x9609b540e5Dedddb147AbBF9812ADE06b1e61B2C",
     "chainId": 1,
     "price": 0.0105
+  },
+  {
+    "name": "Moon App",
+    "symbol": "APP",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29020.png",
+    "address": "0xC5d27F27F08D1FD1E3EbBAa50b3442e6c0D50439",
+    "chainId": 1,
+    "price": 0.04187
   }
 ]
