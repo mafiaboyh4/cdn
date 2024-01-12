@@ -2558,5 +2558,13 @@
     "address": "0xF19308F923582A6f7c465e5CE7a9Dc1BEC6665B1",
     "chainId": 1,
     "price": 0.000001205
+  },
+  {
+    "name": "TaoPad",
+    "symbol": "TPAD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29007.png",
+    "address": "0x5483DC6abDA5F094865120B2D251b5744fc2ECB5",
+    "chainId": 1,
+    "price": 7.51
   }
 ]
