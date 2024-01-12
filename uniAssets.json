@@ -2550,5 +2550,13 @@
     "address": "0xC5d27F27F08D1FD1E3EbBAa50b3442e6c0D50439",
     "chainId": 1,
     "price": 0.04187
+  },
+  {
+    "name": "TitanX",
+    "symbol": "TITANX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29019.png",
+    "address": "0xF19308F923582A6f7c465e5CE7a9Dc1BEC6665B1",
+    "chainId": 1,
+    "price": 0.000001205
   }
 ]
