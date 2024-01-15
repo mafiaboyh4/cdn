@@ -2568,11 +2568,19 @@
     "price": 7.51
   },
   {
-  "name": "GameGPT",
-  "symbol": "DUEL",
-  "logoURI": "https://assets.coingecko.com/coins/images/34491/standard/duel.jpeg?1705056819",
-  "address": "0x943af2ece93118b973c95c2f698ee9d15002e604",
-  "chainId": 1,
-  "price": 0.02185
+    "name": "GameGPT",
+    "symbol": "DUEL",
+    "logoURI": "https://assets.coingecko.com/coins/images/34491/standard/duel.jpeg?1705056819",
+    "address": "0x943af2ece93118b973c95c2f698ee9d15002e604",
+    "chainId": 1,
+    "price": 0.02185
+  },
+  {
+    "name": "Port3 Network",
+    "symbol": "PORT3",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29030.png",
+    "address": "0xb4357054c3da8d46ed642383f03139ac7f090343",
+    "chainId": 1,
+    "price": 0.1158
   }
 ]
