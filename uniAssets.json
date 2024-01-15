@@ -1856,14 +1856,6 @@
        "price": 0.624179
    },
    {
-       "name": "TitanX",
-       "symbol": "TITANX",
-       "logoURI": "https://static.coingecko.com/s/missing_standard-de303d622235a7cd2ddba6e0c5fbcb9be08abc09e609e171ff207cfad9aeae6f.png",
-       "address": "0xf19308f923582a6f7c465e5ce7a9dc1bec6665b1",
-       "chainId": 1,
-       "price": 0.00000341
-   },
-   {
        "name": "LEEROY JENKINS",
        "symbol": "LEEROY",
        "logoURI": "https://assets.coingecko.com/coins/images/32774/standard/IMG_20231106_175636_467.jpg?1699343781",
