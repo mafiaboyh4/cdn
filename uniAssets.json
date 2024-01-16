@@ -2584,11 +2584,11 @@
     "price": 2545.51
   },
   {
-    "name": "Zuzalu Inu",
-    "symbol": "ZUZALU",
-    "logoURI": "https://assets.coingecko.com/coins/images/34552/standard/Safeimagekit-resized-img_%2822%29.png?1705368533",
-    "address": "0xd1f17b7a6bff962659ed608bcd6d318bb5fbb249",
-    "chainId": 1,
-    "price": 0.01338
+  "name": "Zuzalu Inu",
+  "symbol": "ZUZALU",
+  "logoURI": "https://assets.coingecko.com/coins/images/34552/standard/Safeimagekit-resized-img_%2822%29.png?1705368533",
+  "address": "0xd1f17b7a6bff962659ed608bcd6d318bb5fbb249",
+  "chainId": 1,
+  "price": 0.01338
   }
 ]
