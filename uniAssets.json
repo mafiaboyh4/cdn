@@ -2590,5 +2590,13 @@
   "address": "0xd1f17b7a6bff962659ed608bcd6d318bb5fbb249",
   "chainId": 1,
   "price": 0.01338
+  },
+  {
+    "name": "Ondo",
+    "symbol": "ONDO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21159.png",
+    "address": "0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3",
+    "chainId": 1,
+    "price": 0.1204
   }
 ]
