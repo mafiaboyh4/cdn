@@ -2592,11 +2592,18 @@
   "price": 0.01338
   },
   {
-"name": "Ondo",
-"symbol": "ONDO",
+"name": "SatoshiVM",
+"symbol": "SAVM",
 "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21159.png",
 "address": "0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3",
 "chainId": 1,
 "price": 0.1204
+  }, {
+"name": "Ondo",
+"symbol": "ONDO",
+"logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29095.png",
+"address": "0x15e6E0D4ebeAC120F9a97e71FaA6a0235b85ED12",
+"chainId": 1,
+"price": 9.23
   }
 ]
