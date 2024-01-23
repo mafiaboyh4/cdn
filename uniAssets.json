@@ -2622,5 +2622,13 @@
       "address": "0xaa68fd12a3b0f7aea66fe8f7111ae3f8d9ac5058",
       "chainId": 1,
       "price": 0.00001078
+  },
+  {
+      "name": "RichRabbit",
+      "symbol": "RABBIT",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29140.png",
+      "address": "BCpa4PVRovJv9EszgYvLRh1WqHq1PjE6LCr9EBdWGSa9",
+      "chainId": 1,
+      "price": 0.03056
   }
 ]
