@@ -2606,5 +2606,21 @@
       "address": "0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3",
       "chainId": 1,
       "price": 0.2085
+  },
+  {
+      "name": "Ice: Decentralized Future",
+      "symbol": "ICE",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27650.png",
+      "address": "0xc335df7c25b72eec661d5aa32a7c2b7b2a1d1874",
+      "chainId": 56,
+      "price": 0.00002078
+  },
+  {
+      "name": "Tweety",
+      "symbol": "TWEETY",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27183.png",
+      "address": "0xaa68fd12a3b0f7aea66fe8f7111ae3f8d9ac5058",
+      "chainId": 1,
+      "price": 0.00001078
   }
 ]
