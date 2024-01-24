@@ -2638,5 +2638,13 @@
       "address": "0x3E362038fD3d08887d498944D489aF7909619a9B",
       "chainId": 1,
       "price": 0.000002016
+  },
+  {
+      "name": "Pablo DeFi",
+      "symbol": "PABLO",
+      "logoURI": "https://assets.coingecko.com/coins/images/34799/standard/FSNlYKG.png?1706074430",
+      "address": "0x926ff6584b5905cc793cfb19bfc0ad6443671f47",
+      "chainId": 1,
+      "price": 0.2448
   }
 ]
