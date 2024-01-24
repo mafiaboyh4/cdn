@@ -2646,5 +2646,13 @@
       "address": "0x926ff6584b5905cc793cfb19bfc0ad6443671f47",
       "chainId": 1,
       "price": 0.2448
+  },
+  {
+      "name": "BIDEN 2024",
+      "symbol": "BIDEN2024",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29159.png",
+      "address": "0xbcd29da38b66e2b7855c92080ebe82330ed2012a",
+      "chainId": 1,
+      "price": 0.0000000004529
   }
 ]
