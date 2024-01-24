@@ -2630,5 +2630,13 @@
       "address": "BCpa4PVRovJv9EszgYvLRh1WqHq1PjE6LCr9EBdWGSa9",
       "chainId": 1,
       "price": 0.03056
+  },
+  {
+      "name": "CHOW CHOW",
+      "symbol": "CHOW",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26529.png",
+      "address": "0x3E362038fD3d08887d498944D489aF7909619a9B",
+      "chainId": 1,
+      "price": 0.000002016
   }
 ]
