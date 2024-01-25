@@ -2662,5 +2662,13 @@
       "address": "0x61ec85ab89377db65762e234c946b5c25a56e99e",
       "chainId": 1,
       "price": 0.000002059
+  },
+  {
+      "name": "Huobi Token",
+      "symbol": "HT",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2502.png",
+      "address": "0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+      "chainId": 1,
+      "price": 2.40
   }
 ]
