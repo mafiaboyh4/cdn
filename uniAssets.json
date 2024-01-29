@@ -2694,5 +2694,13 @@
       "address": "0x02f92800f57bcd74066f5709f1daa1a4302df875",
       "chainId": 1,
       "price": 11.14
+  },
+  {
+      "name": "Ethereum Inu",
+      "symbol": "ETHINU",
+      "logoURI": "https://assets.coingecko.com/coins/images/34875/standard/1000024435.jpg?1706496056",
+      "address": "0x1ef846ce0da79d8d4e111bf8c5117cd1209a0478",
+      "chainId": 1,
+      "price": 0.0001832
   }
 ]
