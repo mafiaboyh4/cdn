@@ -2734,5 +2734,13 @@
       "address": "0xb9f599ce614Feb2e1BBe58F180F370D05b39344E",
       "chainId": 1,
       "price": 0.0000001154
+  },
+  {
+      "name": "Dmail Network",
+      "symbol": "DMAIL",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19779.png",
+      "address": "0xcC6f1e1B87cfCbe9221808d2d85C501aab0B5192",
+      "chainId": 1,
+      "price": 0.6395
   }
 ]
