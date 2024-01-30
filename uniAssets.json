@@ -2718,5 +2718,13 @@
         "address": "0xB3BeC36E9FB41c88B0F0433A3e5F16Cf0DD7e0A3",
         "chainId": 137,
         "price": 3.29
+  },
+  {
+        "name": "Vector",
+        "symbol": "VEC",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29218.png",
+        "address": "0x1BB9b64927e0C5e207C9DB4093b3738Eef5D8447",
+        "chainId": 1,
+        "price": 47.81
   }
 ]
