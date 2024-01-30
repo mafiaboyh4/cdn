@@ -2702,5 +2702,21 @@
       "address": "0x1ef846ce0da79d8d4e111bf8c5117cd1209a0478",
       "chainId": 1,
       "price": 0.0001832
+  },
+  {
+      "name": "UZX",
+      "symbol": "UZX",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29216.png",
+      "address": "0xB3BeC36E9FB41c88B0F0433A3e5F16Cf0DD7e0A2",
+      "chainId": 1,
+      "price": 3.29
+  },
+  {
+      "name": "UZX",
+      "symbol": "UZX",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29216.png",
+      "address": "0xB3BeC36E9FB41c88B0F0433A3e5F16Cf0DD7e0A3",
+      "chainId": 137,
+      "price": 3.29
   }
 ]
