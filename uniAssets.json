@@ -2758,12 +2758,21 @@
     "address": "0xa1290d69c65a6fe4df752f95823fae25cb99e5a7",
     "chainId": 1,
     "price": 2319.71
-  },{
+  },
+  {
     "name": "TRUMP2024",
     "symbol": "TRUMP2024",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29227.png",
     "address": "0xDF0E9F498c39E1Ad58D5e69A71915D2E262369E4",
     "chainId": 1,
     "price": 0.000000001423
+  },
+  {
+    "name": "喵喵喵喵喵",
+    "symbol": "喵喵喵喵喵",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29254.png",
+    "address": "0x77be1ba1cd2d7a63bffc772d361168cc327dd8bc",
+    "chainId": 1,
+    "price": 0.000002808
   }
 ]
