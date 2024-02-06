@@ -2822,5 +2822,13 @@
     "address": "0x5a9261B023692405F2F680240C6B010638e416Dd",
     "chainId": 1,
     "price": 0.06835
+  },
+  {
+    "name": "dogwifhat Eth",
+    "symbol": "DOGWIFHAT",
+    "logoURI": "https://assets.coingecko.com/coins/images/35029/standard/dogwifhat_Eth.png?1707155488",
+    "address": "0x8aec4bbdcfb451aa289bfbd3c2f4e34a44ada1be",
+    "chainId": 1,
+    "price": 0.0375
   }
 ]
