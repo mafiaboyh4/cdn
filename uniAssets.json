@@ -2790,5 +2790,37 @@
     "address": "0xe085ff62e049b5e3a8d12bc6dffc2dfa329a8894",
     "chainId": 1,
     "price": 0.009317
+  },
+  {
+    "name": "Shiba 3.0",
+    "symbol": "SHIBA 3.0",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29285.png",
+    "address": "0xbc5311653dbbd1ecaff00fdb5985449cbfd77c98",
+    "chainId": 1,
+    "price": 0.000000000000000135
+  },
+  {
+    "name": "Casinu Inu",
+    "symbol": "CASINU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29292.png",
+    "address": "0x1b54a6fa1360bd71a0f28f77a1d6fba215d498c3",
+    "chainId": 1,
+    "price": 0.00002136
+  },
+  {
+    "name": "Pandora",
+    "symbol": "PANDORA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29291.png",
+    "address": "0x9e9fbde7c7a83c43913bddc8779158f1368f0413",
+    "chainId": 1,
+    "price": 8615.96
+  },
+  {
+    "name": "Janus Interactive",
+    "symbol": "JAN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29223.png",
+    "address": "0x5a9261B023692405F2F680240C6B010638e416Dd",
+    "chainId": 1,
+    "price": 0.06835
   }
 ]
