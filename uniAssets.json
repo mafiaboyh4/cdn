@@ -2846,5 +2846,13 @@
     "address": "0x8A370C951F34e295B2655B47bB0985dD08d8f718",
     "chainId": 1,
     "price": 0.04094
+  },
+  {
+    "name": "Animalia",
+    "symbol": "ANIM",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14959.png",
+    "address": "0xfbcb5cbedeebcc55dcd136d34db1daaf74cf67e8",
+    "chainId": 1,
+    "price": 0.3258
   }
 ]
