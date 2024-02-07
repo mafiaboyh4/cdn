@@ -2862,5 +2862,13 @@
     "address": "0xd555498a524612c67f286df0e0a9a64a73a7cdc7",
     "chainId": 1,
     "price": 1087.57
+  },
+  {
+    "name": "BEBE",
+    "symbol": "BEBE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29330.png",
+    "address": "0xec21890967a8ceb3e55a3f79dac4e90673ba3c2e",
+    "chainId": 1,
+    "price": 0.00000001904
   }
 ]
