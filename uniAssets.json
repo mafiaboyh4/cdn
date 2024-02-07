@@ -2854,5 +2854,13 @@
     "address": "0xfbcb5cbedeebcc55dcd136d34db1daaf74cf67e8",
     "chainId": 1,
     "price": 0.3258
+  },
+  {
+    "name": "DeFrogs",
+    "symbol": "DEFROGS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29328.png",
+    "address": "0xd555498a524612c67f286df0e0a9a64a73a7cdc7",
+    "chainId": 1,
+    "price": 1087.57
   }
 ]
