@@ -2870,5 +2870,53 @@
     "address": "0xec21890967a8ceb3e55a3f79dac4e90673ba3c2e",
     "chainId": 1,
     "price": 0.00000001904
+  },
+  {
+    "name": "EtherRock404",
+    "symbol": "ROCK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29337.png",
+    "address": "0xB5C457dDB4cE3312a6C5a2b056a1652bd542a208",
+    "chainId": 1,
+    "price": 35016.89
+  },
+  {
+    "name": "Rugged Art",
+    "symbol": "RUG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29338.png",
+    "address": "0xbE33F57f41a20b2f00DEc91DcC1169597f36221F",
+    "chainId": 1,
+    "price": 926.27
+  },
+  {
+    "name": "Anon",
+    "symbol": "ANON",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29336.png",
+    "address": "0x1f0efa15e9cb7ea9596257da63fecc36ba469b30",
+    "chainId": 1,
+    "price": 12961.98
+  },
+  {
+    "name": "LONGTOTEM",
+    "symbol": "LONG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29266.png",
+    "address": "0xbe59baAd09B07086EE6C39BD0fC234c157C31ccc",
+    "chainId": 1,
+    "price": 0.003877
+  },
+  {
+    "name": "YES",
+    "symbol": "YES",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29342.png",
+    "address": "0xfc10cd3895f2c66d6639ec33ae6360d6cfca7d6d",
+    "chainId": 1,
+    "price": 62.62
+  },
+  {
+    "name": "Crystal",
+    "symbol": "CRYSTAL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29343.png",
+    "address": "0xd07d35368e04a839dee335e213302b21ef14bb4a",
+    "chainId": 1,
+    "price": 462.10
   }
 ]
