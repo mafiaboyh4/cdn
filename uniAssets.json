@@ -2918,5 +2918,29 @@
     "address": "0xd07d35368e04a839dee335e213302b21ef14bb4a",
     "chainId": 1,
     "price": 462.10
+  },
+  {
+    "name": "Monarch",
+    "symbol": "Monarch",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29357.png",
+    "address": "0x6c061d18d2b5bbfbe8a8d1eeb9ee27efd544cc5d",
+    "chainId": 1,
+    "price": 1439
+  },
+  {
+    "name": "Potion 404",
+    "symbol": "P404",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29360.png",
+    "address": "0x177c3973b16c16fb5d934ca92b6e6afb03383268",
+    "chainId": 1,
+    "price": 2017.92
+  },
+  {
+    "name": "404 Bakery",
+    "symbol": "BAKE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29361.png",
+    "address": "0x44face2e310e543f6d85867eb06fb251e3bfe1fc",
+    "chainId": 1,
+    "price": 0.01796
   }
 ]
