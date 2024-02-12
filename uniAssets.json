@@ -2872,14 +2872,78 @@
     "price": 0.00000001904
   },
   {
-    "name": "Memefi Toybox 404",
-    "symbol": "TOYBOX",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29373.png",
-    "address": "0xb9f69c75a3b67425474f8bCab9a3626d8b8249e1",
+    "name": "EtherRock404",
+    "symbol": "ROCK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29337.png",
+    "address": "0xB5C457dDB4cE3312a6C5a2b056a1652bd542a208",
     "chainId": 1,
-    "price": 131.47
+    "price": 35016.89
   },
   {
+    "name": "Rugged Art",
+    "symbol": "RUG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29338.png",
+    "address": "0xbE33F57f41a20b2f00DEc91DcC1169597f36221F",
+    "chainId": 1,
+    "price": 926.27
+  },
+  {
+    "name": "Anon",
+    "symbol": "ANON",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29336.png",
+    "address": "0x1f0efa15e9cb7ea9596257da63fecc36ba469b30",
+    "chainId": 1,
+    "price": 12961.98
+  },
+  {
+    "name": "LONGTOTEM",
+    "symbol": "LONG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29266.png",
+    "address": "0xbe59baAd09B07086EE6C39BD0fC234c157C31ccc",
+    "chainId": 1,
+    "price": 0.003877
+  },
+  {
+    "name": "YES",
+    "symbol": "YES",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29342.png",
+    "address": "0xfc10cd3895f2c66d6639ec33ae6360d6cfca7d6d",
+    "chainId": 1,
+    "price": 62.62
+  },
+  {
+    "name": "Crystal",
+    "symbol": "CRYSTAL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29343.png",
+    "address": "0xd07d35368e04a839dee335e213302b21ef14bb4a",
+    "chainId": 1,
+    "price": 462.10
+  },
+  {
+    "name": "Monarch",
+    "symbol": "Monarch",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29357.png",
+    "address": "0x6c061d18d2b5bbfbe8a8d1eeb9ee27efd544cc5d",
+    "chainId": 1,
+    "price": 1439
+  },
+  {
+    "name": "Potion 404",
+    "symbol": "P404",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29360.png",
+    "address": "0x177c3973b16c16fb5d934ca92b6e6afb03383268",
+    "chainId": 1,
+    "price": 2017.92
+  },
+  {
+    "name": "404 Bakery",
+    "symbol": "BAKE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29361.png",
+    "address": "0x44face2e310e543f6d85867eb06fb251e3bfe1fc",
+    "chainId": 1,
+    "price": 0.01796
+  },
+    {
     "name": "Memefi Toybox 404",
     "symbol": "TOYBOX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29373.png",
