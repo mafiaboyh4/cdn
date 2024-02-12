@@ -2870,5 +2870,29 @@
     "address": "0xec21890967a8ceb3e55a3f79dac4e90673ba3c2e",
     "chainId": 1,
     "price": 0.00000001904
+  },
+  {
+    "name": "Memefi Toybox 404",
+    "symbol": "TOYBOX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29373.png",
+    "address": "0xb9f69c75a3b67425474f8bCab9a3626d8b8249e1",
+    "chainId": 1,
+    "price": 131.47
+  },
+  {
+    "name": "Memefi Toybox 404",
+    "symbol": "TOYBOX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29373.png",
+    "address": "0xb9f69c75a3b67425474f8bCab9a3626d8b8249e1",
+    "chainId": 1,
+    "price": 131.47
+  },
+  {
+    "name": "MINER",
+    "symbol": "MINER",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29372.png",
+    "address": "0xe77ec1bf3a5c95bfe3be7bdbacfe3ac1c7e454cd",
+    "chainId": 1,
+    "price": 39.12
   }
 ]
