@@ -2966,5 +2966,21 @@
     "address": "0x08A1C30BBB26425c1031ee9E43FA0B9960742539",
     "chainId": 1,
     "price": 1.09
+  },
+  {
+    "name": "Asterix Labs",
+    "symbol": "ASTX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29387.png",
+    "address": "0x0000000000ca73A6df4C58b84C5B4b847FE8Ff39",
+    "chainId": 1,
+    "price": 703.56
+  },
+  {
+    "name": "404Blocks",
+    "symbol": "404BLOCKS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29389.png",
+    "address": "0x45b3Cf56896c4547426A4145AD1D0AE971120214",
+    "chainId": 1,
+    "price": 5781.28
   }
 ]
