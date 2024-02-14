@@ -2990,5 +2990,13 @@
     "address": "0x2c06ba9e7f0daccbc1f6a33ea67e85bb68fbee3a",
     "chainId": 1,
     "price": 0.1345
+  },
+  {
+    "name": "SatNode",
+    "symbol": "SND",
+    "logoURI": "https://assets.coingecko.com/coins/images/35214/standard/New_Project_%283%29_%281%29.png?1707898354",
+    "address": "0xd12b2859227b88c8065b6216e6e1b980d8dfe152",
+    "chainId": 1,
+    "price": 0.06112
   }
 ]
