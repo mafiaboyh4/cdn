@@ -2998,5 +2998,13 @@
     "address": "0xd12b2859227b88c8065b6216e6e1b980d8dfe152",
     "chainId": 1,
     "price": 0.06112
+  },
+  {
+    "name": "SPYRO",
+    "symbol": "SPYRO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29412.png",
+    "address": "0x6d7497751656618fc38cfb5478994a20f7e235df",
+    "chainId": 1,
+    "price": 0.000008144
   }
 ]
