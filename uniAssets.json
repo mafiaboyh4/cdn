@@ -3006,5 +3006,21 @@
     "address": "0x6d7497751656618fc38cfb5478994a20f7e235df",
     "chainId": 1,
     "price": 0.000008144
+  },
+  {
+    "name": "Sora",
+    "symbol": "SORA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29434.png",
+    "address": "0xb8a87405d9a4F2F866319B77004e88dfF66c0d92",
+    "chainId": 1,
+    "price": 0.008883
+  },
+  {
+    "name": "Arbius",
+    "symbol": "AIUS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29433.png",
+    "address": "0xe3dbc4f88eaa632ddf9708732e2832eeaa6688ab",
+    "chainId": 1,
+    "price": 630.35
   }
 ]
