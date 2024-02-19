@@ -3022,5 +3022,13 @@
     "address": "0xe3dbc4f88eaa632ddf9708732e2832eeaa6688ab",
     "chainId": 1,
     "price": 630.35
+  },
+  {
+    "name": "enqAI",
+    "symbol": "EnqAI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24489.png",
+    "address": "0x710287D1D39DCf62094A83EBB3e736e79400068a",
+    "chainId": 1,
+    "price": 0.05574
   }
 ]
