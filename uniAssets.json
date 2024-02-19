@@ -3030,5 +3030,13 @@
     "address": "0x710287D1D39DCf62094A83EBB3e736e79400068a",
     "chainId": 1,
     "price": 0.05574
+  },
+  {
+    "name": "zKML",
+    "symbol": "ZKML",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29445.png",
+    "address": "0xE92344b4eDF545F3209094B192E46600A19E7C2D",
+    "chainId": 1,
+    "price": 0.1492
   }
 ]
