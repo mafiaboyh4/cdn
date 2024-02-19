@@ -3037,6 +3037,22 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29445.png",
     "address": "0xE92344b4eDF545F3209094B192E46600A19E7C2D",
     "chainId": 1,
-    "price": 0.1492
+    "price": 0.1346
+  },
+  {
+    "name": "Pixels",
+    "symbol": "PIXEL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29335.png",
+    "address": "0x3429d03c6F7521AeC737a0BBF2E5ddcef2C3Ae31",
+    "chainId": 1,
+    "price": 0.5197
+  },
+  {
+    "name": "Ryoshi Research",
+    "symbol": "RYOSHI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29446.png",
+    "address": "0x65E9ED59a6c03e97aE984B6C4ff912448eBD3566",
+    "chainId": 1,
+    "price": 0.2607
   }
 ]
