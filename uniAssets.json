@@ -3078,5 +3078,13 @@
     "address": "0x10703ca5e253306e2ababd68e963198be8887c81",
     "chainId": 1,
     "price": 0.2217
+  },
+  {
+    "name": "MetaZero",
+    "symbol": "MZERO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29492.png",
+    "address": "0x328a268b191ef593b72498a9e8a481c086eb21be",
+    "chainId": 1,
+    "price": 0.1063
   }
 ]
