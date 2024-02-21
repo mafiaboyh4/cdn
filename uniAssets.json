@@ -3070,5 +3070,13 @@
     "address": "0xBEF26Bd568e421D6708CCA55Ad6e35f8bfA0C406",
     "chainId": 1,
     "price": 0.442
+  },
+  {
+    "name": "0xScans",
+    "symbol": "SCANS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29493.png",
+    "address": "0x10703ca5e253306e2ababd68e963198be8887c81",
+    "chainId": 1,
+    "price": 0.2217
   }
 ]
