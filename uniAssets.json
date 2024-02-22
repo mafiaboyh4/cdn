@@ -3086,5 +3086,13 @@
     "address": "0x328a268b191ef593b72498a9e8a481c086eb21be",
     "chainId": 1,
     "price": 0.1063
+  },
+  {
+    "name": "Troll (NEW)",
+    "symbol": "TROLL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29505.png",
+    "address": "0xf8ebf4849f1fa4faf0dff2106a173d3a6cb2eb3a",
+    "chainId": 1,
+    "price": 0.00000003699
   }
 ]
