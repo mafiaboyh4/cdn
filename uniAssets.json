@@ -3134,5 +3134,13 @@
     "address": "0xbf5495Efe5DB9ce00f80364C8B423567e58d2110",
     "chainId": 1,
     "price": 2950.72
+  },
+  {
+    "name": "BuildAI",
+    "symbol": "BUILD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29514.png",
+    "address": "0x73454acfddb7a36a3cd8eb171fbea86c6a55e550",
+    "chainId": 1,
+    "price": 0.2537
   }
 ]
