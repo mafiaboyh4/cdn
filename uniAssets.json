@@ -3094,5 +3094,37 @@
     "address": "0xf8ebf4849f1fa4faf0dff2106a173d3a6cb2eb3a",
     "chainId": 1,
     "price": 0.00000003699
+  },
+  {
+    "name": "Commune AI",
+    "symbol": "COMAI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29509.png",
+    "address": "0xc78b628b060258300218740b1a7a5b3c82b3bd9f",
+    "chainId": 1,
+    "price": 2.86
+  },
+  {
+    "name": "Balance AI",
+    "symbol": "BAI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29510.png",
+    "address": "0x8ccd897ca6160ed76755383b201c1948394328c7",
+    "chainId": 1,
+    "price": 9.20
+  },
+  {
+    "name": "MINER (NEW)",
+    "symbol": "MINER",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29512.png",
+    "address": "0x23cbb9f0de3258de03baad2bcea4fccc55233af0",
+    "chainId": 1,
+    "price": 183.73
+  },
+  {
+    "name": "Node AI",
+    "symbol": "GPU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29513.png",
+    "address": "0x1258d60b224c0c5cd888d37bbf31aa5fcfb7e870",
+    "chainId": 1,
+    "price": 0.06509
   }
 ]
