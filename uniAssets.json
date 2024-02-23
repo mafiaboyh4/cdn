@@ -3126,5 +3126,13 @@
     "address": "0x1258d60b224c0c5cd888d37bbf31aa5fcfb7e870",
     "chainId": 1,
     "price": 0.06509
+  },
+  {
+    "name": "Renzo Protocol ",
+    "symbol": "EZETH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29520.png",
+    "address": "0xbf5495Efe5DB9ce00f80364C8B423567e58d2110",
+    "chainId": 1,
+    "price": 2950.72
   }
 ]
