@@ -3142,5 +3142,21 @@
     "address": "0x73454acfddb7a36a3cd8eb171fbea86c6a55e550",
     "chainId": 1,
     "price": 0.2537
+  },
+  {
+    "name": "TaoBank",
+    "symbol": "TBANK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29527.png",
+    "address": "0x95CcffaE3Eb8767D4a941Ec43280961dde89F4dE",
+    "chainId": 1,
+    "price": 0.7713
+  },
+  {
+    "name": "Anonify",
+    "symbol": "ONI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29528.png",
+    "address": "0x378878Af3228D23891dE306cb2b123d837d0dcF1",
+    "chainId": 1,
+    "price": 0.6657
   }
 ]
