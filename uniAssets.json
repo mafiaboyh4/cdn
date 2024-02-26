@@ -3158,5 +3158,13 @@
     "address": "0x378878Af3228D23891dE306cb2b123d837d0dcF1",
     "chainId": 1,
     "price": 0.6657
+  },
+  {
+    "name": "Paradox",
+    "symbol": "PDX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29542.png",
+    "address": "0x8b8aa7777e18408c07b0ed52ca3dd5bdab34eb7e",
+    "chainId": 1,
+    "price": 431.64
   }
 ]
