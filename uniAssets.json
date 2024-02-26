@@ -3166,5 +3166,13 @@
     "address": "0x8b8aa7777e18408c07b0ed52ca3dd5bdab34eb7e",
     "chainId": 1,
     "price": 431.64
+  },
+  {
+    "name": "Oracle AI",
+    "symbol": "ORACLE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29536.png",
+    "address": "0x57B49219614859176Ddb029298486B6c30193Cbd",
+    "chainId": 1,
+    "price": 0.00275
   }
 ]
