@@ -3182,5 +3182,13 @@
     "address": "0x2F3d0d2317802A65FAAC6e4cd94067c37B4d4804",
     "chainId": 1,
     "price": 0.0401
+  },
+  {
+    "name": "TAO INU",
+    "symbol": "TAONU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29554.png",
+    "address": "0x4e9fcD48Af4738e3bF1382009dC1e93eBFCE698F",
+    "chainId": 1,
+    "price": 0.01929
   }
 ]
