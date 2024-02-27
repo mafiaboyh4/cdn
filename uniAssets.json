@@ -3190,5 +3190,21 @@
     "address": "0x4e9fcD48Af4738e3bF1382009dC1e93eBFCE698F",
     "chainId": 1,
     "price": 0.01929
+  },
+  {
+    "name": "Sheboshis ",
+    "symbol": "SHEB",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29559.png",
+    "address": "0x5de869e3e62b0fb2c15573246ba3bb3fd97a2275",
+    "chainId": 1,
+    "price": 448.13
+  },
+  {
+    "name": "AxonDAO Governance Token",
+    "symbol": "AXGT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29557.png",
+    "address": "0xDd66781D0E9a08D4FBb5eC7BAc80B691BE27F21D",
+    "chainId": 1,
+    "price": 0.0706
   }
 ]
