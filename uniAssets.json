@@ -3214,5 +3214,21 @@
     "address": "0xbc391E78B0EA0d1Db04890732742494e7FBFc118",
     "chainId": 1,
     "price": 1.35
+  },
+  {
+    "name": "Oasis",
+    "symbol": "OASIS",
+    "logoURI": "https://assets.coingecko.com/coins/images/35546/standard/IMG_20240224_152139_778.png?1709094500",
+    "address": "0xa74a05b17d72e9b0781d973e7963dfaacd266b94",
+    "chainId": 1,
+    "price": 0.002103
+  },
+  {
+    "name": "DeepL",
+    "symbol": "DEEPL",
+    "logoURI": "https://assets.coingecko.com/coins/images/35525/standard/photo_2024-02-23_17-54-05.jpg?1709015938",
+    "address": "0xd0bcb2c156a3507670f9bedc319a6409c41ba68e",
+    "chainId": 1,
+    "price": 0.0008777
   }
 ]
