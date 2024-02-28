@@ -3206,5 +3206,13 @@
     "address": "0xDd66781D0E9a08D4FBb5eC7BAc80B691BE27F21D",
     "chainId": 1,
     "price": 0.0706
+  },
+  {
+    "name": "NIRVANA",
+    "symbol": "VANA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29553.png",
+    "address": "0xbc391E78B0EA0d1Db04890732742494e7FBFc118",
+    "chainId": 1,
+    "price": 1.35
   }
 ]
