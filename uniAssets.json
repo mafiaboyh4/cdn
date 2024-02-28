@@ -3230,5 +3230,13 @@
     "address": "0xd0bcb2c156a3507670f9bedc319a6409c41ba68e",
     "chainId": 1,
     "price": 0.0008777
+  },
+  {
+    "name": "Looted Network",
+    "symbol": "LOOT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29566.png",
+    "address": "0xe4129c7b229812212f88d1bd6a223c45622e6b85",
+    "chainId": 1,
+    "price": 10.11
   }
 ]
