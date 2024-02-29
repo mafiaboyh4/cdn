@@ -3238,5 +3238,37 @@
     "address": "0xe4129c7b229812212f88d1bd6a223c45622e6b85",
     "chainId": 1,
     "price": 10.11
+  },
+  {
+    "name": "Palette",
+    "symbol": "PLT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29582.png",
+    "address": "0x553Afe6468949E0685959022217336717dF5Fbe8",
+    "chainId": 1,
+    "price": 653.02
+  },
+  {
+    "name": "Neuralink",
+    "symbol": "NLINK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29583.png",
+    "address": "0x65Ee1361596439664059D1a5EF44014D08c95693",
+    "chainId": 1,
+    "price": 1.03
+  },
+  {
+    "name": "Mystic Land Coin",
+    "symbol": "MYTH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29584.png",
+    "address": "0x8e0358d72e6e9faf1150bb1bc12aaf55613a072e",
+    "chainId": 1,
+    "price": 0.3714
+  },
+  {
+    "name": "Vestate",
+    "symbol": "VES",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29575.png",
+    "address": "0x1f557FB2aa33Dce484902695cA1374F413875519",
+    "chainId": 1,
+    "price": 0.01033
   }
 ]
