@@ -3286,5 +3286,13 @@
     "address": "0x5cc5e64ab764a0f1e97f23984e20fd4528356a6a",
     "chainId": 1,
     "price": 0.5054
+  },
+  {
+    "name": "Transactra Finance",
+    "symbol": "TRSCT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29607.png",
+    "address": "0xfe98796e0AF4aBAbd716508429E51fF9ac1bb4d5",
+    "chainId": 1,
+    "price": 0.03573
   }
 ]
