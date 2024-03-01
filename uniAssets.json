@@ -3278,5 +3278,13 @@
     "address": "0xc73abe8d7a0da644743fe2ad24f4e16bb7ed43f8",
     "chainId": 1,
     "price": 13.81
+  },
+  {
+    "name": "XRGB",
+    "symbol": "XRGB",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29615.png",
+    "address": "0x5cc5e64ab764a0f1e97f23984e20fd4528356a6a",
+    "chainId": 1,
+    "price": 0.5054
   }
 ]
