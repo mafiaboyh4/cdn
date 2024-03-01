@@ -3294,5 +3294,13 @@
     "address": "0xfe98796e0AF4aBAbd716508429E51fF9ac1bb4d5",
     "chainId": 1,
     "price": 0.03573
+  },
+  {
+    "name": "DecentraNode",
+    "symbol": "DNODE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29612.png",
+    "address": "0x014337b35167b3711195361bb85259009e50a8a4",
+    "chainId": 1,
+    "price": 172.41
   }
 ]
