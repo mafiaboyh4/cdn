@@ -3270,5 +3270,13 @@
     "address": "0x1f557FB2aa33Dce484902695cA1374F413875519",
     "chainId": 1,
     "price": 0.01033
+  },
+  {
+    "name": "Website AI",
+    "symbol": "WEBAI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29591.png",
+    "address": "0xc73abe8d7a0da644743fe2ad24f4e16bb7ed43f8",
+    "chainId": 1,
+    "price": 13.81
   }
 ]
