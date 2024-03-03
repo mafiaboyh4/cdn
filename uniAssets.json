@@ -3302,5 +3302,13 @@
     "address": "0x014337b35167b3711195361bb85259009e50a8a4",
     "chainId": 1,
     "price": 172.41
+  },
+  {
+    "name": "Monai",
+    "symbol": "MONAI",
+    "logoURI": "https://assets.coingecko.com/coins/images/35661/standard/2024-03-02_02.02.09.png?1709453630",
+    "address": "0x8c282c35b5e1088bb208991c151182a782637699",
+    "chainId": 1,
+    "price": 0.4526
   }
 ]
