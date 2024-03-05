@@ -3334,5 +3334,13 @@
     "address": "0xecb56cf772b5c9a6907fb7d32387da2fcbfb23b4",
     "chainId": 1,
     "price": 0.02317
+  },
+  {
+    "name": "Choppy",
+    "symbol": "CHOPPY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29654.png",
+    "address": "0xF938346D7117534222B48D09325A6B8162B3A9E7",
+    "chainId": 1,
+    "price": 0.0000134
   }
 ]
