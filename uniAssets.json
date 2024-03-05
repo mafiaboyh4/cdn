@@ -3342,5 +3342,21 @@
     "address": "0xF938346D7117534222B48D09325A6B8162B3A9E7",
     "chainId": 1,
     "price": 0.0000134
+  },
+  {
+    "name": "NodeSynapse",
+    "symbol": "NS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29656.png",
+    "address": "0x30672AE2680c319ec1028B69670A4a786baA0f35",
+    "chainId": 1,
+    "price": 0.003299
+  },
+  {
+    "name": "Kermit",
+    "symbol": "KERMIT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29647.png",
+    "address": "0x7f3b4b68ca0238f387d8b1a8fbc002d0e6d4cd5b",
+    "chainId": 1,
+    "price": 0.002099
   }
 ]
