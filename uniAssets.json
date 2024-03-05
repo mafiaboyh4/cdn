@@ -3326,5 +3326,13 @@
     "address": "0x58cB30368ceB2d194740b144EAB4c2da8a917Dcb",
     "chainId": 1,
     "price": 0.04273
+  },
+  {
+    "name": "BillionAir",
+    "symbol": "AIRB",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/25813.png",
+    "address": "0xecb56cf772b5c9a6907fb7d32387da2fcbfb23b4",
+    "chainId": 1,
+    "price": 0.02317
   }
 ]
