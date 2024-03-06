@@ -3366,5 +3366,13 @@
     "address": "0x84018071282d4b2996272659d9c01cb08dd7327f",
     "chainId": 1,
     "price": 0.7522
+  },
+  {
+    "name": "YAK",
+    "symbol": "YAK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29662.png",
+    "address": "0xe842e272a18625319cc36f64eb9f97e5ad0c32af",
+    "chainId": 1,
+    "price": 0.000000000009923
   }
 ]
