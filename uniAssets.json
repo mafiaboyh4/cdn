@@ -3398,5 +3398,21 @@
     "address": "0x8e729198d1C59B82bd6bBa579310C40d740A11C2",
     "chainId": 1,
     "price": 1.48
+  },
+  {
+    "name": "TRUMP INU",
+    "symbol": "TRUMP INU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29698.png",
+    "address": "0xd3fb8597d260efb2e693efd500d62a330a00f1eb",
+    "chainId": 1,
+    "price": 0.00002348
+  },
+  {
+    "name": "NEXUS",
+    "symbol": "NEX ",
+    "logoURI": "https://assets.coingecko.com/coins/images/35797/standard/LLm7P2IL_400x400.jpg?1709802342",
+    "address": "0xc01154b4ccb518232d6bbfc9b9e6c5068b766f82",
+    "chainId": 1,
+    "price": 0.01736
   }
 ]
