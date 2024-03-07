@@ -3390,5 +3390,13 @@
     "address": "0x8a0a9b663693a22235b896f70a229c4a22597623",
     "chainId": 1,
     "price": 0.4078
+  },
+  {
+    "name": "Alvara Protocol",
+    "symbol": "ALVA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29693.png",
+    "address": "0x8e729198d1C59B82bd6bBa579310C40d740A11C2",
+    "chainId": 1,
+    "price": 1.48
   }
 ]
