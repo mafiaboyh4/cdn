@@ -3374,5 +3374,13 @@
     "address": "0xe842e272a18625319cc36f64eb9f97e5ad0c32af",
     "chainId": 1,
     "price": 0.000000000009923
+  },
+  {
+    "name": "Jeo Boden",
+    "symbol": "BODEN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29687.png",
+    "address": "3psH1Mj1f7yUfaD5gh6Zj7epE8hhrMkMETgv5TshQA4o",
+    "chainId": 1,
+    "price": 0.04273
   }
 ]
