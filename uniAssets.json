@@ -3414,5 +3414,13 @@
     "address": "0xc01154b4ccb518232d6bbfc9b9e6c5068b766f82",
     "chainId": 1,
     "price": 0.01736
+  },
+  {
+    "name": "Meme Kombat",
+    "symbol": "MK ",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29712.png",
+    "address": "0x9fdfb933ee990955d3219d4f892fd1f786b47c9b",
+    "chainId": 1,
+    "price": 0.4135
   }
 ]
