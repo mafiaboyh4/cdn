@@ -3422,5 +3422,21 @@
     "address": "0x9fdfb933ee990955d3219d4f892fd1f786b47c9b",
     "chainId": 1,
     "price": 0.4135
+  },
+  {
+    "name": "ChainSwap",
+    "symbol": "CSWAP ",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29780.png",
+    "address": "0xae41b275aaaf484b541a5881a2dded9515184cca",
+    "chainId": 1,
+    "price": 0.0109
+  },
+  {
+    "name": "Taylor Swift",
+    "symbol": "SWIFTIES ",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29764.png",
+    "address": "0xe5344aa226f7bd5dad0c0b31a6426049e7adaca1",
+    "chainId": 1,
+    "price": 0.7915
   }
 ]
