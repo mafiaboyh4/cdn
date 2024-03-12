@@ -3438,5 +3438,21 @@
     "address": "0xe5344aa226f7bd5dad0c0b31a6426049e7adaca1",
     "chainId": 1,
     "price": 0.7915
+  },
+  {
+    "name": "BlastAI",
+    "symbol": "BLAST",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29786.png",
+    "address": "0x62431dE84c503e152A8957ff51c8945aaAA7D929",
+    "chainId": 1,
+    "price": 0.03417
+  },
+  {
+    "name": "vitalek buteren",
+    "symbol": "VITALEK",
+    "logoURI": "https://assets.coingecko.com/coins/images/35949/standard/small.jpg?1710238389",
+    "address": "0xf5264e1673c9365e7c5d4d1d8b440bbf131ff435",
+    "chainId": 1,
+    "price": 0.002515
   }
 ]
