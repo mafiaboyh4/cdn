@@ -3462,5 +3462,13 @@
     "address": "0x069d89974f4edabde69450f9cf5cf7d8cbd2568d",
     "chainId": 1,
     "price": 3.31
+  },
+  {
+    "name": "Patex",
+    "symbol": "PATEX ",
+    "logoURI": "https://assets.coingecko.com/coins/images/35987/standard/ajhjO1Bk_400x400.jpg?1710313200",
+    "address": "0xfd4f2caf941b6d737382dce420b368de3fc7f2d4",
+    "chainId": 1,
+    "price": 6.02
   }
 ]
