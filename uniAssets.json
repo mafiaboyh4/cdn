@@ -3454,5 +3454,13 @@
     "address": "0xf5264e1673c9365e7c5d4d1d8b440bbf131ff435",
     "chainId": 1,
     "price": 0.002515
+  },
+  {
+    "name": "BVM",
+    "symbol": "BVM",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29767.png",
+    "address": "0x069d89974f4edabde69450f9cf5cf7d8cbd2568d",
+    "chainId": 1,
+    "price": 3.31
   }
 ]
