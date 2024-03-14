@@ -3413,7 +3413,7 @@
     "logoURI": "https://assets.coingecko.com/coins/images/35797/standard/LLm7P2IL_400x400.jpg?1709802342",
     "address": "0xc01154b4ccb518232d6bbfc9b9e6c5068b766f82",
     "chainId": 1,
-    "price": 0.03
+    "price": 0.05231
   },
   {
     "name": "Meme Kombat",
@@ -3470,5 +3470,13 @@
     "address": "0xfd4f2caf941b6d737382dce420b368de3fc7f2d4",
     "chainId": 1,
     "price": 6.02
+  },
+  {
+    "name": "Entangle",
+    "symbol": "NGL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29709.png",
+    "address": "0x2BfC935aDCd2EE1A5cBFdc993F21120890990fc8",
+    "chainId": 1,
+    "price": 1.57
   }
 ]
