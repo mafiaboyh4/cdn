@@ -3478,5 +3478,13 @@
     "address": "0x2BfC935aDCd2EE1A5cBFdc993F21120890990fc8",
     "chainId": 1,
     "price": 1.57
+  },
+  {
+    "name": "Ishi",
+    "symbol": "ISHI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29877.png",
+    "address": "0x85e0b9d3e7e4dba7e59090c533906d0e9211d8b6",
+    "chainId": 1,
+    "price": 0.000004152
   }
 ]
