@@ -3486,5 +3486,13 @@
     "address": "0x85e0b9d3e7e4dba7e59090c533906d0e9211d8b6",
     "chainId": 1,
     "price": 0.000004152
+  },
+  {
+    "name": "MindAI",
+    "symbol": "MDAI ",
+    "logoURI": "https://assets.coingecko.com/coins/images/36180/standard/logo200.png?1710757731",
+    "address": "0xb549116ac57b47c1b365a890e1d04fd547dfff97",
+    "chainId": 1,
+    "price": 7.54
   }
 ]
