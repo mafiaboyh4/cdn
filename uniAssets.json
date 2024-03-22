@@ -3494,5 +3494,13 @@
     "address": "0xb549116ac57b47c1b365a890e1d04fd547dfff97",
     "chainId": 1,
     "price": 7.54
+  },
+  {
+    "name": "Fluence",
+    "symbol": "FLT",
+    "logoURI": "https://assets.coingecko.com/coins/images/36339/standard/fluence.png?1711106498",
+    "address": "0x236501327e701692a281934230af0b6be8df3353",
+    "chainId": 1,
+    "price": 0.702
   }
 ]
