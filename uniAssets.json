@@ -155,12 +155,12 @@
     "price": 0.000000001625
   },
   {
-    "symbol": "HOME",
-    "name": "OtterHome",
-    "logoURI": "https://assets.coingecko.com/coins/images/30740/small/LOGO.png?1686724589",
-    "address": "0x1bd013bd089c2b6b2d30a0e0b545810a5844e761",
-    "chainId": 2,
-    "price": 0.000016583039
+    "symbol": "Trump Shiba",
+    "name": "TRUMPSHIBA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30078.png",
+    "address": "0xcb19633b629C5b7E316096FA465B4F86250DBB55",
+    "chainId": 1,
+    "price": 0.0000000000004621
   },
   {
     "symbol": "RAPTOR",
