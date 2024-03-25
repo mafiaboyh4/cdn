@@ -138,12 +138,12 @@
     "price": 0.000001695
   },
   {
-    "symbol": "FGPT",
-    "name": "FoxGPT",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26921.png",
-    "address": "0xc7906c85a26Bed49967649c1850a7E3Ee39b36A1",
-    "chainId": 56,
-    "price": 0.0003202
+    "symbol": "VPS AI",
+    "name": "VPS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30085.png",
+    "address": "0x00b78238925c320159023c2ac9ef89da8f16d007",
+    "chainId": 1,
+    "price": 0.09573
   },
 
   {
