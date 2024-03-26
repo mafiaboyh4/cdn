@@ -3510,5 +3510,13 @@
     "address": "0xD1e64bcc904Cfdc19d0FABA155a9EdC69b4bcdAe",
     "chainId": 1,
     "price": 0.003216
+  },
+  {
+    "name": "Shiva Inu",
+    "symbol": "SHIV",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30130.png",
+    "address": "0xeb51b8dc2d43469c0f0b7365c8a18438907bdf21",
+    "chainId": 1,
+    "price": 0.00000003003
   }
 ]
