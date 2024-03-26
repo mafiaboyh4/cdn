@@ -3518,5 +3518,21 @@
     "address": "0xeb51b8dc2d43469c0f0b7365c8a18438907bdf21",
     "chainId": 1,
     "price": 0.00000003003
+  },
+  {
+    "name": "Scotty The Ai",
+    "symbol": "SCOTTY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30090.png",
+    "address": "0xc0dB17Bc219C5ca8746C29ee47862ee3Ad742F4a",
+    "chainId": 1,
+    "price": 0.01506
+  },
+  {
+    "name": "BeFi Labs",
+    "symbol": "BEFI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29170.png",
+    "address": "0x8b9b95292f890DF47fFf5aC9Cbe93d5fC242bd51",
+    "chainId": 1,
+    "price": 0.3012
   }
 ]
