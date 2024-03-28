@@ -138,12 +138,12 @@
     "price": 0.000001695
   },
   {
-    "symbol": "FGPT",
-    "name": "FoxGPT",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26921.png",
-    "address": "0xc7906c85a26Bed49967649c1850a7E3Ee39b36A1",
-    "chainId": 56,
-    "price": 0.0003202
+    "symbol": "VPS AI",
+    "name": "VPS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30085.png",
+    "address": "0x00b78238925c320159023c2ac9ef89da8f16d007",
+    "chainId": 1,
+    "price": 0.09573
   },
 
   {
@@ -155,12 +155,12 @@
     "price": 0.000000001625
   },
   {
-    "symbol": "HOME",
-    "name": "OtterHome",
-    "logoURI": "https://assets.coingecko.com/coins/images/30740/small/LOGO.png?1686724589",
-    "address": "0x1bd013bd089c2b6b2d30a0e0b545810a5844e761",
-    "chainId": 2,
-    "price": 0.000016583039
+    "symbol": "Trump Shiba",
+    "name": "TRUMPSHIBA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30078.png",
+    "address": "0xcb19633b629C5b7E316096FA465B4F86250DBB55",
+    "chainId": 1,
+    "price": 0.0000000000004621
   },
   {
     "symbol": "RAPTOR",
@@ -3486,6 +3486,54 @@
     "address": "0x85e0b9d3e7e4dba7e59090c533906d0e9211d8b6",
     "chainId": 1,
     "price": 0.000004152
+  },
+  {
+    "name": "MindAI",
+    "symbol": "MDAI ",
+    "logoURI": "https://assets.coingecko.com/coins/images/36180/standard/logo200.png?1710757731",
+    "address": "0xb549116ac57b47c1b365a890e1d04fd547dfff97",
+    "chainId": 1,
+    "price": 7.54
+  },
+  {
+    "name": "Fluence",
+    "symbol": "FLT",
+    "logoURI": "https://assets.coingecko.com/coins/images/36339/standard/fluence.png?1711106498",
+    "address": "0x236501327e701692a281934230af0b6be8df3353",
+    "chainId": 1,
+    "price": 0.702
+  },
+  {
+    "name": "Pikamoon",
+    "symbol": "PIKA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29871.png",
+    "address": "0xD1e64bcc904Cfdc19d0FABA155a9EdC69b4bcdAe",
+    "chainId": 1,
+    "price": 0.003216
+  },
+  {
+    "name": "Shiva Inu",
+    "symbol": "SHIV",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30130.png",
+    "address": "0xeb51b8dc2d43469c0f0b7365c8a18438907bdf21",
+    "chainId": 1,
+    "price": 0.00000003003
+  },
+  {
+    "name": "Scotty The Ai",
+    "symbol": "SCOTTY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30090.png",
+    "address": "0xc0dB17Bc219C5ca8746C29ee47862ee3Ad742F4a",
+    "chainId": 1,
+    "price": 0.01506
+  },
+  {
+    "name": "BeFi Labs",
+    "symbol": "BEFI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29170.png",
+    "address": "0x8b9b95292f890DF47fFf5aC9Cbe93d5fC242bd51",
+    "chainId": 1,
+    "price": 0.3012
   },
   {
     "name": "Sensor Protocol",
