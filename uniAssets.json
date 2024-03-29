@@ -3542,5 +3542,13 @@
       "address": "0xdff4Cd6d5C257F40d6d182A072fC08242c55C77A",
       "chainId": 1,
       "price": 0.009435
+  },
+  {
+      "name": "LinqAI",
+      "symbol": "LNQ",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30177.png",
+      "address": "0xD4F4D0a10BcaE123bB6655E8Fe93a30d01eEbD04",
+      "chainId": 1,
+      "price": 0.1936
   }
 ]
