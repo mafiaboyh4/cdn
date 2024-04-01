@@ -3558,5 +3558,21 @@
       "address": "0x93c5a00b41FB5f3906b421b2399Ac64b79fdBD42",
       "chainId": 1,
       "price": 0.1566
+  },
+  {
+      "name": "The Emerald Company",
+      "symbol": "EMRLD",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30240.png",
+      "address": "0xeBB1AFb0A4ddC9b1f84D9Aa72FF956cD1c1Eb4be",
+      "chainId": 1,
+      "price": 0.02492
+  },
+  {
+      "name": "Ÿ",
+      "symbol": "YAI",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30278.png",
+      "address": "0x477a3d269266994F15E9C43A8D9C0561C4928088",
+      "chainId": 1,
+      "price": 0.08516
   }
 ]
