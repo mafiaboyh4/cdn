@@ -3574,5 +3574,21 @@
       "address": "0x477a3d269266994F15E9C43A8D9C0561C4928088",
       "chainId": 1,
       "price": 0.08516
+  },
+  {
+      "name": "Cosmic Network ",
+      "symbol": "COSMIC",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30339.png",
+      "address": "0x40E64405F18e4FB01c6fc39f4F0c78df5eF9D0E0",
+      "chainId": 1,
+      "price": 0.3786
+  },
+  {
+      "name": "infraX",
+      "symbol": "INFRA",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30336.png",
+      "address": "0xe9EccDE9d26FCBB5e93F536CFC4510A7f46274f8",
+      "chainId": 1,
+      "price": 35.34
   }
 ]
