@@ -3614,5 +3614,29 @@
       "address": "0x3fb3df9c5241d781f9b28196584d3636fa6d01d6",
       "chainId": 1,
       "price": 0.00000001053
+  },
+  {
+      "name": "Resistor AI",
+      "symbol": "TOR",
+      "logoURI": "https://assets.coingecko.com/coins/images/36790/standard/logo-square.png?1712418946",
+      "address": "0x6b448aeb3bfd1dcbe337d59f6dee159daab52768",
+      "chainId": 1,
+      "price": 0.001984
+  },
+  {
+      "name": "Spectra Chain",
+      "symbol": "SPCT",
+      "logoURI": "https://assets.coingecko.com/coins/images/36791/standard/0x02020595e6a34a03a8e9c1f5624b1b7713810083.jpg?1712421016",
+      "address": "0x02020595e6a34a03a8e9c1f5624b1b7713810083",
+      "chainId": 1,
+      "price": 0.02394
+  },
+  {
+      "name": "Nordic Ai",
+      "symbol": "NRDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/36793/standard/NordicAI_logo_%281%29.png?1712421635",
+      "address": "0x1eb7bd905855c483db19f53c8c4d42db42a159fc",
+      "chainId": 1,
+      "price": 0.002995
   }
 ]
