@@ -3646,5 +3646,13 @@
       "address": "0x72fca22c6070b4cf68abdb719fa484d9ef10a73b",
       "chainId": 1,
       "price": 0.03195
+  },
+  {
+      "name": "Flovi inu",
+      "symbol": "FLOVI",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30451.png",
+      "address": "0x725024200Cd4e1f259FCF2b7153d37Fb477e139C",
+      "chainId": 1,
+      "price": 0.000000009954
   }
 ]
