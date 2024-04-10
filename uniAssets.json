@@ -50,7 +50,7 @@
     "symbol": "MagicRing",
     "name": "Magic",
     "logoURI": "https://assets.coingecko.com/coins/images/36905/standard/photo_2024-04-08_01-09-25.jpg?1712724842",
-    "contractAddraess": "0xd59d7d2e955533fcd21641da8a70eae9624a3c49",
+    "address": "0xd59d7d2e955533fcd21641da8a70eae9624a3c49",
     "chainId": 1,
     "price": 0.087404
   },
