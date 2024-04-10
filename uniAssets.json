@@ -47,20 +47,20 @@
     "price": null
   },
   {
-    "symbol": "GF",
-    "name": "Girlfriend",
-    "logoURI": "https://assets.coingecko.com/coins/images/30642/small/gflogo.png?1686036330",
-    "contractAddraess": "0xb6307cc320c76101e87456e06557fa939accc71f",
-    "chainId": 56,
-    "price": 0.000000237558
+    "symbol": "MagicRing",
+    "name": "Magic",
+    "logoURI": "https://assets.coingecko.com/coins/images/36905/standard/photo_2024-04-08_01-09-25.jpg?1712724842",
+    "contractAddraess": "0xd59d7d2e955533fcd21641da8a70eae9624a3c49",
+    "chainId": 1,
+    "price": 0.087404
   },
   {
-    "symbol": "Bitcoin Cats",
-    "name": "1CAT",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28791.png",
-    "address": "0x508e00d5cef397b02d260d035e5ee80775e4c821",
+    "symbol": "Green Bitcoin",
+    "name": "GBTC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30500.png",
+    "address": "0xdc9cb148ecb70876db0abeb92f515a5e1dc9f580",
     "chainId": 1,
-    "price": 0.01131638
+    "price":1.47
   },
   {
     "networkId": "bc08bb60-ebfb-11ed-bd6d-bce92fb9ddda",
