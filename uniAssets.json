@@ -3654,5 +3654,13 @@
       "address": "0x725024200Cd4e1f259FCF2b7153d37Fb477e139C",
       "chainId": 1,
       "price": 0.000000009954
+  },
+  {
+      "name": "FuturesAI",
+      "symbol": "FAI",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30560.png",
+      "address": "0xcdBB2498fA9E7b5849bed5D3661386d0cE2733B2",
+      "chainId": 1,
+      "price": 0.002882
   }
 ]
