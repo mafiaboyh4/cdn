@@ -3686,5 +3686,13 @@
         "address": "0x60e254E35Dd712394b3AbA7A1D19114732e143dD",
         "chainId": 1,
         "price": 0.09176
+  },
+  {
+        "name": "RunesBridge",
+        "symbol": "RB",
+        "logoURI": "https://assets.coingecko.com/coins/images/36974/standard/rsz_logo5_1.png?1712911043",
+        "address": "0xe91598331a36a78f7fefe277ce7c1915da0afb93",
+        "chainId": 1,
+        "price": 0.1629
   }
 ]
