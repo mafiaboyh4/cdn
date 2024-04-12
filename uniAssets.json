@@ -3664,11 +3664,11 @@
       "price": 0.002882
   },
   {
-  "name": "LANDWOLF",
-  "symbol": "LANDWOLF",
-  "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30594.png",
-  "address": "0x02EeDc3D0cB09E0450C9ed2917005e9bd22Cf763",
-  "chainId": 1,
-  "price": 0.000000007034
+        "name": "LANDWOLF",
+        "symbol": "LANDWOLF",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30594.png",
+        "address": "0x02EeDc3D0cB09E0450C9ed2917005e9bd22Cf763",
+        "chainId": 1,
+        "price": 0.000000007034
   }
 ]
