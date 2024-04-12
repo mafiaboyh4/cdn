@@ -3694,5 +3694,13 @@
         "address": "0xe91598331a36a78f7fefe277ce7c1915da0afb93",
         "chainId": 1,
         "price": 0.1629
+  },
+  {
+        "name": "Paragon Network",
+        "symbol": "PARA",
+        "logoURI": "https://assets.coingecko.com/coins/images/36967/standard/0x8f43ee50942e96d84052253ab13f59c1d942fb98.png?1712908143",
+        "address": "0x8f43ee50942e96d84052253ab13f59c1d942fb98",
+        "chainId": 1,
+        "price": 0.008017
   }
 ]
