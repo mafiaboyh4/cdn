@@ -3670,5 +3670,21 @@
         "address": "0x02EeDc3D0cB09E0450C9ed2917005e9bd22Cf763",
         "chainId": 1,
         "price": 0.000000007034
+  },
+  {
+        "name": "LANDWOLF",
+        "symbol": "LANDWOLF",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30594.png",
+        "address": "0x02EeDc3D0cB09E0450C9ed2917005e9bd22Cf763",
+        "chainId": 1,
+        "price": 0.000000007034
+  },
+  {
+        "name": "RivusDAO",
+        "symbol": "RIVUS",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30609.png",
+        "address": "0x60e254E35Dd712394b3AbA7A1D19114732e143dD",
+        "chainId": 1,
+        "price": 0.09176
   }
 ]
