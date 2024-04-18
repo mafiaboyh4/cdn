@@ -3702,5 +3702,45 @@
         "address": "0x8f43ee50942e96d84052253ab13f59c1d942fb98",
         "chainId": 1,
         "price": 0.008017
+  },
+  {
+        "name": "BOBA",
+        "symbol": "BOBA",
+        "logoURI": "https://assets.coingecko.com/coins/images/37137/standard/2024-04-17_16.37.10.jpg?1713419002",
+        "address": "0x337c8a3f0cd0580b29e9ee5d7829645709c8f6d2",
+        "chainId": 1,
+        "price": 0.065608
+  },
+  {
+        "name": "CortexLPU",
+        "symbol": "LPU",
+        "logoURI": "https://assets.coingecko.com/coins/images/37133/standard/photo_2024-03-08_15-11-00.jpg?1713408303",
+        "address": "0x9e68250f3031dba94a0b430b881e574a500aa78c",
+        "chainId": 1,
+        "price": 1.95
+  },
+  {
+        "name": "Nitefeeder",
+        "symbol": "NITEFEEDER",
+        "logoURI": "https://assets.coingecko.com/coins/images/37126/standard/Nitefeeder_Logo_200x200.png?1713372066",
+        "address": "0x85f7cfe910393fb5593c65230622aa597e4223f1",
+        "chainId": 1,
+        "price": 0.071125
+  },
+  {
+        "name": "Arma Block",
+        "symbol": "AB ",
+        "logoURI": "https://assets.coingecko.com/coins/images/37112/standard/SSM.jpg?1713329715",
+        "address": "0x84fad63f8f26335f4f1bebc9fbf5ba277fd23c9e",
+        "chainId": 1,
+        "price": 0.001134
+  },
+  {
+        "name": "Boy's club",
+        "symbol": "BOYSCLUB",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30745.png",
+        "address": "0x2d9996f3b9d2e73540fdbfdfe81d71e9e08cbf03",
+        "chainId": 1,
+        "price": 0.000003549
   }
 ]
