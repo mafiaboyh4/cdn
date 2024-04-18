@@ -3742,5 +3742,13 @@
         "address": "0x2d9996f3b9d2e73540fdbfdfe81d71e9e08cbf03",
         "chainId": 1,
         "price": 0.000003549
+  },
+  {
+        "name": "Komputai",
+        "symbol": "KAI",
+        "logoURI": "https://assets.coingecko.com/coins/images/37145/standard/W0WXzwID_400x400.png?1713444313",
+        "address": "0xe75f2acafba1ad56c5ed712ffbc1d31910e74396",
+        "chainId": 1,
+        "price": 1.27
   }
 ]
