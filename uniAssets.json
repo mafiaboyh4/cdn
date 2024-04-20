@@ -3758,5 +3758,13 @@
         "address": "0x33ABE795f9c1b6136608c36dB211bD7590f5FdAE",
         "chainId": 1,
         "price": 0.000006742
+  },
+  {
+        "name": "GOLD CAT",
+        "symbol": "GOLDCAT",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30789.png",
+        "address": "0x607496f14918891594177C24A983e901C1896E63",
+        "chainId": 1,
+        "price": 0.0000005447
   }
 ]
