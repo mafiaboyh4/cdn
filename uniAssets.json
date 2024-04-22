@@ -3766,5 +3766,13 @@
         "address": "0x607496f14918891594177C24A983e901C1896E63",
         "chainId": 1,
         "price": 0.0000005447
+  },
+  {
+        "name": "FOMO Network",
+        "symbol": "FOMO",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30795.png",
+        "address": "0x9028C2A7f8C8530450549915c5338841Db2a5fEa",
+        "chainId": 1,
+        "price": 0.06072
   }
 ]
