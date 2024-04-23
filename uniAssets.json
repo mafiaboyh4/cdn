@@ -3774,5 +3774,13 @@
         "address": "0x9028C2A7f8C8530450549915c5338841Db2a5fEa",
         "chainId": 1,
         "price": 0.06072
+  },
+  {
+        "name": "Defispot",
+        "symbol": "SPOT",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30827.png",
+        "address": "0xe635efcfac44c5f44508f4d17c3a96cb4ce421dd",
+        "chainId": 1,
+        "price": 0.06944
   }
 ]
