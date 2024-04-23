@@ -3776,11 +3776,19 @@
         "price": 0.06072
   },
   {
-        "name": "Defispot",
-        "symbol": "SPOT",
-        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30827.png",
-        "address": "0xe635efcfac44c5f44508f4d17c3a96cb4ce421dd",
+        "name": "Hoppy",
+        "symbol": "HOPPY",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30859.png",
+        "address": "0x6e79b51959cf968d87826592f46f819f92466615",
         "chainId": 1,
-        "price": 0.06944
+        "price": 0.000004129
+  },
+  {
+        "name": "Predict Crypto",
+        "symbol": "PREAI",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30847.png",
+        "address": "0xabD0E3535EcFBf6959b1798220335faf1B7ADA3a",
+        "chainId": 1,
+        "price": 0.0006735
   }
 ]
