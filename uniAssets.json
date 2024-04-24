@@ -3790,5 +3790,21 @@
         "address": "0xabD0E3535EcFBf6959b1798220335faf1B7ADA3a",
         "chainId": 1,
         "price": 0.0006735
+  },
+  {
+        "name": "Conan",
+        "symbol": "CONAN",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30886.png",
+        "address": "0x85D19fb57CA7DA715695FCf347CA2169144523a7",
+        "chainId": 1,
+        "price": 0.00002333
+  },
+  {
+        "name": "Landwolf",
+        "symbol": "WOLF",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30902.png",
+        "address": "0x67466be17df832165f8c80a5a120ccc652bd7e69",
+        "chainId": 1,
+        "price": 0.00001057
   }
 ]
