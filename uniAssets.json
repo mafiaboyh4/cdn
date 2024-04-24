@@ -3806,5 +3806,13 @@
         "address": "0x67466be17df832165f8c80a5a120ccc652bd7e69",
         "chainId": 1,
         "price": 0.00001057
+  },
+  {
+        "name": "THE•RUNIX•TOKEN",
+        "symbol": "RUNIX ",
+        "logoURI": "https://assets.coingecko.com/coins/images/37294/standard/logo-withText-whiteOnBlack.png?1713948942",
+        "address": "0xf6ccfd6ef2850e84b73adeace9a075526c5910d4",
+        "chainId": 1,
+        "price": 0.004105
   }
 ]
