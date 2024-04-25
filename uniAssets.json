@@ -3814,5 +3814,13 @@
         "address": "0xf6ccfd6ef2850e84b73adeace9a075526c5910d4",
         "chainId": 1,
         "price": 0.004105
+  },
+  {
+        "name": "Matt Furie's Boys Club",
+        "symbol": "BOYSCLUB",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30914.png",
+        "address": "0x6968676661ac9851c38907bdfcc22d5dd77b564d",
+        "chainId": 1,
+        "price": 0.004933
   }
 ]
