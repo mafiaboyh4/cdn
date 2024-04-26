@@ -195,12 +195,12 @@
     "price": 0.0000000000002468
   },
   {
-    "symbol": "OMN",
-    "name": "Omega Network",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23877.png",
-    "address": "0x7b75110aaad66c74bc0be931d4f02cd3822d8ce9",
-    "chainId": 56,
-    "price": 0.03248
+    "symbol": "CHAD FROG",
+    "name": "CHAD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30937.png",
+    "address": "0x9e22B4f836a461ddC7765E5fAd693688e76E6069",
+    "chainId": 1,
+    "price": 0.000002591
   },
   {
     "symbol": "DSQ",
