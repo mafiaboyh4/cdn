@@ -3822,5 +3822,13 @@
         "address": "0x6968676661ac9851c38907bdfcc22d5dd77b564d",
         "chainId": 1,
         "price": 0.00445
+  },
+  {
+        "name": "Dogecoin20",
+        "symbol": "DOGE20",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30941.png",
+        "address": "0x2541A36BE4cD39286ED61a3E6AFC2307602489d6",
+        "chainId": 1,
+        "price": 0.00008321
   }
 ]
