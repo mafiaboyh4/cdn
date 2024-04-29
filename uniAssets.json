@@ -3838,5 +3838,13 @@
         "address": "0x8dba4bc68126bd186fbb62c976539d1558c9fe73",
         "chainId": 1,
         "price": 0.0005235
+  },
+  {
+        "name": "StakeVault.Network",
+        "symbol": "SVN ",
+        "logoURI": "https://assets.coingecko.com/coins/images/37433/standard/SVN.png?1714379860",
+        "address": "0xce872db165d4f5623af9c29e03afd416bc5f67bc",
+        "chainId": 1,
+        "price": 0.03207
   }
 ]
