@@ -3830,5 +3830,13 @@
         "address": "0x2541A36BE4cD39286ED61a3E6AFC2307602489d6",
         "chainId": 1,
         "price": 0.00008321
+  },
+  {
+        "name": "PEPEBOMB",
+        "symbol": "PEPE",
+        "logoURI": "https://assets.coingecko.com/coins/images/37411/standard/photo_2024-04-27_17-15-14.jpg?1714373512",
+        "address": "0x8dba4bc68126bd186fbb62c976539d1558c9fe73",
+        "chainId": 1,
+        "price": 0.0005235
   }
 ]
