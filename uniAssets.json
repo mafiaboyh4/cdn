@@ -3862,5 +3862,13 @@
     "address": "0x69420e3a3aa9e17dea102bb3a9b3b73dcddb9528",
     "chainId": 1,
     "price": 0.00002194
-}
+  },
+  {
+    "name": "America",
+    "symbol": "AMERICA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31030.png",
+    "address": "0x1776B223FF636D0d76aDF2290821f176421DD889",
+    "chainId": 1,
+    "price": 0.02699
+  }
 ]
