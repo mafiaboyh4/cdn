@@ -3870,5 +3870,21 @@
     "address": "0x1776B223FF636D0d76aDF2290821f176421DD889",
     "chainId": 1,
     "price": 0.02699
+  },
+  {
+    "name": "Bonk on ETH",
+    "symbol": "BONK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31136.png",
+    "address": "0x4fbaf51b95b024d0d7cab575be2a1f0afedc9b64",
+    "chainId": 1,
+    "price": 0.00000001514
+  },
+  {
+    "name": "Apu Apustaja",
+    "symbol": "APU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30008.png",
+    "address": "0x594DaaD7D77592a2b97b725A7AD59D7E188b5bFa",
+    "chainId": 1,
+    "price": 0.0008369
   }
 ]
