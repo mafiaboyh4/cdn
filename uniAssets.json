@@ -3918,5 +3918,13 @@
     "address": "0xB9Fa1E2c1F1199784a3e398E23e611dDA3A581cb",
     "chainId": 1,
     "price": 0.07464
+  },
+  {
+    "name": "Kendu Inu",
+    "symbol": "KENDU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31152.png",
+    "address": "0xaa95f26e30001251fb905d264Aa7b00eE9dF6C18",
+    "chainId": 1,
+    "price": 0.00002941
   }
 ]
