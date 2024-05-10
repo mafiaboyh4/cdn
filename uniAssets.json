@@ -3926,5 +3926,13 @@
     "address": "0xaa95f26e30001251fb905d264Aa7b00eE9dF6C18",
     "chainId": 1,
     "price": 0.00002941
+  },
+  {
+    "name": "Patton",
+    "symbol": "PATTON",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31181.png",
+    "address": "0x2a961d752eaa791cbff05991e4613290aec0d9ac",
+    "chainId": 1,
+    "price": 0.000001878
   }
 ]
