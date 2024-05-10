@@ -3934,5 +3934,13 @@
     "address": "0x2a961d752eaa791cbff05991e4613290aec0d9ac",
     "chainId": 1,
     "price": 0.000001878
+  },
+  {
+    "name": "CandleAI",
+    "symbol": "CNDL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31179.png",
+    "address": "0x6efb32bc7893b793603e39643d86594ce3638157",
+    "chainId": 1,
+    "price": 0.0228
   }
 ]
