@@ -3942,5 +3942,13 @@
     "address": "0x6efb32bc7893b793603e39643d86594ce3638157",
     "chainId": 1,
     "price": 0.0228
+  },
+  {
+    "name": "HyperHash AI",
+    "symbol": "HYPERAI ",
+    "logoURI": "https://assets.coingecko.com/coins/images/37742/standard/s200.png?1715358797",
+    "address": "0x34b64fd41675520bf5098bbcc37c679ca55fb5df",
+    "chainId": 1,
+    "price": 0.08879
   }
 ]
