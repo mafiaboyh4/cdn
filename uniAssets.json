@@ -3945,10 +3945,18 @@
   },
   {
     "name": "HyperHash AI",
-    "symbol": "HYPERAI ",
+    "symbol": "HYPERAI",
     "logoURI": "https://assets.coingecko.com/coins/images/37742/standard/s200.png?1715358797",
     "address": "0x34b64fd41675520bf5098bbcc37c679ca55fb5df",
     "chainId": 1,
     "price": 0.08879
+  },
+  {
+    "name": "WIF on ETH",
+    "symbol": "WIF",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31221.png",
+    "address": "0x886c869cDc619214138C87f1DB0ADa522b16Dfa3",
+    "chainId": 1,
+    "price": 0.00149
   }
 ]
