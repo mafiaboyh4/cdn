@@ -3966,5 +3966,13 @@
     "address": "0xd29da236dd4aac627346e1bba06a619e8c22d7c5",
     "chainId": 1,
     "price": 0.00004979
+  },
+  {
+    "name": "Simpson",
+    "symbol": "TRUMP",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31307.png",
+    "address": "0x065B4E5dFD50Ac12A81722Fd0a0dE81d78DDf7fB",
+    "chainId": 1,
+    "price": 0.000000000002577
   }
 ]
