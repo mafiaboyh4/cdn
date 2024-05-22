@@ -4014,5 +4014,13 @@
     "address": "0x7c851D60b26a4F2A6F2C628Ef3B65eD282c54E52",
     "chainId": 1,
     "price": 0.00517
+  },
+  {
+    "name": "MEGA",
+    "symbol": "MEGA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31363.png",
+    "address": "0x449a917fb4910cb2f57335D619e71674fFB8BC44",
+    "chainId": 1,
+    "price": 0.000003276
   }
 ]
