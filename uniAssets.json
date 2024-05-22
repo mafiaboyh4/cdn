@@ -4022,5 +4022,13 @@
     "address": "0x449a917fb4910cb2f57335D619e71674fFB8BC44",
     "chainId": 1,
     "price": 0.000003276
+  },
+  {
+    "name": "Monkas",
+    "symbol": "Monkas",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31368.png",
+    "address": "0xdc7ac5d5d4a9c3b5d8f3183058a92776dc12f4f3",
+    "chainId": 1,
+    "price": 0.000003627
   }
 ]
