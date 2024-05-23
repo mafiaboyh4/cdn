@@ -4030,5 +4030,13 @@
     "address": "0xdc7ac5d5d4a9c3b5d8f3183058a92776dc12f4f3",
     "chainId": 1,
     "price": 0.000003627
+  },
+  {
+    "name": "LuminAi",
+    "symbol": "LUMAI",
+    "logoURI": "https://assets.coingecko.com/coins/images/38053/standard/Emblem-Color.png?1716406523",
+    "address": "0xae3e12b3a07393a5be2f5e980c585f95d5334a08",
+    "chainId": 1,
+    "price": 0.01572
   }
 ]
