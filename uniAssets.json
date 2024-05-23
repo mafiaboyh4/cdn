@@ -4054,5 +4054,13 @@
     "address": "0xa84f95eb3DaBdc1bbD613709ef5F2fD42CE5bE8d",
     "chainId": 1,
     "price": 0.05692
+  },
+  {
+    "name": "JEJE",
+    "symbol": "JJ",
+    "logoURI": "https://assets.coingecko.com/coins/images/38083/standard/1000023826.png?1716476656",
+    "address": "0x1fdd61ef9a5c31b9a2abc7d39c139c779e8412af",
+    "chainId": 1,
+    "price": 0.071212
   }
 ]
