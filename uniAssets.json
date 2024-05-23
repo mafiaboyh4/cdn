@@ -4038,5 +4038,21 @@
     "address": "0xae3e12b3a07393a5be2f5e980c585f95d5334a08",
     "chainId": 1,
     "price": 0.01572
+  },
+  {
+    "name": "Kekistan",
+    "symbol": "KEK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31398.png",
+    "address": "0x4ade2b180f65ed752b6f1296d0418ad21eb578c0",
+    "chainId": 1,
+    "price": 0.000001193
+  },
+  {
+    "name": "Eternal AI",
+    "symbol": "EAI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31401.png",
+    "address": "0xa84f95eb3DaBdc1bbD613709ef5F2fD42CE5bE8d",
+    "chainId": 1,
+    "price": 0.05692
   }
 ]
