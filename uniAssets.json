@@ -4062,5 +4062,13 @@
     "address": "0x1fdd61ef9a5c31b9a2abc7d39c139c779e8412af",
     "chainId": 1,
     "price": 0.071212
+  },
+  {
+    "name": "Trump Pepe",
+    "symbol": "TRUMPE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31428.png",
+    "address": "0x0FE13FfE64B28a172c58505e24c0c111d149BD47",
+    "chainId": 1,
+    "price": 0.03108
   }
 ]
