@@ -4070,5 +4070,13 @@
     "address": "0x0FE13FfE64B28a172c58505e24c0c111d149BD47",
     "chainId": 1,
     "price": 0.03108
+  },
+  {
+    "name": "EgodCoin",
+    "symbol": "EGOD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31436.png",
+    "address": "0xA1d23BbeF17f88fEFC2adA631738e4C42E906a2e",
+    "chainId": 1,
+    "price": 0.000003324
   }
 ]
