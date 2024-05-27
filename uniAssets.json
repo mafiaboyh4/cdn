@@ -587,20 +587,20 @@
     "price": 0.000000017
   },
   {
-    "symbol": "BABYDOGE2.0",
-    "name": "Baby Doge 2.0",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27617.png",
-    "address": "0x6036250b1db579ad5f333a130ea5a4ec28b5789e",
+    "symbol": "WJD",
+    "name": "WJD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31471.png",
+    "address": "0x7bce8642652b3C61682b03202481d589f1E0D333",
     "chainId": 1,
-    "price": 0.00008012
+    "price": 0.00001113
   },
   {
-    "symbol": "THROG",
-    "name": "Throg",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27620.png",
-    "address": "0x47006d880744ddaF285127Ac8DD6255BE7c8DA23",
+    "symbol": "Boost Trump Campaign",
+    "name": "BTC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31469.png",
+    "address": "0x300e0d87f8c95d90cfe4b809baa3a6c90e83b850",
     "chainId": 1,
-    "price": 0.0000002419
+    "price": 0.00000906
   },
   {
     "symbol": "BRIDGE",
