@@ -595,8 +595,8 @@
     "price": 0.00001113
   },
   {
-    "symbol": "Boost Trump Campaign",
-    "name": "BTC",
+    "symbol": "BTC",
+    "name": "Boost Trump Campaign",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31469.png",
     "address": "0x300e0d87f8c95d90cfe4b809baa3a6c90e83b850",
     "chainId": 1,
