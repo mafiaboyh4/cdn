@@ -4094,5 +4094,13 @@
     "address": "0x943aF17C37207c9D7a27D12cb5055542A0b7aFa8",
     "chainId": 1,
     "price": 0.000005404
+  },
+  {
+    "name": "Peepee",
+    "symbol": "PEEPEE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31485.png",
+    "address": "0xbb274c69c7114917d7f022c4ee90c1bd1f12884c",
+    "chainId": 1,
+    "price": 0.000000536
   }
 ]
