@@ -4078,5 +4078,13 @@
     "address": "0xA1d23BbeF17f88fEFC2adA631738e4C42E906a2e",
     "chainId": 1,
     "price": 0.000003324
+  },
+  {
+    "name": "IVANKA TRUMP",
+    "symbol": "IVANKA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31475.png",
+    "address": "0x7dbb51553f8222885d6d9933ea14196feb57fd78",
+    "chainId": 1,
+    "price": 0.0000009858
   }
 ]
