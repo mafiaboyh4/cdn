@@ -4102,5 +4102,13 @@
     "address": "0xbb274c69c7114917d7f022c4ee90c1bd1f12884c",
     "chainId": 1,
     "price": 0.0000003685
+  },
+  {
+    "name": "VTRADING ",
+    "symbol": "VT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31513.png",
+    "address": "0x69CadE383dF52ec02562869Da8Aa146Be08c5c3c",
+    "chainId": 1,
+    "price": 0.06177
   }
 ]
