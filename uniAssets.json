@@ -592,7 +592,7 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31471.png",
     "address": "0x7bce8642652b3C61682b03202481d589f1E0D333",
     "chainId": 1,
-    "price": 0.000001779
+    "price": 0.000001535
   },
   {
     "symbol": "BTC",
@@ -4101,6 +4101,6 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31485.png",
     "address": "0xbb274c69c7114917d7f022c4ee90c1bd1f12884c",
     "chainId": 1,
-    "price": 0.000000536
+    "price": 0.0000003685
   }
 ]
