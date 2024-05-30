@@ -4110,5 +4110,13 @@
     "address": "0x69CadE383dF52ec02562869Da8Aa146Be08c5c3c",
     "chainId": 1,
     "price": 0.06177
+  },
+  {
+    "name": "pepe in a memes world",
+    "symbol": "PEW",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31523.png",
+    "address": "0x382ea807a61a418479318efd96f1efbc5c1f2c21",
+    "chainId": 1,
+    "price": 0.00001533
   }
 ]
