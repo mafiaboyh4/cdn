@@ -419,12 +419,12 @@
     "price": 0.1174
   },
   {
-    "symbol": "BIRD",
-    "name": "Bird Coin",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27302.png",
-    "address": "0x05443131Be4c67f2a6355e3CaECcAf135E0B43De",
+    "symbol": "TRUMP",
+    "name": "NEVER SURRENDER",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31553.png",
+    "address": "0x86b69f38bea3e02f68ff88534bc61ec60e772b19",
     "chainId": 1,
-    "price": 0.00001401
+    "price": 0.00003008
   },
   {
     "symbol": "PEPE0.5",
