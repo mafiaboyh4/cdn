@@ -4126,5 +4126,13 @@
     "address": "0x6D68015171EAa7af9a5a0a103664CF1e506Ff699",
     "chainId": 1,
     "price": 0.000005541
+  },
+  {
+    "name": "Trog",
+    "symbol": "TROG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31569.png",
+    "address": "0x2077D81d0c5258230D5a195233941547cB5f0989",
+    "chainId": 1,
+    "price": 0.00002041
   }
 ]
