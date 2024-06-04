@@ -4061,7 +4061,7 @@
     "logoURI": "https://assets.coingecko.com/coins/images/38083/standard/1000023826.png?1716476656",
     "address": "0x1fdd61ef9a5c31b9a2abc7d39c139c779e8412af",
     "chainId": 1,
-    "price": 0.071212
+    "price": 0.00000002327
   },
   {
     "name": "Trump Pepe",
@@ -4142,5 +4142,13 @@
     "address": "0xE187F767c42BdBE962Fa544F621E647abD91a530",
     "chainId": 1,
     "price": 0.00000000004153
+  },
+  {
+    "name": "Pe",
+    "symbol": "PE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31617.png",
+    "address": "0xbd32bec7c76d28aa054fc0c907d601b9263e22c7",
+    "chainId": 1,
+    "price": 0.005332
   }
 ]
