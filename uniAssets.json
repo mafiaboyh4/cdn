@@ -4150,5 +4150,13 @@
     "address": "0xbd32bec7c76d28aa054fc0c907d601b9263e22c7",
     "chainId": 1,
     "price": 0.005332
+  },
+  {
+    "name": "Peepo",
+    "symbol": "PEPO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31630.png",
+    "address": "0xD1B89856D82F978D049116eBA8b7F9Df2f342fF3",
+    "chainId": 1,
+    "price": 0.000005813
   }
 ]
