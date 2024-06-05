@@ -4158,5 +4158,13 @@
     "address": "0xD1B89856D82F978D049116eBA8b7F9Df2f342fF3",
     "chainId": 1,
     "price": 0.000005813
+  },
+  {
+    "name": "PeiPei",
+    "symbol": "PEIPEI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31632.png",
+    "address": "0x3ffeea07a27fab7ad1df5297fa75e77a43cb5790",
+    "chainId": 1,
+    "price": 0.00000006277
   }
 ]
