@@ -4166,5 +4166,13 @@
     "address": "0x3ffeea07a27fab7ad1df5297fa75e77a43cb5790",
     "chainId": 1,
     "price": 0.00000006277
+  },
+  {
+    "name": "Nihao coin",
+    "symbol": "NIHAO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31672.png",
+    "address": "0xa672b803e807AB9B7cb8514350523cd6D2e4D5cc",
+    "chainId": 1,
+    "price": 0.000000001082
   }
 ]
