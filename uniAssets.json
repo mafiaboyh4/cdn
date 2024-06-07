@@ -4174,5 +4174,21 @@
     "address": "0xa672b803e807AB9B7cb8514350523cd6D2e4D5cc",
     "chainId": 1,
     "price": 0.000000001082
+  },
+  {
+    "name": "DogeVerse",
+    "symbol": "DOGEVERSE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31676.png",
+    "address": "0x62F03b52c377FeA3EB71D451a95ad86C818755D1",
+    "chainId": 1,
+    "price": 0.0002196
+  },
+  {
+    "name": "Shina Inu",
+    "symbol": "SHIN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31666.png",
+    "address": "0xa0bbbe391b0d0957f1d013381b643041d2ca4022",
+    "chainId": 1,
+    "price": 0.00000001514
   }
 ]
