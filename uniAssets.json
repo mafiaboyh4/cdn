@@ -174,5 +174,13 @@
     "address": "0x57b96d4af698605563a4653d882635da59bf11af",
     "chainId": 1,
     "price": 2.79
+  },
+  {
+    "name": "Biaoqing ",
+    "symbol": "BIAO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31730.png",
+    "address": "0x9Fd9278f04f01c6a39a9d1c1CD79f7782C6ADe08",
+    "chainId": 1,
+    "price": 0.007248
   }
 ]
