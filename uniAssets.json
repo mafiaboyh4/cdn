@@ -166,5 +166,13 @@
     "address": "0xCF078DA6e85389de507ceeDE0E3d217e457B9d49",
     "chainId": 1,
     "price": 0.1927
+  },
+  {
+    "name": "RCH Token",
+    "symbol": "RCH",
+    "logoURI": "https://assets.coingecko.com/coins/images/38554/standard/rch.png?1717986851",
+    "address": "0x57b96d4af698605563a4653d882635da59bf11af",
+    "chainId": 1,
+    "price": 2.79
   }
 ]
