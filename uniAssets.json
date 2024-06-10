@@ -27,7 +27,6 @@
     "price": null
 
   },
-
   {
     "symbol": "ADA",
     "name": "ADA",
@@ -159,5 +158,13 @@
     "address": "0x276105758dfb270f5Cd845Aa04a6Ba09C88699ca",
     "chainId": 1,
     "price": 0.00001405
+  },
+  {
+    "name": "Skillful AI",
+    "symbol": "SKAI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31716.png",
+    "address": "0xCF078DA6e85389de507ceeDE0E3d217e457B9d49",
+    "chainId": 1,
+    "price": 0.1927
   }
 ]
