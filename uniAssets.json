@@ -230,5 +230,21 @@
     "address": "0xc0041ef357b183448b235a8ea73ce4e4ec8c265f",
     "chainId": 1,
     "price": 0.1046
+  },
+  {
+    "name": "Kochi Ken ETH",
+    "symbol": "KOCHI",
+    "logoURI": "https://assets.coingecko.com/coins/images/38721/standard/1000243344.jpg?1718476896",
+    "address": "0x6fba952443be1de22232c824eb8d976b426b3c38",
+    "chainId": 1,
+    "price": 0.051828
+  },
+  {
+    "name": " Gems VIP",
+    "symbol": "GEMS",
+    "logoURI": "https://assets.coingecko.com/coins/images/38725/standard/200x200.png?1718478016",
+    "address": "0x3010ccb5419f1ef26d40a7cd3f0d707a0fa127dc",
+    "chainId": 1,
+    "price": 0.0589
   }
 ]
