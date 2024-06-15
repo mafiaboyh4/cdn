@@ -222,5 +222,13 @@
     "address": "0x9a0d1b52E0684Ab42Aa0c2613aBb4C04217E8Aa6",
     "chainId": 1,
     "price": 0.005715
+  },
+  {
+    "name": "Cookie",
+    "symbol": "COOKIE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31838.png",
+    "address": "0xc0041ef357b183448b235a8ea73ce4e4ec8c265f",
+    "chainId": 1,
+    "price": 0.1046
   }
 ]
