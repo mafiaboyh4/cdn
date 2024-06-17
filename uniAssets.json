@@ -246,5 +246,13 @@
     "address": "0x3010ccb5419f1ef26d40a7cd3f0d707a0fa127dc",
     "chainId": 1,
     "price": 0.0589
+  },
+  {
+    "name": " Frog",
+    "symbol": "FROG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31851.png",
+    "address": "0x0a2c375553e6965b42c135bb8b15a8914b08de0c",
+    "chainId": 1,
+    "price": 0.00001441
   }
 ]
