@@ -254,5 +254,13 @@
     "address": "0x0a2c375553e6965b42c135bb8b15a8914b08de0c",
     "chainId": 1,
     "price": 0.00001441
+  },
+  {
+    "name": " AMC",
+    "symbol": "AMC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31871.png",
+    "address": "0x426a688eE72811773eB64F5717A32981B56F10c1",
+    "chainId": 1,
+    "price": 0.0000001128
   }
 ]
