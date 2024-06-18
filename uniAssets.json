@@ -262,12 +262,21 @@
     "address": "0x426a688eE72811773eB64F5717A32981B56F10c1",
     "chainId": 1,
     "price": 0.0000001128
-  },{
+  },
+  {
     "name": " Spike",
     "symbol": "Spike",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31872.png",
     "address": "0x63e83de9fec8aa5e22f79a8428d23781e2687b63",
     "chainId": 1,
     "price": 0.004167
+  },
+  {
+    "name": " Moguto",
+    "symbol": "MOGU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31890.png",
+    "address": "0x203e5b63394fd27180daf86ea80afe94253f8b94",
+    "chainId": 1,
+    "price": 0.0007039
   }
 ]
