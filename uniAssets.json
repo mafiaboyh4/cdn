@@ -286,5 +286,13 @@
     "address": "0x33518f3e0beF8f1702d78E12f9c34955c941eb90",
     "chainId": 1,
     "price": 0.000000000336
+  },
+  {
+    "name": "Wat",
+    "symbol": "WAT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31908.png",
+    "address": "0x636bd98fc13908e475f56d8a38a6e03616ec5563",
+    "chainId": 1,
+    "price": 0.000003441
   }
 ]
