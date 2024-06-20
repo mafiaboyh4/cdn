@@ -294,5 +294,13 @@
     "address": "0x636bd98fc13908e475f56d8a38a6e03616ec5563",
     "chainId": 1,
     "price": 0.000003441
+  },
+  {
+    "name": "ZKX",
+    "symbol": "ZKX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31865.png",
+    "address": "0xb91d822dfef943165f368d92c16bac9bd5ec6842",
+    "chainId": 1,
+    "price": 0.1849
   }
 ]
