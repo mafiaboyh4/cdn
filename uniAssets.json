@@ -326,5 +326,29 @@
       "address": "0x2b7c0fa747611d4412b54076c62119926474edb3",
       "chainId": 1,
       "price": 0.000007394
+  },
+  {
+      "name": "Flying Avocado Cat",
+      "symbol": "FAC",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31937.png",
+      "address": "0x1a3A8Cf347b2bF5890D3D6A1B981c4f4432C8661",
+      "chainId": 1,
+      "price": 0.2758
+  },
+  {
+      "name": "Meme Cup",
+      "symbol": "MEMECUP",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31940.png",
+      "address": "0xa2b8e02ce95b54362f8db7273015478dd725d7e7",
+      "chainId": 1,
+      "price": 0.003488
+  },
+  {
+      "name": "PepeBull",
+      "symbol": "BEEF",
+      "logoURI": "https://assets.coingecko.com/coins/images/38801/standard/photo_2024-06-19_17-20-42.png?1718917274",
+      "address": "0xbeef698bd78139829e540622d5863e723e8715f1",
+      "chainId": 1,
+      "price": 0.085534
   }
 ]
