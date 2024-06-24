@@ -350,5 +350,13 @@
       "address": "0xbeef698bd78139829e540622d5863e723e8715f1",
       "chainId": 1,
       "price": 0.085534
+  },
+  {
+      "name": "Ape",
+      "symbol": "APE",
+      "logoURI": "https://assets.coingecko.com/coins/images/38863/standard/0xa0385e7283c83e2871e9af49eec0966088421ddd_%281%29.png?1719220009",
+      "address": "0xa0385e7283c83e2871e9af49eec0966088421ddd",
+      "chainId": 1,
+      "price": 0.058956
   }
 ]
