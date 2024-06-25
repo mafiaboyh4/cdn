@@ -358,5 +358,13 @@
       "address": "0xa0385e7283c83e2871e9af49eec0966088421ddd",
       "chainId": 1,
       "price": 0.058956
+  },
+  {
+      "name": "SOFA Org",
+      "symbol": "RCH",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31970.png",
+      "address": "0x57B96D4aF698605563A4653D882635da59Bf11AF",
+      "chainId": 1,
+      "price": 0.8256
   }
 ]
