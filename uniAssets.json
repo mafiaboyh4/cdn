@@ -366,5 +366,13 @@
       "address": "0x57B96D4aF698605563A4653D882635da59Bf11AF",
       "chainId": 1,
       "price": 0.8256
+  },
+  {
+      "name": "Baby Pepe",
+      "symbol": "PEPER",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31980.png",
+      "address": "0xb69100340a5947e856d873463694ae2186146c43",
+      "chainId": 1,
+      "price": 0.000009146
   }
 ]
