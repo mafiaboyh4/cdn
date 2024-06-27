@@ -375,12 +375,27 @@
       "chainId": 1,
       "price": 0.000009146
   },
-  {
-      "name": "Teleport System Token",
-      "symbol": "TST",
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31934.png",
-      "address": "0x0828096494ad6252F0F853abFC5b6ec9dfe9fDAd",
+{
+      "name": "Spike 1984",
+      "symbol": "SPIKE",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31998.png",
+      "address": "0x1984E59B6959d960214D9DbEcF138c340dE8Bd4b",
       "chainId": 1,
-      "price": 0.07121
+      "price": 0.000005235
+  },{
+      "name": "KAI KEN",
+      "symbol": "KAI",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32000.png",
+      "address": "0xA045Fe936E26e1e1e1Fb27C1f2Ae3643acde0171",
+      "chainId": 1,
+      "price": 0.0000000153
+  },
+  {
+    "name": "Teleport System Token",
+    "symbol": "TST",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31934.png",
+    "address": "0x0828096494ad6252F0F853abFC5b6ec9dfe9fDAd",
+    "chainId": 1,
+    "price": 0.07121
   }
 ]
