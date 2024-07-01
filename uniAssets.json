@@ -405,5 +405,12 @@
     "address": "0x0c04ff41b11065eed8c9eda4d461ba6611591395",
     "chainId": 1,
     "price": 0.1162
+  },{
+    "name": "Chacha",
+    "symbol": "CHACHA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32052.png",
+    "address": "0xa1ba34b1906c6706cee904b6d8bb08a6412d94a5",
+    "chainId": 1,
+    "price": 0.000002141
   }
 ]
