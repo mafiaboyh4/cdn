@@ -432,11 +432,11 @@
     "price": 0.000000004148
   },
   {
-    "name": "Zazzles",
-    "symbol": "ZAZZLES",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32082.png",
-    "address": "0x44a023a4c32bdd2c89ee87ee76a2332b1a883012",
-    "chainId": 1,
-    "price": 0.000002014
+      "name": "Zazzles",
+      "symbol": "ZAZZLES",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32082.png",
+      "address": "0x44a023a4c32bdd2c89ee87ee76a2332b1a883012",
+      "chainId": 1,
+      "price": 0.000002014
   }
 ]
