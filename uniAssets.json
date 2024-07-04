@@ -438,5 +438,13 @@
     "address": "0x44a023a4c32bdd2c89ee87ee76a2332b1a883012",
     "chainId": 1,
     "price": 0.000002014
+  },
+  {
+    "name": "Synternet",
+    "symbol": "SYNT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32108.png",
+    "address": "0xDA987c655ebC38C801DB64A8608bc1AA56Cd9a31",
+    "chainId": 1,
+    "price": 0.0554
   }
 ]
