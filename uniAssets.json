@@ -454,5 +454,21 @@
     "address": "0xbDbE9F26918918Bd3F43a0219d54e5fDA9ce1BB3",
     "chainId": 1,
     "price": 0.000001042
+  },
+  {
+    "name": "American Shib",
+    "symbol": "SHIBA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32148.png",
+    "address": "0xeb15a54e462e1ec239c09f1e6aa322b45c8da225",
+    "chainId": 1,
+    "price": 0.0000000011
+  },
+  {
+    "name": "Mojo",
+    "symbol": "MOJO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32142.png",
+    "address": "0x07DDaCf367f0d40bd68B4b80b4709A37BDC9F847",
+    "chainId": 1,
+    "price": 0.000000008535
   }
 ]
