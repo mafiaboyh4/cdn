@@ -470,5 +470,13 @@
     "address": "0x07DDaCf367f0d40bd68B4b80b4709A37BDC9F847",
     "chainId": 1,
     "price": 0.000000008535
+  },
+  {
+    "name": "Gremly",
+    "symbol": "GREMLY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32143.png",
+    "address": "0x80Aa87B47Da26b2dBa301708046fe467575fC355",
+    "chainId": 1,
+    "price": 0.002918
   }
 ]
