@@ -486,12 +486,21 @@
     "address": "0x214549b0317564De15770561221433fB3E8c995c",
     "chainId": 1,
     "price": 0.000001157
-  },{
+  },
+  {
     "name": "Mini Donald",
     "symbol": "BARRON",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32173.png",
     "address": "0x1f70300bce8c2302780bd0a153ebb75b8ca7efcb",
     "chainId": 1,
     "price": 0.002007
+  },
+  {
+    "name": "Matt Furie",
+    "symbol": "MATT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32183.png",
+    "address": "0x790814Cd782983FaB4d7B92CF155187a865d9F18",
+    "chainId": 1,
+    "price": 0.0000185
   }
 ]
