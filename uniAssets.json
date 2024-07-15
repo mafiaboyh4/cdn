@@ -502,5 +502,29 @@
     "address": "0x790814Cd782983FaB4d7B92CF155187a865d9F18",
     "chainId": 1,
     "price": 0.0000185
+  },
+  {
+    "name": "Trump Card",
+    "symbol": "TARD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32234.png",
+    "address": "0x58132486f5c8756860209D01C584c0AF92f163a2",
+    "chainId": 1,
+    "price": 7.52
+  },
+  {
+    "name": "OLYMPÉ",
+    "symbol": "OLYMPE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32225.png",
+    "address": "0x28dd00ef3877187D7b2bE101605768138f839b82",
+    "chainId": 1,
+    "price": 0.00001118
+  },
+  {
+    "name": "MATT",
+    "symbol": "MATT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32214.png",
+    "address": "0x7087c92EC764e75e7be7701EBA15cD95D90F501F",
+    "chainId": 1,
+    "price": 0.00004493
   }
 ]
