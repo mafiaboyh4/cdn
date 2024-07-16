@@ -526,5 +526,13 @@
     "address": "0x7087c92EC764e75e7be7701EBA15cD95D90F501F",
     "chainId": 1,
     "price": 0.00004493
+  },
+  {
+    "name": "Fight to MAGA",
+    "symbol": "FIGHT",
+    "logoURI": "https://assets.coingecko.com/coins/images/39208/standard/photo_2024-07-14_03-15-23.jpg?1721101331",
+    "address": "0x8802269d1283cdb2a5a329649e5cb4cdcee91ab6",
+    "chainId": 1,
+    "price": 0.04556
   }
 ]
