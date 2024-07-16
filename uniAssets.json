@@ -534,5 +534,13 @@
     "address": "0x8802269d1283cdb2a5a329649e5cb4cdcee91ab6",
     "chainId": 1,
     "price": 0.04556
+  },
+  {
+    "name": "Maga Pepe",
+    "symbol": "MAPE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32256.png",
+    "address": "0x683A4ac99E65200921f556A19dADf4b0214B5938",
+    "chainId": 1,
+    "price": 0.00001697
   }
 ]
