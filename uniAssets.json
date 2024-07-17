@@ -566,5 +566,21 @@
     "address": "0x69f137147025c63b7b523eefcc2cf587b9c19269",
     "chainId": 1,
     "price": 0.00000002294
+  },
+  {
+    "name": "FEAR NOT",
+    "symbol": "FEARNOT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32265.png",
+    "address": "0x6135177a17e02658df99a07a2841464deb5b8589",
+    "chainId": 1,
+    "price": 0.00004781
+  },
+  {
+    "name": "The Republican Party",
+    "symbol": "GOP",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32267.png",
+    "address": "0x80810a9c31E7243A0bFb9919b0B4020378d1C134",
+    "chainId": 1,
+    "price": 0.0001962
   }
 ]
