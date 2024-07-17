@@ -558,5 +558,13 @@
     "address": "0x00380d12a12acf6f47481e8ca8be777931395200",
     "chainId": 1,
     "price": 0.00122
+  },
+  {
+    "name": "Pendy",
+    "symbol": "PENDY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32269.png",
+    "address": "0x69f137147025c63b7b523eefcc2cf587b9c19269",
+    "chainId": 1,
+    "price": 0.00000002294
   }
 ]
