@@ -542,5 +542,21 @@
     "address": "0x683A4ac99E65200921f556A19dADf4b0214B5938",
     "chainId": 1,
     "price": 0.00001697
+  },
+  {
+    "name": "Young Peezy",
+    "symbol": "PEEZY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32262.png",
+    "address": "0x69EE720C120EC7c9C52A625C04414459B3185f23",
+    "chainId": 1,
+    "price": 0.00000003953
+  },
+  {
+    "name": "Republican",
+    "symbol": "REPUBLICAN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32261.png",
+    "address": "0x00380d12a12acf6f47481e8ca8be777931395200",
+    "chainId": 1,
+    "price": 0.00122
   }
 ]
