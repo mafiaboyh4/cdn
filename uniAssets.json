@@ -582,5 +582,21 @@
     "address": "0x80810a9c31E7243A0bFb9919b0B4020378d1C134",
     "chainId": 1,
     "price": 0.0001962
+  },
+  {
+    "name": "Make America Great Once Again",
+    "symbol": "MAGOA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32290.png",
+    "address": "0x9f4aC5eA89B1623E35328904D7D61B08B55dAA50",
+    "chainId": 1,
+    "price": 0.000007243
+  },
+  {
+    "name": "AIRian",
+    "symbol": "AIR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31683.png",
+    "address": "0x294B9dA569c0d694870239813Bbe7B5824FD2339",
+    "chainId": 1,
+    "price": 0.05213
   }
 ]
