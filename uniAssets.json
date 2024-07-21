@@ -598,6 +598,20 @@
     "address": "0x294B9dA569c0d694870239813Bbe7B5824FD2339",
     "chainId": 1,
     "price": 0.05213
+  },{
+    "name": "TRUMPAMANIA",
+    "symbol": "TRUMPAMANIA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32296.png",
+    "address": "0x63989348ebe7590b8863c5a242f7ee01efcca0c7",
+    "chainId": 1,
+    "price": 0.000003103
+  },{
+    "name": "Bullish Trump Coin",
+    "symbol": "BTC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32295.png",
+    "address": "0x43FD9De06bb69aD771556E171f960A91c42D2955",
+    "chainId": 1,
+    "price": 0.00001063
   },
   {
     "name": "Simpson Trump",
@@ -605,6 +619,6 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32305.png",
     "address": "0xCaB66bc319C96A2921Caed30E990b20F2322357e",
     "chainId": 1,
-    "price": 0.000000000001072
+    "price": 0.000000000001069
   }
 ]
