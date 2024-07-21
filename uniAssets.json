@@ -598,5 +598,13 @@
     "address": "0x294B9dA569c0d694870239813Bbe7B5824FD2339",
     "chainId": 1,
     "price": 0.05213
+  },
+  {
+    "name": "Simpson Trump",
+    "symbol": "TRUMP",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32305.png",
+    "address": "0xCaB66bc319C96A2921Caed30E990b20F2322357e",
+    "chainId": 1,
+    "price": 0.000000000001072
   }
 ]
