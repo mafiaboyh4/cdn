@@ -620,5 +620,13 @@
     "address": "0xCaB66bc319C96A2921Caed30E990b20F2322357e",
     "chainId": 1,
     "price": 0.000000000001069
+  },
+  {
+    "name": "Value",
+    "symbol": "VALU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31512.png",
+    "address": "0x6d5e345796f6fc568798aac6e8704e736cc1bf2b",
+    "chainId": 1,
+    "price": 0.004569
   }
 ]
