@@ -628,5 +628,13 @@
     "address": "0x6d5e345796f6fc568798aac6e8704e736cc1bf2b",
     "chainId": 1,
     "price": 0.004569
+  },
+  {
+    "name": "Dark Elon",
+    "symbol": "DELON",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32335.png",
+    "address": "0xc3dc991f2e0d39b3f3c4f8aaedb30f81207974c6",
+    "chainId": 1,
+    "price": 0.000003739
   }
 ]
