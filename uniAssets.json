@@ -636,5 +636,21 @@
     "address": "0xc3dc991f2e0d39b3f3c4f8aaedb30f81207974c6",
     "chainId": 1,
     "price": 0.000003739
+  },
+  {
+    "name": "BLOCKLORDS",
+    "symbol": "LRDS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29203.png",
+    "address": "0xd0a6053f087E87a25dC60701ba6E663b1a548E85",
+    "chainId": 1,
+    "price": 1.33
+  },
+  {
+    "name": "Rare Pepe",
+    "symbol": "RARE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32377.png",
+    "address": "0x42069cc15F5BEfb510430d22Ff1c9A1b3ae22CfE",
+    "chainId": 1,
+    "price": 0.000002896
   }
 ]
