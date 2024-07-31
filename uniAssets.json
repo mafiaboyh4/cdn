@@ -652,5 +652,37 @@
     "address": "0x42069cc15F5BEfb510430d22Ff1c9A1b3ae22CfE",
     "chainId": 1,
     "price": 0.000002896
+  },
+  {
+    "name": "YAWN",
+    "symbol": "$YAWN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32495.png",
+    "address": "0x881d4C8618D68872fA404518B2460eA839A02a6a",
+    "chainId": 1,
+    "price": 0.001757
+  },
+  {
+    "name": "Gold Standard",
+    "symbol": "BAR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32477.png",
+    "address": "0x777BE1c6075c20184C4fd76344b7b0B7c858fe6B",
+    "chainId": 1,
+    "price": 12.24
+  },
+  {
+    "name": "Dogecoin 2.0",
+    "symbol": "DOGE2",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32475.png",
+    "address": "0xd09e2a8382a4a406d3ee83edff38900298eb416e",
+    "chainId": 1,
+    "price": 0.000001258
+  },
+  {
+    "name": "Layer3",
+    "symbol": "L3",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32470.png",
+    "address": "0x88909D489678dD17aA6D9609F89B0419Bf78FD9a",
+    "chainId": 1,
+    "price": 0.08892
   }
 ]
