@@ -700,5 +700,21 @@
     "address": "0x620aA20875Ec1144126ea47FB27ecfe6e10d0c56",
     "chainId": 1,
     "price": 0.00000002687
+  },
+  {
+    "name": "Shibe Inu",
+    "symbol": "SHIBE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32511.png",
+    "address": "0xa4E009e698ED9d818Cf6efDe5897A950ef1e2Be5",
+    "chainId": 1,
+    "price": 0.00000114
+  },
+  {
+    "name": "BaoBao",
+    "symbol": "BAOBAO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32513.png",
+    "address": "0x9652101730a0faf479488dee57b83f18a415da30",
+    "chainId": 1,
+    "price": 0.0000000003106
   }
 ]
