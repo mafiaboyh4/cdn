@@ -692,5 +692,13 @@
     "address": "0xee2a03aa6dacf51c18679c516ad5283d8e7c2637",
     "chainId": 1,
     "price": 0.1888
+  },
+  {
+    "name": "Moya",
+    "symbol": "MOYA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32509.png",
+    "address": "0x620aA20875Ec1144126ea47FB27ecfe6e10d0c56",
+    "chainId": 1,
+    "price": 0.00000002687
   }
 ]
