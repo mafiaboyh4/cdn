@@ -716,5 +716,13 @@
     "address": "0x9652101730a0faf479488dee57b83f18a415da30",
     "chainId": 1,
     "price": 0.0000000003106
+  },
+  {
+    "name": "First Neiro On Ethereum",
+    "symbol": "NEIRO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32521.png",
+    "address": "0x812ba41e071c7b7fa4ebcfb62df5f45f6fa853ee",
+    "chainId": 1,
+    "price": 0.000004792
   }
 ]
