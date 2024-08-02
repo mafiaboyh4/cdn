@@ -724,5 +724,21 @@
     "address": "0x812ba41e071c7b7fa4ebcfb62df5f45f6fa853ee",
     "chainId": 1,
     "price": 0.000004792
+  },
+  {
+    "name": "Onigiri",
+    "symbol": "ONI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32538.png",
+    "address": "0x7777cec341e7434126864195adef9b05dcc3489c",
+    "chainId": 1,
+    "price": 0.00001235
+  },
+  {
+    "name": "Ito-chan",
+    "symbol": "ITO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32537.png",
+    "address": "0x8Bcda22D51785A5540129feb90D47cb279826478",
+    "chainId": 1,
+    "price": 0.000001202
   }
 ]
