@@ -748,5 +748,13 @@
     "address": "0x7316D973b0269863BbfeD87302e11334E25eA565",
     "chainId": 1,
     "price": 0.002281
+  },
+  {
+    "name": "This is Fine",
+    "symbol": "FINE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32549.png",
+    "address": "0x98De539486EA9bc06A28BEF5fB089A7f149B7Ff7",
+    "chainId": 1,
+    "price": 0.00167
   }
 ]
