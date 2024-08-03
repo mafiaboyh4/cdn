@@ -740,5 +740,13 @@
     "address": "0x8Bcda22D51785A5540129feb90D47cb279826478",
     "chainId": 1,
     "price": 0.000001202
+  },
+  {
+    "name": "Ken",
+    "symbol": "KEN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32542.png",
+    "address": "0x7316D973b0269863BbfeD87302e11334E25eA565",
+    "chainId": 1,
+    "price": 0.002281
   }
 ]
