@@ -756,5 +756,21 @@
     "address": "0x98De539486EA9bc06A28BEF5fB089A7f149B7Ff7",
     "chainId": 1,
     "price": 0.00167
+  },
+  {
+    "name": "Chiba Inu",
+    "symbol": "CHIB",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32552.png",
+    "address": "0x94aad11f1e7ca2361156d6b0476a3b29b1836275",
+    "chainId": 1,
+    "price": 0.0005975
+  },
+  {
+    "name": "KAMALA HARRIS",
+    "symbol": "HARRIS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32550.png",
+    "address": "0x7753Cfe88bB3d8dbe2ce0B2c37F098B0EAE50139",
+    "chainId": 1,
+    "price": 0.000000009714
   }
 ]
