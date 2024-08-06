@@ -772,5 +772,13 @@
     "address": "0x7753Cfe88bB3d8dbe2ce0B2c37F098B0EAE50139",
     "chainId": 1,
     "price": 0.000000009714
+  },
+  {
+    "name": "Wiener AI",
+    "symbol": "WAI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32578.png",
+    "address": "0xFE8526A77A2c3590E5973bA81308B90BEA21FBFF",
+    "chainId": 1,
+    "price": 0.000488
   }
 ]
