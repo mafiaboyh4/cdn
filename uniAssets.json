@@ -780,5 +780,13 @@
     "address": "0xFE8526A77A2c3590E5973bA81308B90BEA21FBFF",
     "chainId": 1,
     "price": 0.000488
+  },
+  {
+    "name": "PINs Network Token",
+    "symbol": "PINS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32588.png",
+    "address": "0x92ACA969b77BD899C05ca0e1DC050cd003457d60",
+    "chainId": 1,
+    "price": 0.009567
   }
 ]
