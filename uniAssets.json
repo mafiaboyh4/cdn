@@ -788,5 +788,21 @@
     "address": "0x92ACA969b77BD899C05ca0e1DC050cd003457d60",
     "chainId": 1,
     "price": 0.009567
+  },
+  {
+    "name": "Baby Neiro Coin",
+    "symbol": "BABYNEIRO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32604.png",
+    "address": "0xe9b8c15cb7c669c3f2679739c7835c6b911dbddb",
+    "chainId": 1,
+    "price": 0.002355
+  },
+  {
+    "name": "Baby Neiro",
+    "symbol": "BABYNEIRO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32597.png",
+    "address": "0xbAbE3ce7835665464228dF00B03246115C30730A",
+    "chainId": 1,
+    "price": 0.000001507
   }
 ]
