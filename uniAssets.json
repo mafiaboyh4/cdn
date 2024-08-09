@@ -804,5 +804,13 @@
     "address": "0xbAbE3ce7835665464228dF00B03246115C30730A",
     "chainId": 1,
     "price": 0.000001507
+  },
+  {
+    "name": "AUTOMATIX",
+    "symbol": "ATX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32614.png",
+    "address": "0xa28cbb24313df3907b8d87685bab2c1d0bd46b60",
+    "chainId": 1,
+    "price": 0.2094
   }
 ]
