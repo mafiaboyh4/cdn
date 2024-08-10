@@ -812,5 +812,12 @@
     "address": "0xa28cbb24313df3907b8d87685bab2c1d0bd46b60",
     "chainId": 1,
     "price": 0.2094
+  },{
+    "name": "Fuku-Kun",
+    "symbol": "FUKU",
+    "logoURI": "https://assets.coingecko.com/coins/images/39632/standard/fukuwhite.jpg?1723250967",
+    "address": "0x1001271083c249bd771e1bb76c22d935809a61ee",
+    "chainId": 1,
+    "price": 0.00002064
   }
 ]
