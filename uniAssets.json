@@ -836,5 +836,13 @@
     "address": "0x00364c6d90727d415225F863B98500729Ee2ed2E",
     "chainId": 1,
     "price": 0.0005944
+  },
+  {
+    "name": "KABOSU",
+    "symbol": "KABOSU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32650.png",
+    "address": "0x180000dDA70Eb7fB7f3E10e52e88ce88f46E3b3a",
+    "chainId": 1,
+    "price": 0.0002596
   }
 ]
