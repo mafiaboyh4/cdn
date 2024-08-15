@@ -852,5 +852,13 @@
     "address": "0xed89fc0f41d8be2c98b13b7e3cd3e876d73f1d30",
     "chainId": 1,
     "price": 0.002833
+  },
+  {
+    "name": "Atsuko Sato",
+    "symbol": "SATO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32691.png",
+    "address": "0x5de758bba013e58dae2693aea3f0b12b31a3023d",
+    "chainId": 1,
+    "price": 0.02123
   }
 ]
