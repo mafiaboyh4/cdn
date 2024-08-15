@@ -844,5 +844,13 @@
     "address": "0x180000dDA70Eb7fB7f3E10e52e88ce88f46E3b3a",
     "chainId": 1,
     "price": 0.0002596
+  },
+  {
+    "name": "Gou",
+    "symbol": "GOU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32688.png",
+    "address": "0xed89fc0f41d8be2c98b13b7e3cd3e876d73f1d30",
+    "chainId": 1,
+    "price": 0.002833
   }
 ]
