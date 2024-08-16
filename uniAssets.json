@@ -860,5 +860,13 @@
     "address": "0x5de758bba013e58dae2693aea3f0b12b31a3023d",
     "chainId": 1,
     "price": 0.02123
+  },
+  {
+    "name": "Colon",
+    "symbol": "COLON",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32710.png",
+    "address": "0xD09Eb9099faC55eDCbF4965e0A866779ca365a0C",
+    "chainId": 1,
+    "price": 0.000324
   }
 ]
