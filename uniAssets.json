@@ -868,5 +868,13 @@
     "address": "0xD09Eb9099faC55eDCbF4965e0A866779ca365a0C",
     "chainId": 1,
     "price": 0.000324
+  },
+  {
+    "name": "Deadpool Inu",
+    "symbol": "DPOOL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32739.png",
+    "address": "0xf1c71fb7cd399e00eed76332a9312fa6e70fa189",
+    "chainId": 1,
+    "price": 0.000001682
   }
 ]
