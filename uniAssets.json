@@ -876,5 +876,21 @@
     "address": "0xf1c71fb7cd399e00eed76332a9312fa6e70fa189",
     "chainId": 1,
     "price": 0.000001682
+  },
+  {
+    "name": "FIGHT FOR THE PEOPLE",
+    "symbol": "FFTP",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32736.png",
+    "address": "0x02e79d42C3297Cd4154A1b52B4a3b27Cd75762F1",
+    "chainId": 1,
+    "price": 0.00000004995
+  },
+  {
+    "name": "Brainlet",
+    "symbol": "BLET",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32738.png",
+    "address": "0x41b3Fc903EF69fE79Eb09C44b5b16566688A5892",
+    "chainId": 1,
+    "price": 0.000217
   }
 ]
