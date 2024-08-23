@@ -906,5 +906,12 @@
     "address": "0x71297312753ea7a2570a5a3278ed70d9a75f4f44",
     "chainId": 1,
     "price": 0.001821
+  },{
+    "name": "0dog",
+    "symbol": "0DOG",
+    "logoURI": "https://assets.coingecko.com/coins/images/39840/standard/0DOG.png?1724288227",
+    "address": "0xaa6624d7363ef8284aa8ce4e18146ded5f421b2c",
+    "chainId": 1,
+    "price": 0.03005
   }
 ]
