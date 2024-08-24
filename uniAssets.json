@@ -913,5 +913,12 @@
     "address": "0xaa6624d7363ef8284aa8ce4e18146ded5f421b2c",
     "chainId": 1,
     "price": 0.03005
+  },{
+    "name": "Bufficorn",
+    "symbol": "BUFFI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32813.png",
+    "address": "0x4c1b1302220d7de5c22b495e78b72f2dd2457d45",
+    "chainId": 1,
+    "price": 0.000008126
   }
 ]
