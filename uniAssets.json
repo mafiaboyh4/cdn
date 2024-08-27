@@ -913,12 +913,29 @@
     "address": "0xaa6624d7363ef8284aa8ce4e18146ded5f421b2c",
     "chainId": 1,
     "price": 0.03005
-  },{
+  },
+  {
     "name": "Bufficorn",
     "symbol": "BUFFI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32813.png",
     "address": "0x4c1b1302220d7de5c22b495e78b72f2dd2457d45",
     "chainId": 1,
     "price": 0.000008126
+  },
+  {
+    "name": "Bullish On Ethereum",
+    "symbol": "BOE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32842.png",
+    "address": "0x5ecAF4aaDD8317d515D7345C46E242526B099151",
+    "chainId": 1,
+    "price": 0.0006853
+  },
+  {
+    "name": "Omix",
+    "symbol": "OMIX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32841.png",
+    "address": "0xC533403393c44e4F330835381Aeb243bE10d2247",
+    "chainId": 1,
+    "price": 0.0004355
   }
 ]
