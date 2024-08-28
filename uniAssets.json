@@ -937,5 +937,13 @@
     "address": "0xC533403393c44e4F330835381Aeb243bE10d2247",
     "chainId": 1,
     "price": 0.0004355
+  },
+  {
+    "name": "Agora",
+    "symbol": "AUSD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32864.png",
+    "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+    "chainId": 1,
+    "price": 0.9998
   }
 ]
