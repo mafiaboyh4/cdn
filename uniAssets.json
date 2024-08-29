@@ -945,5 +945,12 @@
     "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
     "chainId": 1,
     "price": 0.9998
+  },{
+    "name": "Triton",
+    "symbol": "TRITON",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32881.png",
+    "address": "0x8c6691704d0c3630d6a4fbd5383e0f8e59e10616",
+    "chainId": 1,
+    "price": 1.38
   }
 ]
