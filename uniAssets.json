@@ -977,5 +977,13 @@
     "address": "0xD7CFDb3cdc33dBeb9e9A4C95b61953Cf12A008b3",
     "chainId": 1,
     "price": 0.0238
+  },
+  {
+    "name": "SmartHub",
+    "symbol": "SMART ",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32900.png",
+    "address": "0x8B68F1D0246320d5CaF8CD9828faaB28D66BA749",
+    "chainId": 1,
+    "price": 0.4225
   }
 ]
