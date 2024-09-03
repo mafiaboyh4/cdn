@@ -1001,5 +1001,13 @@
     "address": "0x8f2bf2f59cdf7be4aee71500b9419623202b8636",
     "chainId": 1,
     "price": 0.01719
+  },
+  {
+    "name": "NEIGRO",
+    "symbol": "NEIGRO",
+    "logoURI": "https://chef.fun/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fchef-fun.appspot.com%2Fo%2Flogos%252F0x6e3DEa9574D4a450F35570892fa8871166DFC399_logo.jpeg%3Falt%3Dmedia%26token%3Db81a706e-bfec-4f14-bf67-868b3b3e7fcd&w=128&q=75",
+    "address": "0x6e3dea9574d4a450f35570892fa8871166dfc399",
+    "chainId": 1,
+    "price": 0.0000593023
   }
 ]
