@@ -993,5 +993,13 @@
     "address": "0x5b342f03d126314d925fa57a45654f92905e6451",
     "chainId": 1,
     "price": 0.4966
+  },
+  {
+    "name": "Chefdotfun",
+    "symbol": "CHEF",
+    "logoURI": "https://assets.coingecko.com/coins/images/40023/standard/a122.jpg?1725346333",
+    "address": "0x8f2bf2f59cdf7be4aee71500b9419623202b8636",
+    "chainId": 1,
+    "price": 0.01719
   }
 ]
