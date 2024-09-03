@@ -1009,5 +1009,13 @@
     "address": "0x6e3dea9574d4a450f35570892fa8871166dfc399",
     "chainId": 1,
     "price": 0.0000593023
+  },
+  {
+    "name": "PRINT",
+    "symbol": "PRINT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32928.png",
+    "address": "0x3c7Eb7848b77eAbB207c05A86A85832b14f495c1",
+    "chainId": 1,
+    "price": 0.02215
   }
 ]
