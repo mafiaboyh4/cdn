@@ -1017,5 +1017,13 @@
     "address": "0x3c7Eb7848b77eAbB207c05A86A85832b14f495c1",
     "chainId": 1,
     "price": 0.02215
+  },
+  {
+    "name": "Brokie",
+    "symbol": "BROKIE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32967.png",
+    "address": "0xbc5ca3c518c8a2930947661237b1b562e34f22b7",
+    "chainId": 1,
+    "price": 0.000669
   }
 ]
