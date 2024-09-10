@@ -1025,5 +1025,21 @@
     "address": "0xbc5ca3c518c8a2930947661237b1b562e34f22b7",
     "chainId": 1,
     "price": 0.000669
+  },
+  {
+    "name": "PEPAY",
+    "symbol": "PEPAY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32980.png",
+    "address": "0x8149745670881d99700078ede5903a1a7bebe262",
+    "chainId": 1,
+    "price": 0.000000007344
+  },
+  {
+    "name": "Cate",
+    "symbol": "CATE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32981.png",
+    "address": "0xa00453052A36D43A99Ac1ca145DFe4A952cA33B8",
+    "chainId": 1,
+    "price": 0.008719
   }
 ]
