@@ -1041,5 +1041,13 @@
     "address": "0xa00453052A36D43A99Ac1ca145DFe4A952cA33B8",
     "chainId": 1,
     "price": 0.008719
+  },
+  {
+    "name": "MAGA CAT",
+    "symbol": "MAGACAT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32988.png",
+    "address": "0xae0FE8474CF5b1B412b3E4327A1c535ea12b77b7",
+    "chainId": 1,
+    "price": 0.00000476
   }
 ]
