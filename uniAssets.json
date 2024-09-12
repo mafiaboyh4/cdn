@@ -1049,5 +1049,13 @@
     "address": "0xae0FE8474CF5b1B412b3E4327A1c535ea12b77b7",
     "chainId": 1,
     "price": 0.00000476
+  }،
+{
+    "name": "Trump2024",
+    "symbol": "TRUMP2024",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33000.png",
+    "address": "0x880226cbcce551eeafd18c9a9e883c85811b82fc",
+    "chainId": 1,
+    "price": 0.03692
   }
 ]
