@@ -1057,5 +1057,12 @@
     "address": "0x880226cbcce551eeafd18c9a9e883c85811b82fc",
     "chainId": 1,
     "price": 0.03692
+  },{
+    "name": "Department Of Government Efficiency",
+    "symbol": "DOGE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33007.png",
+    "address": "0xA4fb6e1781fBCc921DF51352aF4CC83FF6c1308f",
+    "chainId": 1,
+    "price": 0.00002117
   }
 ]
