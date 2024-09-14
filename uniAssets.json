@@ -1064,5 +1064,22 @@
     "address": "0xA4fb6e1781fBCc921DF51352aF4CC83FF6c1308f",
     "chainId": 1,
     "price": 0.00002117
+
+  },
+  {
+    "name": "Department Of Government Efficiency",
+    "symbol": "DOGE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33019.png",
+    "address": "0xD09e5d8607f2541E13c3F014C360f0EE2A25Eb80",
+    "chainId": 1,
+    "price": 0.00001827
+  },
+  {
+    "name": "LICKER",
+    "symbol": "LICKER",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33021.png",
+    "address": "0x1b3be8fCD2e7C5cE9C5c242E0066FdD9740220d0",
+    "chainId": 1,
+    "price": 0.001139
   }
 ]
