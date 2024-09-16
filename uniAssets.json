@@ -1088,5 +1088,12 @@
     "address": "0xda0c0D0a0FF8262F3EE9Ee8A712B988Df897bE65",
     "chainId": 1,
     "price": 0.0000000002329
+  },{
+    "name": "Catalorian",
+    "symbol": "CATALORIAN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33034.png",
+    "address": "0x8baf5d75cae25c7df6d1e0d26c52d19ee848301a",
+    "chainId": 1,
+    "price": 0.002054
   }
 ]
