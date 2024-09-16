@@ -1081,5 +1081,12 @@
     "address": "0x1b3be8fCD2e7C5cE9C5c242E0066FdD9740220d0",
     "chainId": 1,
     "price": 0.001139
+  },{
+    "name": "World Liberty Financial",
+    "symbol": "WLF",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33030.png",
+    "address": "0xda0c0D0a0FF8262F3EE9Ee8A712B988Df897bE65",
+    "chainId": 1,
+    "price": 0.0000000002329
   }
 ]
