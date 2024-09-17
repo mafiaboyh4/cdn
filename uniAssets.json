@@ -383,11 +383,11 @@
     "price": 0.001686
   },
   {
-    "name": "CATALORIAN",
-    "symbol": "CATALORIAN",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33047.png",
-    "address": "0x07bf2cc7e965d061ec3a408980d89f3e322d33b8",
-    "chainId": 1,
-    "price": 0.001129
+      "name": "CATALORIAN",
+      "symbol": "CATALORIAN",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33047.png",
+      "address": "0x07bf2cc7e965d061ec3a408980d89f3e322d33b8",
+      "chainId": 1,
+      "price": 0.001129
   }
 ]
