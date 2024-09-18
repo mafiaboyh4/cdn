@@ -389,5 +389,13 @@
       "address": "0x07bf2cc7e965d061ec3a408980d89f3e322d33b8",
       "chainId": 1,
       "price": 0.001129
+  },
+  {
+      "name": "Ape",
+      "symbol": "APE",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33059.png",
+      "address": "0xc5f3bc77d4762258c99b8a80677d27f71b519398",
+      "chainId": 1,
+      "price": 0.0009638
   }
 ]
