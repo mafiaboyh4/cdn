@@ -397,5 +397,13 @@
       "address": "0xc5f3bc77d4762258c99b8a80677d27f71b519398",
       "chainId": 1,
       "price": 0.0009638
+  },
+  {
+      "name": "MOO DENG",
+      "symbol": "MOODENG",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33076.png",
+      "address": "0x28561b8a2360f463011c16b6cc0b0cbef8dbbcad",
+      "chainId": 1,
+      "price": 0.000003853
   }
 ]
