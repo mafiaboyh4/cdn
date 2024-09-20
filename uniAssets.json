@@ -405,5 +405,13 @@
       "address": "0x28561b8a2360f463011c16b6cc0b0cbef8dbbcad",
       "chainId": 1,
       "price": 0.000003853
+  },
+  {
+      "name": "RUNEVM",
+      "symbol": "RUNEVM",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33083.png",
+      "address": "0x72d4BC91FbD9b257EaE62a5758288D9797c9a76a",
+      "chainId": 1,
+      "price": 0.000003853
   }
 ]
