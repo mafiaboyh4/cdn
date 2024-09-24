@@ -413,5 +413,29 @@
       "address": "0x72d4BC91FbD9b257EaE62a5758288D9797c9a76a",
       "chainId": 1,
       "price": 0.000003853
+  },
+  {
+      "name": "Infinet",
+      "symbol": "INFI",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33121.png",
+      "address": "0xfc21540d6b89667d167d42086e1feb04da3e9b21",
+      "chainId": 1,
+      "price": 0.006873
+  },
+  {
+      "name": "Crypto Burger",
+      "symbol": "BURGER",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33109.png",
+      "address": "0x0c2e08E459fC43dDD1E2718C122F566473f59665",
+      "chainId": 1,
+      "price": 0.00000585
+  },
+  {
+      "name": "Aguri-Chan",
+      "symbol": "AGURI",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33141.png",
+      "address": "0x8e42fe26fc1697f57076c9f2a8d1ff69cf7f6fda",
+      "chainId": 1,
+      "price": 0.000003148
   }
 ]
