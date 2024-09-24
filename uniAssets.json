@@ -437,5 +437,13 @@
       "address": "0x8e42fe26fc1697f57076c9f2a8d1ff69cf7f6fda",
       "chainId": 1,
       "price": 0.000003148
+  },
+  {
+      "name": "Cheems",
+      "symbol": "CHEEMS",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33145.png",
+      "address": "0x41b1f9dcd5923c9542b6957b9b72169595acbc5c",
+      "chainId": 1,
+      "price": 0.00000001287
   }
 ]
