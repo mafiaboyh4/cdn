@@ -445,5 +445,13 @@
       "address": "0x41b1f9dcd5923c9542b6957b9b72169595acbc5c",
       "chainId": 1,
       "price": 0.00000001287
+  },
+  {
+      "name": "Mars",
+      "symbol": "MARS",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33162.png",
+      "address": "0xb8d6196d71cdd7d90a053a7769a077772aaac464",
+      "chainId": 1,
+      "price": 0.00003926
   }
 ]
