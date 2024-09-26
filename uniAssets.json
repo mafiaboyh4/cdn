@@ -453,5 +453,12 @@
       "address": "0xb8d6196d71cdd7d90a053a7769a077772aaac464",
       "chainId": 1,
       "price": 0.00003926
+  },{
+      "name": "laikaCTO",
+      "symbol": "LAIKA",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33180.png",
+      "address": "0x4cd27e18757baa3a4fe7b0ab7db083002637a6c5",
+      "chainId": 1,
+      "price": 0.01489
   }
 ]
