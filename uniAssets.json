@@ -478,11 +478,11 @@
   "price": 0.0000004048
 },
 {
-  "name": "GOAT",
-  "symbol": "GOAT",
-  "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33202.png",
-  "address": "0x119533669866cFC69CbC41DD77db7e634B92c0a7",
-  "chainId": 1,
-  "price": 0.0002734
+    "name": "GOAT",
+    "symbol": "GOAT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33202.png",
+    "address": "0x119533669866cFC69CbC41DD77db7e634B92c0a7",
+    "chainId": 1,
+    "price": 0.0002734
 }
 ]
