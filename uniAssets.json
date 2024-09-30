@@ -492,5 +492,12 @@
     "address": "0x0dA2082905583cEdFfFd4847879d0F1Cf3d25C36",
     "chainId": 1,
     "price": 0.00001737
+},{
+    "name": "Changpeng Zhao (cz.wtf)",
+    "symbol": "CZ",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33205.png",
+    "address": "0x4444a0634b0829e0a38F59FE2cf2d5eB07748563",
+    "chainId": 1,
+    "price": 0.00001561
 }
 ]
