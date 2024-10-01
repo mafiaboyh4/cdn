@@ -1,0 +1,7 @@
+{
+    "url": "https://binance.com/",
+    "name":"binance",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/270.png",
+    "termsOfUseUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/terms-of-use.txt",
+    "privacyPolicyUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/privacy-policy.txt"
+}
