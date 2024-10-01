@@ -499,5 +499,12 @@
     "address": "0x4444a0634b0829e0a38F59FE2cf2d5eB07748563",
     "chainId": 1,
     "price": 0.00001561
+} ,{
+    "name": "Terry The Disgruntled Turtle",
+    "symbol": "TERRY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33255.png",
+    "address": "0xdb75d7d9174d22043b1fa65bf6452ac375b9a4bf",
+    "chainId": 1,
+    "price": 0.00000002243
 }
 ]
