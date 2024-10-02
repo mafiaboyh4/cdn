@@ -499,12 +499,29 @@
     "address": "0x4444a0634b0829e0a38F59FE2cf2d5eB07748563",
     "chainId": 1,
     "price": 0.00001561
-} ,{
+} ,
+  {
     "name": "Terry The Disgruntled Turtle",
     "symbol": "TERRY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33255.png",
     "address": "0xdb75d7d9174d22043b1fa65bf6452ac375b9a4bf",
     "chainId": 1,
     "price": 0.00000002243
-}
+  },
+  {
+    "name": "Puppeth",
+    "symbol": "PUPPETH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33274.png",
+    "address": "0x6de73Ced5dd4c33235F9f4bF5dE47B5d33C6392a",
+    "chainId": 1,
+    "price": 0.01411
+  },
+  {
+    "name": "Cryptify AI",
+    "symbol": "CRAI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33273.png",
+    "address": "0x3F66aE0c8E9Fb57f661aF4Ba8C8445D36ec5d7F7",
+    "chainId": 1,
+    "price": 0.00367
+  }
 ]
