@@ -523,5 +523,13 @@
     "address": "0x3F66aE0c8E9Fb57f661aF4Ba8C8445D36ec5d7F7",
     "chainId": 1,
     "price": 0.00367
+  },
+  {
+    "name": "Izzy",
+    "symbol": "IZZY",
+    "logoURI": "https://assets.coingecko.com/coins/images/50493/standard/izzy200.jpg?1727941931",
+    "address": "0x6969f3a3754ab674b48b7829a8572360e98132ba",
+    "chainId": 1,
+    "price": 0.000009182334702912642
   }
 ]
