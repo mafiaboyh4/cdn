@@ -531,5 +531,13 @@
     "address": "0x6969f3a3754ab674b48b7829a8572360e98132ba",
     "chainId": 1,
     "price": 0.000009182334702912642
+  },
+  {
+    "name": "CSI888",
+    "symbol": "CSI",
+    "logoURI": "https://assets.coingecko.com/coins/images/50526/standard/CSI888.png?1728161142",
+    "address": "0x888c1a341ce9d9ae9c2d2a75a72a7f0d2551a2dc",
+    "chainId": 1,
+    "price": 0.005575
   }
 ]
