@@ -539,5 +539,29 @@
     "address": "0x888c1a341ce9d9ae9c2d2a75a72a7f0d2551a2dc",
     "chainId": 1,
     "price": 0.005575
+  },
+  {
+    "name": "Doggo Inu",
+    "symbol": "DOGGO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33353.png",
+    "address": "0x3739426e21D912B604C106f852d136bA58f61517",
+    "chainId": 1,
+    "price": 0.00000001016
+  },
+  {
+    "name": "MSTR2100",
+    "symbol": "MSTR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33356.png",
+    "address": "0x42069026EAC8Eee0Fd9b5f7aDFa4f6E6D69a2B39",
+    "chainId": 1,
+    "price": 0.05347
+  },
+  {
+    "name": "US Degen Index 6900",
+    "symbol": "DXY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33355.png",
+    "address": "0x6900f7b42fb4abb615c938db6a26d73a9afbed69",
+    "chainId": 1,
+    "price": 0.005204
   }
 ]
