@@ -563,5 +563,13 @@
     "address": "0x6900f7b42fb4abb615c938db6a26d73a9afbed69",
     "chainId": 1,
     "price": 0.005204
+  },
+  {
+    "name": "Fiona",
+    "symbol": "FIONA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33373.png",
+    "address": "0x7e7ef0ee0305c1c195fcae22fd7b207a813eef86",
+    "chainId": 1,
+    "price": 0.000004906
   }
 ]
