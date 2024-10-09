@@ -571,5 +571,12 @@
     "address": "0x7e7ef0ee0305c1c195fcae22fd7b207a813eef86",
     "chainId": 1,
     "price": 0.000004906
+  },{
+    "name": "ABE",
+    "symbol": "ABE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33380.png",
+    "address": "0xD0dFCA0B404E866Dc9A3038BD2A545c6735D9fA9",
+    "chainId": 1,
+    "price": 0.03485
   }
 ]
