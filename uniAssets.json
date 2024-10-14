@@ -571,5 +571,13 @@
     "address": "0x7e7ef0ee0305c1c195fcae22fd7b207a813eef86",
     "chainId": 1,
     "price": 0.000004906
+  },
+  {
+    "name": "JoyCat Coin",
+    "symbol": "JOYCAT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33426.png",
+    "address": "0xaaee85310ea1c7136eb1aa436f2a6a963be6e617",
+    "chainId": 1,
+    "price": 0.000000001306
   }
 ]
