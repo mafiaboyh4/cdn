@@ -571,6 +571,7 @@
     "address": "0x7e7ef0ee0305c1c195fcae22fd7b207a813eef86",
     "chainId": 1,
     "price": 0.000004906
+<<<<<<< HEAD
   },
   {
     "name": "JoyCat Coin",
@@ -579,5 +580,21 @@
     "address": "0xaaee85310ea1c7136eb1aa436f2a6a963be6e617",
     "chainId": 1,
     "price": 0.000000001306
+=======
+  },{
+    "name": "ABE",
+    "symbol": "ABE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33380.png",
+    "address": "0xD0dFCA0B404E866Dc9A3038BD2A545c6735D9fA9",
+    "chainId": 1,
+    "price": 0.03485
+  },{
+    "name": "Smiling Dolphin",
+    "symbol": "MIHARU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33412.png",
+    "address": "0x5981E98440E41fa993B26912B080922b8Ed023c3",
+    "chainId": 1,
+    "price": 0.01901
+>>>>>>> fde87f8ffcf4af6743fe45f7af4e0234b0030585
   }
 ]
