@@ -586,12 +586,29 @@
     "address": "0xD0dFCA0B404E866Dc9A3038BD2A545c6735D9fA9",
     "chainId": 1,
     "price": 0.03485
-  },{
+  },
+  {
     "name": "Smiling Dolphin",
     "symbol": "MIHARU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33412.png",
     "address": "0x5981E98440E41fa993B26912B080922b8Ed023c3",
     "chainId": 1,
     "price": 0.01901
+  },
+  {
+    "name": "Kabosu",
+    "symbol": "KABOSU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33499.png",
+    "address": "0xb3E41D6e0ea14b43BC5DE3C314A408af171b03dD",
+    "chainId": 1,
+    "price": 0.000008901
+  },
+  {
+    "name": "ROGER",
+    "symbol": "ROGER",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33490.png",
+    "address": "0x8b85CDDacfbd66b390BF3B43FF4Bd7F9AFA05DD4",
+    "chainId": 1,
+    "price": 0.000299
   }
 ]
