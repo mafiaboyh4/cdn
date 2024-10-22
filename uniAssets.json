@@ -610,5 +610,13 @@
     "address": "0x8b85CDDacfbd66b390BF3B43FF4Bd7F9AFA05DD4",
     "chainId": 1,
     "price": 0.000299
+  },
+  {
+    "name": "Janet",
+    "symbol": "JANET",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33559.png",
+    "address": "0xF63E309818E4EA13782678CE6C31C1234fa61809",
+    "chainId": 1,
+    "price": 0.01259
   }
 ]
