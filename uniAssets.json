@@ -618,5 +618,13 @@
     "address": "0xF63E309818E4EA13782678CE6C31C1234fa61809",
     "chainId": 1,
     "price": 0.01259
+  },
+  {
+    "name": "INFERNO",
+    "symbol": "INF",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33578.png",
+    "address": "0x00F116ac0c304C570daAA68FA6c30a86A04B5C5F",
+    "chainId": 1,
+    "price": 0.000002015
   }
 ]
